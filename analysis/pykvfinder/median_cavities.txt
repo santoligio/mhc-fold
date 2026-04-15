@@ -1,0 +1,123 @@
+--------------------------------------------------
+Class: 2L
+Median volume: 111.460
+Rank 1: 3it8_MHC_groove_aligned  |  Volume: 111.460  |  Distance to median: 0.000
+--------------------------------------------------
+--------------------------------------------------
+Class: CD SC
+Median volume: 1932.120
+Rank 1: 4ono_MHC_groove_aligned  |  Volume: 1932.120  |  Distance to median: 0.000
+--------------------------------------------------
+Rank 2: 3ov6_MHC_groove_aligned  |  Volume: 1947.020  |  Distance to median: 14.900
+--------------------------------------------------
+Rank 3: 3s6c_MHC_groove_aligned  |  Volume: 1724.760  |  Distance to median: 207.360
+--------------------------------------------------
+--------------------------------------------------
+Class: CD chimera
+Median volume: 1563.085
+Rank 1: 5c9j_MHC_groove_aligned  |  Volume: 1632.310  |  Distance to median: 69.225
+--------------------------------------------------
+Rank 2: 4mng_MHC_groove_aligned  |  Volume: 1493.860  |  Distance to median: 69.225
+--------------------------------------------------
+Rank 3: 7mxf_MHC_groove_aligned  |  Volume: 1476.140  |  Distance to median: 86.945
+--------------------------------------------------
+--------------------------------------------------
+Class: CD1
+Median volume: 1622.160
+Rank 1: 8sgb_MHC_groove_aligned  |  Volume: 1622.160  |  Distance to median: 0.000
+--------------------------------------------------
+Rank 2: 7kp1_MHC_groove_aligned  |  Volume: 1624.970  |  Distance to median: 2.810
+--------------------------------------------------
+Rank 3: 7ryo_MHC_groove_aligned  |  Volume: 1632.960  |  Distance to median: 10.800
+--------------------------------------------------
+--------------------------------------------------
+Class: EPCR
+Median volume: 1478.950
+Rank 1: 7q5d_MHC_groove_aligned  |  Volume: 1471.820  |  Distance to median: 7.130
+--------------------------------------------------
+Rank 2: 1lqv_MHC_groove_aligned  |  Volume: 1486.080  |  Distance to median: 7.130
+--------------------------------------------------
+Rank 3: 7oks_MHC_groove_aligned  |  Volume: 1455.840  |  Distance to median: 23.110
+--------------------------------------------------
+--------------------------------------------------
+Class: FcRn
+Median volume: 158.005
+Rank 1: 6c99_MHC_groove_aligned  |  Volume: 149.470  |  Distance to median: 8.535
+--------------------------------------------------
+Rank 2: 6wna_MHC_groove_aligned  |  Volume: 166.540  |  Distance to median: 8.535
+--------------------------------------------------
+Rank 3: 6c97_MHC_groove_aligned  |  Volume: 167.830  |  Distance to median: 9.825
+--------------------------------------------------
+--------------------------------------------------
+Class: HFE
+Median volume: 285.015
+Rank 1: 1a6z_MHC_groove_aligned  |  Volume: 273.890  |  Distance to median: 11.125
+--------------------------------------------------
+Rank 2: 1de4_MHC_groove_aligned  |  Volume: 296.140  |  Distance to median: 11.125
+--------------------------------------------------
+--------------------------------------------------
+Class: HLA Class Ia
+Median volume: 853.955
+Rank 1: 6amt_MHC_groove_aligned  |  Volume: 853.850  |  Distance to median: 0.105
+--------------------------------------------------
+Rank 2: 3dx8_MHC_groove_aligned  |  Volume: 854.060  |  Distance to median: 0.105
+--------------------------------------------------
+Rank 3: 7wt5_MHC_groove_aligned  |  Volume: 853.630  |  Distance to median: 0.325
+--------------------------------------------------
+--------------------------------------------------
+Class: HLA Class Ia SC
+Median volume: 723.275
+Rank 1: 7sr0_MHC_groove_aligned  |  Volume: 736.340  |  Distance to median: 13.065
+--------------------------------------------------
+Rank 2: 7sr4_MHC_groove_aligned  |  Volume: 710.210  |  Distance to median: 13.065
+--------------------------------------------------
+Rank 3: 6apn_MHC_groove_aligned  |  Volume: 699.410  |  Distance to median: 23.865
+--------------------------------------------------
+--------------------------------------------------
+Class: HLA Class Ib
+Median volume: 1035.290
+Rank 1: 5w1w_MHC_groove_aligned  |  Volume: 1035.290  |  Distance to median: 0.000
+--------------------------------------------------
+Rank 2: 6aee_MHC_groove_aligned  |  Volume: 1042.420  |  Distance to median: 7.130
+--------------------------------------------------
+Rank 3: 6ghn_MHC_groove_aligned  |  Volume: 1021.030  |  Distance to median: 14.260
+--------------------------------------------------
+--------------------------------------------------
+Class: MIC
+Median volume: 396.360
+Rank 1: 7fi7_MHC_groove_aligned  |  Volume: 397.010  |  Distance to median: 0.650
+--------------------------------------------------
+Rank 2: 1je6_MHC_groove_aligned  |  Volume: 395.710  |  Distance to median: 0.650
+--------------------------------------------------
+Rank 3: 7fi9_MHC_groove_aligned  |  Volume: 413.860  |  Distance to median: 17.500
+--------------------------------------------------
+--------------------------------------------------
+Class: MR1
+Median volume: 645.620
+Rank 1: 4gup_MHC_groove_aligned  |  Volume: 645.620  |  Distance to median: 0.000
+--------------------------------------------------
+Rank 2: 6puh_MHC_groove_aligned  |  Volume: 649.080  |  Distance to median: 3.460
+--------------------------------------------------
+Rank 3: 5u17_MHC_groove_aligned  |  Volume: 640.440  |  Distance to median: 5.180
+--------------------------------------------------
+--------------------------------------------------
+Class: MR1 SC
+Median volume: 878.255
+Rank 1: 7rno_MHC_groove_aligned  |  Volume: 973.510  |  Distance to median: 95.255
+--------------------------------------------------
+Rank 2: 8bp6_MHC_groove_aligned  |  Volume: 783.000  |  Distance to median: 95.255
+--------------------------------------------------
+--------------------------------------------------
+Class: UL18
+Median volume: 1300.970
+Rank 1: 3d2u_MHC_groove_aligned  |  Volume: 1300.970  |  Distance to median: 0.000
+--------------------------------------------------
+--------------------------------------------------
+Class: ZAG
+Median volume: 885.600
+Rank 1: 1t7y_MHC_groove_aligned  |  Volume: 879.340  |  Distance to median: 6.260
+--------------------------------------------------
+Rank 2: 1t7z_MHC_groove_aligned  |  Volume: 891.860  |  Distance to median: 6.260
+--------------------------------------------------
+Rank 3: 1t7v_MHC_groove_aligned  |  Volume: 892.730  |  Distance to median: 7.130
+--------------------------------------------------

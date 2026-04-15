@@ -1,0 +1,42 @@
+# =========================
+# Structure files
+# =========================
+*.pdb
+*.cif
+
+# Regex
+mhc_all-vs_all*
+*aln*
+*part*
+*matrix*
+*~
+*backup*
+*#*
+
+# =========================
+# Python
+# =========================
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.env/
+.venv/
+
+# =========================
+# Plots and figures
+# =========================
+*.png
+*.jpg
+*.jpeg
+*.svg
+*.pdf
+*.html
+
+# =========================
+# Specific output folders
+# =========================
+analysis/pykvfinder/pdb/pdb_cavities/
+analysis/pykvfinder/afdb/afdb_cavities/

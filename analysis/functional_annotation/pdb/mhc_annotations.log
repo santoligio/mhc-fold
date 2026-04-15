@@ -1,0 +1,2716 @@
+2026-02-05 16:10:45,890 [INFO] 1685 primary entries loaded
+2026-02-05 16:10:45,891 [INFO] [1/1685] Processing 8RLV chain A
+2026-02-05 16:10:45,891 [INFO] [2/1685] Processing 3X11 chain A
+2026-02-05 16:10:45,891 [INFO] [3/1685] Processing 1QSE chain A
+2026-02-05 16:10:45,891 [INFO] [4/1685] Processing 3BZF chain A
+2026-02-05 16:10:45,891 [INFO] [5/1685] Processing 7P49 chain A
+2026-02-05 16:10:45,891 [INFO] [6/1685] Processing 1BD2 chain A
+2026-02-05 16:10:45,892 [INFO] [7/1685] Processing 7LFZ chain A
+2026-02-05 16:10:45,892 [INFO] [8/1685] Processing 5JZI chain A
+2026-02-05 16:10:45,892 [INFO] [9/1685] Processing 7NDT chain AAA
+2026-02-05 16:10:45,892 [INFO] [10/1685] Processing 7BH8 chain A
+2026-02-05 16:10:45,892 [INFO] [11/1685] Processing 3X12 chain A
+2026-02-05 16:10:45,892 [INFO] [12/1685] Processing 6J1W chain A
+2026-02-05 16:10:45,892 [INFO] [13/1685] Processing 7EJL chain A
+2026-02-05 16:10:45,892 [INFO] [14/1685] Processing 3VXU chain A
+2026-02-05 16:10:45,892 [INFO] [15/1685] Processing 7TUD chain A
+2026-02-05 16:10:45,893 [INFO] [16/1685] Processing 1P7Q chain A
+2026-02-05 16:10:57,576 [INFO] [17/1685] Processing 5EO1 chain A
+2026-02-05 16:10:57,582 [INFO] [18/1685] Processing 6P27 chain A
+2026-02-05 16:10:57,588 [INFO] [19/1685] Processing 3GSN chain H
+2026-02-05 16:10:57,697 [INFO] [20/1685] Processing 1T22 chain A
+2026-02-05 16:10:57,800 [INFO] [21/1685] Processing 2D31 chain A
+2026-02-05 16:10:57,913 [INFO] [22/1685] Processing 1T1Y chain A
+2026-02-05 16:10:57,989 [INFO] [23/1685] Processing 3FQU chain A
+2026-02-05 16:10:58,068 [INFO] [24/1685] Processing 7OW6 chain A
+2026-02-05 16:10:58,546 [WARNING] [UniProt:D5H3J5] recommendedName missing
+2026-02-05 16:10:58,546 [WARNING] [UniProt:D5H3J5] used submissionNames
+2026-02-05 16:10:58,547 [INFO] [25/1685] Processing 7UM2 chain A
+2026-02-05 16:10:58,665 [INFO] [26/1685] Processing 8ZV9 chain A
+2026-02-05 16:10:58,974 [INFO] [27/1685] Processing 5VVP chain A
+2026-02-05 16:10:59,011 [INFO] [28/1685] Processing 6ZKW chain A
+2026-02-05 16:10:59,586 [WARNING] [UniProt:A0A5H2UYS3] recommendedName missing
+2026-02-05 16:10:59,586 [WARNING] [UniProt:A0A5H2UYS3] used submissionNames
+2026-02-05 16:10:59,587 [INFO] [29/1685] Processing 7LG0 chain A
+2026-02-05 16:11:01,516 [WARNING] [SIFTS:6j1w] attempt 1/3 failed: HTTPSConnectionPool(host='www.ebi.ac.uk', port=443): Read timed out. (read timeout=10)
+2026-02-05 16:11:01,517 [WARNING] [SIFTS:3x11] attempt 1/3 failed: HTTPSConnectionPool(host='www.ebi.ac.uk', port=443): Read timed out. (read timeout=10)
+2026-02-05 16:11:01,527 [WARNING] [SIFTS:7lfz] attempt 1/3 failed: HTTPSConnectionPool(host='www.ebi.ac.uk', port=443): Read timed out. (read timeout=10)
+2026-02-05 16:11:09,024 [INFO] [30/1685] Processing 1HHK chain A
+2026-02-05 16:11:09,031 [INFO] [31/1685] Processing 5XOV chain A
+2026-02-05 16:11:09,038 [INFO] [32/1685] Processing 1T1Z chain A
+2026-02-05 16:11:09,159 [INFO] [33/1685] Processing 7ZUC chain A
+2026-02-05 16:11:09,768 [WARNING] [UniProt:Q53Z42] recommendedName missing
+2026-02-05 16:11:09,768 [WARNING] [UniProt:Q53Z42] used submissionNames
+2026-02-05 16:11:09,768 [INFO] [34/1685] Processing 7SIS chain A
+2026-02-05 16:11:09,834 [INFO] [35/1685] Processing 5TXS chain A
+2026-02-05 16:11:09,843 [INFO] [36/1685] Processing 5VWD chain A
+2026-02-05 16:11:09,857 [WARNING] [UniProt:A0A7T3RIT5] recommendedName missing
+2026-02-05 16:11:09,858 [WARNING] [UniProt:A0A7T3RIT5] used submissionNames
+2026-02-05 16:11:09,858 [INFO] [37/1685] Processing 6Z9W chain A
+2026-02-05 16:11:10,531 [WARNING] [UniProt:I3ZN84] recommendedName missing
+2026-02-05 16:11:10,531 [WARNING] [UniProt:I3ZN84] used submissionNames
+2026-02-05 16:11:10,532 [INFO] [38/1685] Processing 5WWU chain A
+2026-02-05 16:11:10,711 [INFO] [39/1685] Processing 8YE4 chain A
+2026-02-05 16:11:11,036 [INFO] [40/1685] Processing 7NME chain A
+2026-02-05 16:11:12,660 [WARNING] [UniProt:A0A583ZB34] recommendedName missing
+2026-02-05 16:11:12,660 [WARNING] [UniProt:A0A583ZB34] used submissionNames
+2026-02-05 16:11:12,660 [INFO] [41/1685] Processing 3VXS chain A
+2026-02-05 16:11:12,910 [INFO] [42/1685] Processing 5VWF chain A
+2026-02-05 16:11:15,005 [INFO] [43/1685] Processing 6P23 chain A
+2026-02-05 16:11:15,078 [INFO] [44/1685] Processing 4F7P chain A
+2026-02-05 16:11:15,082 [INFO] [45/1685] Processing 5HHQ chain A
+2026-02-05 16:11:20,356 [WARNING] [UniProt:O78126] recommendedName missing
+2026-02-05 16:11:20,357 [WARNING] [UniProt:O78126] used submissionNames
+2026-02-05 16:11:20,357 [INFO] [46/1685] Processing 7BBG chain A
+2026-02-05 16:11:20,501 [INFO] [47/1685] Processing 7RTD chain A
+2026-02-05 16:11:20,507 [INFO] [48/1685] Processing 2ESV chain A
+2026-02-05 16:11:20,965 [WARNING] [UniProt:Q861F7] recommendedName missing
+2026-02-05 16:11:20,966 [WARNING] [UniProt:Q861F7] used submissionNames
+2026-02-05 16:11:20,966 [INFO] [49/1685] Processing 4NO0 chain A
+2026-02-05 16:11:21,059 [WARNING] [UniProt:A0A140T913] recommendedName missing
+2026-02-05 16:11:21,060 [WARNING] [UniProt:A0A140T913] used submissionNames
+2026-02-05 16:11:21,060 [INFO] [50/1685] Processing 5HGB chain A
+2026-02-05 16:11:21,280 [INFO] [51/1685] Processing 7NMD chain A
+2026-02-05 16:11:21,965 [WARNING] [UniProt:Q6IVJ7] recommendedName missing
+2026-02-05 16:11:21,966 [WARNING] [UniProt:Q6IVJ7] used submissionNames
+2026-02-05 16:11:21,966 [INFO] [52/1685] Processing 1A9E chain A
+2026-02-05 16:11:21,984 [INFO] [53/1685] Processing 7N6E chain A
+2026-02-05 16:11:22,220 [WARNING] [UniProt:A0A5H2UYS3] recommendedName missing
+2026-02-05 16:11:22,221 [WARNING] [UniProt:A0A5H2UYS3] used submissionNames
+2026-02-05 16:11:22,221 [INFO] [54/1685] Processing 7U1R chain A
+2026-02-05 16:11:24,081 [INFO] [55/1685] Processing 7P4B chain A
+2026-02-05 16:11:24,384 [INFO] [56/1685] Processing 7JYX chain A
+2026-02-05 16:11:26,435 [INFO] [57/1685] Processing 1Q94 chain A
+2026-02-05 16:11:26,525 [INFO] [58/1685] Processing 2F54 chain A
+2026-02-05 16:11:26,932 [INFO] [59/1685] Processing 4QOK chain A
+2026-02-05 16:11:28,197 [INFO] [60/1685] Processing 5XOT chain A
+2026-02-05 16:11:28,208 [INFO] [61/1685] Processing 1T21 chain A
+2026-02-05 16:11:31,567 [WARNING] [UniProt:A0A140T913] recommendedName missing
+2026-02-05 16:11:31,568 [WARNING] [UniProt:A0A140T913] used submissionNames
+2026-02-05 16:11:31,724 [WARNING] [UniProt:Q53Z42] recommendedName missing
+2026-02-05 16:11:31,758 [INFO] [62/1685] Processing 3RL2 chain A
+2026-02-05 16:11:31,759 [WARNING] [UniProt:Q53Z42] used submissionNames
+2026-02-05 16:11:31,759 [INFO] [63/1685] Processing 7TR4 chain A
+2026-02-05 16:11:31,837 [INFO] [64/1685] Processing 6MTM chain A
+2026-02-05 16:11:32,394 [INFO] [65/1685] Processing 7MJA chain A
+2026-02-05 16:11:32,525 [WARNING] [UniProt:A0A5H2UYS3] recommendedName missing
+2026-02-05 16:11:32,526 [WARNING] [UniProt:A0A5H2UYS3] used submissionNames
+2026-02-05 16:11:32,526 [INFO] [66/1685] Processing 3GSW chain A
+2026-02-05 16:11:32,767 [INFO] [67/1685] Processing 1AKJ chain A
+2026-02-05 16:11:33,420 [WARNING] [UniProt:Q53Z42] recommendedName missing
+2026-02-05 16:11:33,421 [WARNING] [UniProt:Q53Z42] used submissionNames
+2026-02-05 16:11:33,421 [INFO] [68/1685] Processing 1QSF chain A
+2026-02-05 16:11:33,659 [WARNING] [UniProt:A0A140T913] recommendedName missing
+2026-02-05 16:11:33,659 [WARNING] [UniProt:A0A140T913] used submissionNames
+2026-02-05 16:11:33,659 [INFO] [69/1685] Processing 5W6A chain A
+2026-02-05 16:11:33,737 [INFO] [70/1685] Processing 3FQT chain A
+2026-02-05 16:11:35,429 [INFO] [71/1685] Processing 4F7M chain A
+2026-02-05 16:11:35,646 [WARNING] [UniProt:A0A5H2UYS3] recommendedName missing
+2026-02-05 16:11:35,646 [WARNING] [UniProt:A0A5H2UYS3] used submissionNames
+2026-02-05 16:11:35,646 [INFO] [72/1685] Processing 1HHH chain A
+2026-02-05 16:11:37,873 [INFO] [73/1685] Processing 1T1X chain A
+2026-02-05 16:11:37,967 [INFO] [74/1685] Processing 8QFY chain AAA
+2026-02-05 16:11:39,952 [INFO] [75/1685] Processing 7NDQ chain AAA
+2026-02-05 16:11:41,850 [INFO] [76/1685] Processing 6W51 chain A
+2026-02-05 16:11:42,948 [WARNING] [UniProt:A0A140T9X5] recommendedName missing
+2026-02-05 16:11:42,948 [WARNING] [UniProt:A0A140T9X5] used submissionNames
+2026-02-05 16:11:42,949 [INFO] [77/1685] Processing 8EN8 chain A
+2026-02-05 16:11:43,268 [INFO] [78/1685] Processing 6J2A chain A
+2026-02-05 16:11:43,665 [WARNING] [SIFTS:1t21] attempt 1/3 failed: HTTPSConnectionPool(host='www.ebi.ac.uk', port=443): Read timed out. (read timeout=10)
+2026-02-05 16:11:43,791 [WARNING] [UniProt:A0A5H2UYS3] recommendedName missing
+2026-02-05 16:11:43,791 [WARNING] [UniProt:A0A5H2UYS3] used submissionNames
+2026-02-05 16:11:43,792 [INFO] [79/1685] Processing 7S8S chain A
+2026-02-05 16:11:44,034 [INFO] [80/1685] Processing 5WJL chain A
+2026-02-05 16:11:44,859 [INFO] [81/1685] Processing 7S7E chain A
+2026-02-05 16:11:45,012 [INFO] [82/1685] Processing 6UZ1 chain A
+2026-02-05 16:11:45,248 [INFO] [83/1685] Processing 7WJ2 chain A
+2026-02-05 16:11:45,799 [INFO] [84/1685] Processing 3D3V chain A
+2026-02-05 16:11:46,905 [INFO] [85/1685] Processing 7F4W chain A
+2026-02-05 16:11:47,084 [INFO] [86/1685] Processing 3I6L chain D
+2026-02-05 16:11:47,506 [INFO] [87/1685] Processing 1XR9 chain A
+2026-02-05 16:11:49,366 [INFO] [88/1685] Processing 2XPG chain A
+2026-02-05 16:11:49,378 [INFO] [89/1685] Processing 3PWP chain A
+2026-02-05 16:11:53,086 [WARNING] [UniProt:A0A140T913] recommendedName missing
+2026-02-05 16:11:53,086 [WARNING] [UniProt:A0A140T913] used submissionNames
+2026-02-05 16:11:53,087 [INFO] [90/1685] Processing 6J1V chain A
+2026-02-05 16:11:54,728 [INFO] [91/1685] Processing 3KXF chain A
+2026-02-05 16:11:54,971 [WARNING] [UniProt:U5YJK1] recommendedName missing
+2026-02-05 16:11:54,972 [WARNING] [UniProt:U5YJK1] used submissionNames
+2026-02-05 16:11:54,972 [INFO] [92/1685] Processing 1I4F chain A
+2026-02-05 16:11:55,504 [INFO] [93/1685] Processing 8RYO chain A
+2026-02-05 16:11:56,208 [WARNING] [UniProt:A0A140T913] recommendedName missing
+2026-02-05 16:11:56,209 [WARNING] [UniProt:A0A140T913] used submissionNames
+2026-02-05 16:11:56,209 [INFO] [94/1685] Processing 6MT3 chain A
+2026-02-05 16:11:56,277 [INFO] [95/1685] Processing 3V5K chain A
+2026-02-05 16:11:56,469 [WARNING] [UniProt:A0A858LG55] recommendedName missing
+2026-02-05 16:11:56,470 [WARNING] [UniProt:A0A858LG55] used submissionNames
+2026-02-05 16:11:56,470 [INFO] [96/1685] Processing 6UK2 chain A
+2026-02-05 16:11:57,089 [INFO] [97/1685] Processing 7KGO chain A
+2026-02-05 16:11:57,230 [INFO] [98/1685] Processing 7RTR chain A
+2026-02-05 16:11:57,289 [INFO] [99/1685] Processing 3WLB chain A
+2026-02-05 16:11:58,459 [WARNING] [UniProt:F4NBT2] recommendedName missing
+2026-02-05 16:11:58,459 [WARNING] [UniProt:F4NBT2] used submissionNames
+2026-02-05 16:11:58,460 [INFO] [100/1685] Processing 8RBV chain A
+2026-02-05 16:11:58,471 [WARNING] [UniProt:D9UAY1] recommendedName missing
+2026-02-05 16:11:58,472 [WARNING] [UniProt:D9UAY1] used submissionNames
+2026-02-05 16:11:58,472 [INFO] [101/1685] Processing 6UJ7 chain A
+2026-02-05 16:11:58,584 [INFO] [102/1685] Processing 6GHN chain A
+2026-02-05 16:11:59,702 [INFO] [103/1685] Processing 1T1W chain A
+2026-02-05 16:12:00,808 [INFO] [104/1685] Processing 7JYU chain A
+2026-02-05 16:12:00,863 [INFO] [105/1685] Processing 8XKC chain A
+2026-02-05 16:12:04,294 [WARNING] [UniProt:A0A173ADK6] recommendedName missing
+2026-02-05 16:12:04,294 [WARNING] [UniProt:A0A173ADK6] used submissionNames
+2026-02-05 16:12:04,294 [INFO] [106/1685] Processing 6VM8 chain A
+2026-02-05 16:12:06,162 [INFO] [107/1685] Processing 6ZKZ chain A
+2026-02-05 16:12:06,417 [INFO] [108/1685] Processing 4QRR chain A
+2026-02-05 16:12:07,660 [INFO] [109/1685] Processing 3VXP chain A
+2026-02-05 16:12:07,662 [WARNING] [UniProt:U5YJP1] recommendedName missing
+2026-02-05 16:12:07,662 [WARNING] [UniProt:U5YJP1] used submissionNames
+2026-02-05 16:12:07,662 [INFO] [110/1685] Processing 5WSH chain A
+2026-02-05 16:12:07,713 [INFO] [111/1685] Processing 5WWJ chain A
+2026-02-05 16:12:08,297 [WARNING] [UniProt:Q861F7] recommendedName missing
+2026-02-05 16:12:08,297 [WARNING] [UniProt:Q861F7] used submissionNames
+2026-02-05 16:12:08,297 [INFO] [112/1685] Processing 5VZ5 chain A
+2026-02-05 16:12:08,422 [WARNING] [UniProt:Q53Z42] recommendedName missing
+2026-02-05 16:12:08,422 [WARNING] [UniProt:Q53Z42] used submissionNames
+2026-02-05 16:12:08,423 [INFO] [113/1685] Processing 7NUI chain A
+2026-02-05 16:12:08,732 [INFO] [114/1685] Processing 5HHN chain A
+2026-02-05 16:12:09,692 [WARNING] [UniProt:Q53Z42] recommendedName missing
+2026-02-05 16:12:09,693 [WARNING] [UniProt:Q53Z42] used submissionNames
+2026-02-05 16:12:09,693 [INFO] [115/1685] Processing 1S8D chain A
+2026-02-05 16:12:09,934 [INFO] [116/1685] Processing 7RK7 chain A
+2026-02-05 16:12:10,964 [WARNING] [SIFTS:8ryo] attempt 1/3 failed: HTTPSConnectionPool(host='www.ebi.ac.uk', port=443): Read timed out. (read timeout=10)
+2026-02-05 16:12:11,120 [INFO] [117/1685] Processing 4JFP chain A
+2026-02-05 16:12:11,990 [WARNING] [UniProt:A0A5H2UYS3] recommendedName missing
+2026-02-05 16:12:11,991 [WARNING] [UniProt:A0A5H2UYS3] used submissionNames
+2026-02-05 16:12:11,991 [INFO] [118/1685] Processing 6ZKY chain A
+2026-02-05 16:12:12,065 [WARNING] [UniProt:A0A0G2JPD3] recommendedName missing
+2026-02-05 16:12:12,066 [WARNING] [UniProt:A0A0G2JPD3] used submissionNames
+2026-02-05 16:12:12,066 [INFO] [119/1685] Processing 8I5D chain H
+2026-02-05 16:12:13,921 [WARNING] [SIFTS:6uj7] attempt 1/3 failed: HTTPSConnectionPool(host='www.ebi.ac.uk', port=443): Read timed out. (read timeout=10)
+2026-02-05 16:12:14,053 [ERROR] [ERROR] [7NUI:A] no compatible UniProt mapping
+2026-02-05 16:12:14,054 [INFO] [120/1685] Processing 1DUY chain A
+2026-02-05 16:12:15,493 [WARNING] [UniProt:A0A140T913] recommendedName missing
+2026-02-05 16:12:15,494 [WARNING] [UniProt:A0A140T913] used submissionNames
+2026-02-05 16:12:15,494 [INFO] [121/1685] Processing 3UTT chain A
+2026-02-05 16:12:17,495 [INFO] [122/1685] Processing 7PBE chain A
+2026-02-05 16:12:17,827 [INFO] [123/1685] Processing 3H9S chain A
+2026-02-05 16:12:19,100 [INFO] [124/1685] Processing 4O2F chain A
+2026-02-05 16:12:19,145 [INFO] [125/1685] Processing 1A9B chain A
+2026-02-05 16:12:19,148 [INFO] [126/1685] Processing 6ZKX chain A
+2026-02-05 16:12:20,086 [INFO] [127/1685] Processing 1YDP chain A
+2026-02-05 16:12:20,186 [INFO] [128/1685] Processing 7EJM chain A
+2026-02-05 16:12:21,142 [INFO] [129/1685] Processing 3V5D chain A
+2026-02-05 16:12:21,357 [INFO] [130/1685] Processing 3QFJ chain A
+2026-02-05 16:12:22,581 [INFO] [131/1685] Processing 2NX5 chain A
+2026-02-05 16:12:23,269 [WARNING] [UniProt:U5YJJ6] recommendedName missing
+2026-02-05 16:12:23,269 [WARNING] [UniProt:U5YJJ6] used submissionNames
+2026-02-05 16:12:23,269 [INFO] [132/1685] Processing 6ULI chain A
+2026-02-05 16:12:23,319 [INFO] [133/1685] Processing 7LG2 chain A
+2026-02-05 16:12:24,410 [INFO] [134/1685] Processing 1CG9 chain A
+2026-02-05 16:12:25,523 [INFO] [135/1685] Processing 6GGM chain A
+2026-02-05 16:12:26,912 [INFO] [136/1685] Processing 5ENW chain A
+2026-02-05 16:12:27,344 [INFO] [137/1685] Processing 7S8Q chain A
+2026-02-05 16:12:29,308 [INFO] [138/1685] Processing 3WL9 chain A
+2026-02-05 16:12:29,665 [WARNING] [UniProt:A0A140T913] recommendedName missing
+2026-02-05 16:12:29,666 [WARNING] [UniProt:A0A140T913] used submissionNames
+2026-02-05 16:12:29,666 [INFO] [139/1685] Processing 1S9Y chain A
+2026-02-05 16:12:30,497 [INFO] [140/1685] Processing 2CLR chain A
+2026-02-05 16:12:30,508 [INFO] [141/1685] Processing 5IUE chain A
+2026-02-05 16:12:31,168 [INFO] [142/1685] Processing 3MGT chain A
+2026-02-05 16:12:32,149 [WARNING] [UniProt:A0A5H2UYS3] recommendedName missing
+2026-02-05 16:12:32,151 [WARNING] [UniProt:A0A5H2UYS3] used submissionNames
+2026-02-05 16:12:32,151 [INFO] [143/1685] Processing 5F9J chain A
+2026-02-05 16:12:32,280 [INFO] [144/1685] Processing 3OX8 chain A
+2026-02-05 16:12:32,830 [INFO] [145/1685] Processing 1E27 chain A
+2026-02-05 16:12:33,989 [INFO] [146/1685] Processing 3FT2 chain A
+2026-02-05 16:12:34,531 [WARNING] [UniProt:A0A140T913] recommendedName missing
+2026-02-05 16:12:34,532 [WARNING] [UniProt:A0A140T913] used submissionNames
+2026-02-05 16:12:34,533 [INFO] [147/1685] Processing 3FQW chain A
+2026-02-05 16:12:34,586 [INFO] [148/1685] Processing 1T20 chain A
+2026-02-05 16:12:35,866 [INFO] [149/1685] Processing 3C9N chain A
+2026-02-05 16:12:36,929 [INFO] [150/1685] Processing 4WU5 chain A
+2026-02-05 16:12:38,244 [WARNING] [UniProt:C1K0Y1] recommendedName missing
+2026-02-05 16:12:38,245 [WARNING] [UniProt:C1K0Y1] used submissionNames
+2026-02-05 16:12:38,245 [INFO] [151/1685] Processing 2BVP chain A
+2026-02-05 16:12:38,360 [INFO] [152/1685] Processing 4NQV chain A
+2026-02-05 16:12:38,536 [WARNING] [UniProt:U5YJK1] recommendedName missing
+2026-02-05 16:12:38,536 [WARNING] [UniProt:U5YJK1] used submissionNames
+2026-02-05 16:12:38,536 [INFO] [153/1685] Processing 7KGS chain A
+2026-02-05 16:12:40,752 [INFO] [154/1685] Processing 6AEE chain A
+2026-02-05 16:12:41,097 [INFO] [155/1685] Processing 6JP3 chain A
+2026-02-05 16:12:41,918 [INFO] [156/1685] Processing 5HGA chain A
+2026-02-05 16:12:42,640 [INFO] [157/1685] Processing 1HHG chain A
+2026-02-05 16:12:43,557 [WARNING] [UniProt:Q2LC95] recommendedName missing
+2026-02-05 16:12:43,558 [WARNING] [UniProt:Q2LC95] used submissionNames
+2026-02-05 16:12:43,558 [INFO] [158/1685] Processing 4JFF chain A
+2026-02-05 16:12:43,601 [INFO] [159/1685] Processing 7N2R chain A
+2026-02-05 16:12:44,278 [INFO] [160/1685] Processing 8ELG chain A
+2026-02-05 16:12:45,447 [INFO] [161/1685] Processing 5NMK chain A
+2026-02-05 16:12:45,951 [WARNING] [SIFTS:5iue] attempt 1/3 failed: HTTPSConnectionPool(host='www.ebi.ac.uk', port=443): Read timed out. (read timeout=10)
+2026-02-05 16:12:45,988 [INFO] [162/1685] Processing 1MHE chain A
+2026-02-05 16:12:47,277 [INFO] [163/1685] Processing 6GH4 chain A
+2026-02-05 16:12:48,380 [INFO] [164/1685] Processing 8RYM chain A
+2026-02-05 16:12:49,677 [INFO] [165/1685] Processing 5D9S chain A
+2026-02-05 16:12:49,741 [WARNING] [UniProt:Q861F7] recommendedName missing
+2026-02-05 16:12:49,742 [WARNING] [UniProt:Q861F7] used submissionNames
+2026-02-05 16:12:49,742 [INFO] [166/1685] Processing 7LG3 chain A
+2026-02-05 16:12:49,812 [INFO] [167/1685] Processing 6MPP chain A
+2026-02-05 16:12:49,950 [ERROR] [ERROR] [8ELG:A] no compatible UniProt mapping
+2026-02-05 16:12:49,951 [INFO] [168/1685] Processing 3VXN chain A
+2026-02-05 16:12:50,053 [WARNING] [SIFTS:1t20] attempt 1/3 failed: HTTPSConnectionPool(host='www.ebi.ac.uk', port=443): Read timed out. (read timeout=10)
+2026-02-05 16:12:52,078 [INFO] [169/1685] Processing 8RLT chain A
+2026-02-05 16:12:53,369 [INFO] [170/1685] Processing 8ENH chain A
+2026-02-05 16:12:54,099 [INFO] [171/1685] Processing 7N1B chain A
+2026-02-05 16:12:54,788 [WARNING] [UniProt:A3F718] recommendedName missing
+2026-02-05 16:12:54,788 [WARNING] [UniProt:A3F718] used submissionNames
+2026-02-05 16:12:54,789 [INFO] [172/1685] Processing 8RH6 chain A
+2026-02-05 16:12:55,069 [INFO] [173/1685] Processing 7SA2 chain A
+2026-02-05 16:12:56,559 [WARNING] [SIFTS:6jp3] attempt 1/3 failed: HTTPSConnectionPool(host='www.ebi.ac.uk', port=443): Read timed out. (read timeout=10)
+2026-02-05 16:12:56,934 [INFO] [174/1685] Processing 5IM7 chain A
+2026-02-05 16:12:58,609 [INFO] [175/1685] Processing 8RNG chain A
+2026-02-05 16:12:59,258 [INFO] [176/1685] Processing 6D2B chain A
+2026-02-05 16:12:59,824 [INFO] [177/1685] Processing 7S8F chain A
+2026-02-05 16:13:00,942 [WARNING] [UniProt:A0A140T913] recommendedName missing
+2026-02-05 16:13:00,943 [WARNING] [UniProt:A0A140T913] used submissionNames
+2026-02-05 16:13:00,943 [INFO] [178/1685] Processing 7KGP chain A
+2026-02-05 16:13:01,163 [INFO] [179/1685] Processing 1EEY chain A
+2026-02-05 16:13:01,419 [INFO] [180/1685] Processing 2X4N chain A
+2026-02-05 16:13:01,442 [INFO] [181/1685] Processing 7N1E chain A
+2026-02-05 16:13:01,443 [WARNING] [SIFTS:1mhe] attempt 1/3 failed: HTTPSConnectionPool(host='www.ebi.ac.uk', port=443): Read timed out. (read timeout=10)
+2026-02-05 16:13:03,408 [INFO] [182/1685] Processing 5W1V chain A
+2026-02-05 16:13:03,512 [INFO] [183/1685] Processing 8ROP chain A
+2026-02-05 16:13:04,593 [WARNING] [UniProt:F4NBT2] recommendedName missing
+2026-02-05 16:13:04,593 [WARNING] [UniProt:F4NBT2] used submissionNames
+2026-02-05 16:13:04,593 [INFO] [184/1685] Processing 8RHQ chain A
+2026-02-05 16:13:05,356 [WARNING] [UniProt:A0A140T913] recommendedName missing
+2026-02-05 16:13:05,357 [WARNING] [UniProt:A0A140T913] used submissionNames
+2026-02-05 16:13:05,357 [INFO] [185/1685] Processing 7S79 chain A
+2026-02-05 16:13:05,991 [WARNING] [UniProt:Q5S3G3] recommendedName missing
+2026-02-05 16:13:05,992 [WARNING] [UniProt:Q5S3G3] used submissionNames
+2026-02-05 16:13:05,992 [INFO] [186/1685] Processing 6P2S chain A
+2026-02-05 16:13:06,275 [WARNING] [UniProt:A0A140T913] recommendedName missing
+2026-02-05 16:13:06,276 [WARNING] [UniProt:A0A140T913] used submissionNames
+2026-02-05 16:13:06,276 [INFO] [187/1685] Processing 4F7T chain A
+2026-02-05 16:13:08,352 [INFO] [188/1685] Processing 5JHD chain A
+2026-02-05 16:13:09,796 [WARNING] [UniProt:S6AU73] recommendedName missing
+2026-02-05 16:13:09,796 [WARNING] [UniProt:S6AU73] used submissionNames
+2026-02-05 16:13:09,797 [INFO] [189/1685] Processing 7WT4 chain A
+2026-02-05 16:13:10,003 [INFO] [190/1685] Processing 1QVO chain A
+2026-02-05 16:13:10,665 [INFO] [191/1685] Processing 1QEW chain A
+2026-02-05 16:13:11,251 [INFO] [192/1685] Processing 4O2C chain A
+2026-02-05 16:13:12,129 [WARNING] [UniProt:Q861F7] recommendedName missing
+2026-02-05 16:13:12,130 [WARNING] [UniProt:Q861F7] used submissionNames
+2026-02-05 16:13:12,130 [INFO] [193/1685] Processing 2F53 chain A
+2026-02-05 16:13:12,589 [INFO] [194/1685] Processing 7S7F chain A
+2026-02-05 16:13:12,679 [WARNING] [UniProt:A0A140T913] recommendedName missing
+2026-02-05 16:13:12,679 [WARNING] [UniProt:A0A140T913] used submissionNames
+2026-02-05 16:13:12,680 [INFO] [195/1685] Processing 7KGQ chain A
+2026-02-05 16:13:12,822 [INFO] [196/1685] Processing 3O3B chain A
+2026-02-05 16:13:14,706 [WARNING] [UniProt:S6AU73] recommendedName missing
+2026-02-05 16:13:14,706 [WARNING] [UniProt:S6AU73] used submissionNames
+2026-02-05 16:13:14,707 [INFO] [197/1685] Processing 1S9X chain A
+2026-02-05 16:13:14,770 [INFO] [198/1685] Processing 2UWE chain A
+2026-02-05 16:13:16,804 [INFO] [199/1685] Processing 5HGD chain A
+2026-02-05 16:13:17,401 [INFO] [200/1685] Processing 6VB1 chain A
+2026-02-05 16:13:17,727 [INFO] [201/1685] Processing 1LP9 chain A
+2026-02-05 16:13:18,860 [WARNING] [SIFTS:5w1v] attempt 1/3 failed: HTTPSConnectionPool(host='www.ebi.ac.uk', port=443): Read timed out. (read timeout=10)
+2026-02-05 16:13:19,789 [INFO] [202/1685] Processing 8RYQ chain A
+2026-02-05 16:13:20,058 [WARNING] [SIFTS:8rhq] attempt 1/3 failed: HTTPSConnectionPool(host='www.ebi.ac.uk', port=443): Read timed out. (read timeout=10)
+2026-02-05 16:13:21,002 [WARNING] [UniProt:A0A5H2UYS3] recommendedName missing
+2026-02-05 16:13:21,002 [WARNING] [UniProt:A0A5H2UYS3] used submissionNames
+2026-02-05 16:13:21,003 [INFO] [203/1685] Processing 6TDQ chain A
+2026-02-05 16:13:21,431 [INFO] [204/1685] Processing 7RZD chain A
+2026-02-05 16:13:22,131 [INFO] [205/1685] Processing 3REW chain A
+2026-02-05 16:13:22,674 [INFO] [206/1685] Processing 5ISZ chain A
+2026-02-05 16:13:23,582 [INFO] [207/1685] Processing 7WKJ chain A
+2026-02-05 16:13:24,024 [INFO] [208/1685] Processing 6AVF chain H
+2026-02-05 16:13:24,277 [INFO] [209/1685] Processing 5WJN chain A
+2026-02-05 16:13:26,170 [INFO] [210/1685] Processing 8RYP chain A
+2026-02-05 16:13:28,147 [WARNING] [SIFTS:7kgq] attempt 1/3 failed: HTTPSConnectionPool(host='www.ebi.ac.uk', port=443): Read timed out. (read timeout=10)
+2026-02-05 16:13:28,260 [INFO] [211/1685] Processing 8XFZ chain A
+2026-02-05 16:13:28,590 [WARNING] [UniProt:F4NBQ8] recommendedName missing
+2026-02-05 16:13:28,590 [WARNING] [UniProt:F4NBQ8] used submissionNames
+2026-02-05 16:13:28,590 [INFO] [212/1685] Processing 6GL1 chain A
+2026-02-05 16:13:29,175 [INFO] [213/1685] Processing 6UZQ chain A
+2026-02-05 16:13:30,220 [WARNING] [SIFTS:2uwe] attempt 1/3 failed: HTTPSConnectionPool(host='www.ebi.ac.uk', port=443): Read timed out. (read timeout=10)
+2026-02-05 16:13:31,051 [WARNING] [UniProt:A0A583ZB34] recommendedName missing
+2026-02-05 16:13:31,052 [WARNING] [UniProt:A0A583ZB34] used submissionNames
+2026-02-05 16:13:31,053 [INFO] [214/1685] Processing 1QRN chain A
+2026-02-05 16:13:32,219 [WARNING] [UniProt:F6IQS1] recommendedName missing
+2026-02-05 16:13:32,219 [WARNING] [UniProt:F6IQS1] used submissionNames
+2026-02-05 16:13:32,219 [INFO] [215/1685] Processing 6MT4 chain A
+2026-02-05 16:13:32,230 [INFO] [216/1685] Processing 5EU3 chain A
+2026-02-05 16:13:32,881 [INFO] [217/1685] Processing 5FDW chain A
+2026-02-05 16:13:33,248 [WARNING] [UniProt:Q5S3G3] recommendedName missing
+2026-02-05 16:13:33,249 [WARNING] [UniProt:Q5S3G3] used submissionNames
+2026-02-05 16:13:33,249 [INFO] [218/1685] Processing 8E13 chain A
+2026-02-05 16:13:33,575 [INFO] [219/1685] Processing 6TDR chain A
+2026-02-05 16:13:34,129 [INFO] [220/1685] Processing 6UZS chain A
+2026-02-05 16:13:34,779 [WARNING] [UniProt:A0A6M6CC39] recommendedName missing
+2026-02-05 16:13:34,779 [WARNING] [UniProt:A0A6M6CC39] used submissionNames
+2026-02-05 16:13:34,780 [INFO] [221/1685] Processing 3FQX chain A
+2026-02-05 16:13:35,475 [INFO] [222/1685] Processing 6VM9 chain A
+2026-02-05 16:13:39,438 [WARNING] [UniProt:A0A0G2JPD3] recommendedName missing
+2026-02-05 16:13:39,439 [WARNING] [UniProt:A0A0G2JPD3] used submissionNames
+2026-02-05 16:13:39,440 [INFO] [223/1685] Processing 3FT4 chain A
+2026-02-05 16:13:39,736 [WARNING] [SIFTS:5wjn] attempt 1/3 failed: HTTPSConnectionPool(host='www.ebi.ac.uk', port=443): Read timed out. (read timeout=10)
+2026-02-05 16:13:39,937 [INFO] [224/1685] Processing 6AM5 chain A
+2026-02-05 16:13:40,396 [WARNING] [UniProt:D9J307] recommendedName missing
+2026-02-05 16:13:40,397 [WARNING] [UniProt:D9J307] used submissionNames
+2026-02-05 16:13:40,397 [INFO] [225/1685] Processing 8RYN chain A
+2026-02-05 16:13:41,348 [WARNING] [UniProt:Q861F7] recommendedName missing
+2026-02-05 16:13:41,349 [WARNING] [UniProt:Q861F7] used submissionNames
+2026-02-05 16:13:41,349 [INFO] [226/1685] Processing 8ROO chain A
+2026-02-05 16:13:41,639 [WARNING] [SIFTS:8ryp] attempt 1/3 failed: HTTPSConnectionPool(host='www.ebi.ac.uk', port=443): Read timed out. (read timeout=10)
+2026-02-05 16:13:42,502 [INFO] [227/1685] Processing 6PAG chain A
+2026-02-05 16:13:43,668 [INFO] [228/1685] Processing 4NO5 chain A
+2026-02-05 16:13:43,678 [INFO] [229/1685] Processing 5HYJ chain A
+2026-02-05 16:13:43,680 [INFO] [230/1685] Processing 5W69 chain A
+2026-02-05 16:13:44,382 [INFO] [231/1685] Processing 6ID4 chain A
+2026-02-05 16:13:44,433 [WARNING] [UniProt:Q5SS57] recommendedName missing
+2026-02-05 16:13:44,434 [WARNING] [UniProt:Q5SS57] used submissionNames
+2026-02-05 16:13:44,434 [INFO] [232/1685] Processing 7MKB chain A
+2026-02-05 16:13:44,764 [WARNING] [UniProt:F6IQS1] recommendedName missing
+2026-02-05 16:13:44,765 [WARNING] [UniProt:F6IQS1] used submissionNames
+2026-02-05 16:13:44,766 [INFO] [233/1685] Processing 8EB2 chain A
+2026-02-05 16:13:45,316 [WARNING] [UniProt:D9J307] recommendedName missing
+2026-02-05 16:13:45,317 [WARNING] [UniProt:D9J307] used submissionNames
+2026-02-05 16:13:45,317 [INFO] [234/1685] Processing 7NMF chain A
+2026-02-05 16:13:50,149 [WARNING] [UniProt:A0A140T913] recommendedName missing
+2026-02-05 16:13:50,150 [WARNING] [UniProt:A0A140T913] used submissionNames
+2026-02-05 16:13:50,150 [INFO] [235/1685] Processing 8DVG chain A
+2026-02-05 16:13:50,374 [INFO] [236/1685] Processing 8GON chain A
+2026-02-05 16:13:51,039 [INFO] [237/1685] Processing 7OW4 chain A
+2026-02-05 16:13:51,394 [INFO] [238/1685] Processing 7P3D chain A
+2026-02-05 16:13:51,950 [WARNING] [UniProt:A0A583ZB34] recommendedName missing
+2026-02-05 16:13:51,951 [WARNING] [UniProt:A0A583ZB34] used submissionNames
+2026-02-05 16:13:51,951 [INFO] [239/1685] Processing 7P3E chain A
+2026-02-05 16:13:52,554 [WARNING] [UniProt:S6AU73] recommendedName missing
+2026-02-05 16:13:52,555 [WARNING] [UniProt:S6AU73] used submissionNames
+2026-02-05 16:13:52,555 [INFO] [240/1685] Processing 6JOZ chain A
+2026-02-05 16:13:53,168 [INFO] [241/1685] Processing 1HSB chain A
+2026-02-05 16:13:53,929 [INFO] [242/1685] Processing 3MGO chain A
+2026-02-05 16:13:55,112 [INFO] [243/1685] Processing 8RLU chain A
+2026-02-05 16:13:55,119 [INFO] [244/1685] Processing 6GH1 chain C
+2026-02-05 16:13:55,129 [INFO] [245/1685] Processing 5V5L chain A
+2026-02-05 16:13:55,191 [INFO] [246/1685] Processing 4N8V chain A
+2026-02-05 16:13:55,738 [WARNING] [UniProt:A0A140T913] recommendedName missing
+2026-02-05 16:13:55,738 [WARNING] [UniProt:A0A140T913] used submissionNames
+2026-02-05 16:13:55,739 [INFO] [247/1685] Processing 3H9H chain A
+2026-02-05 16:13:56,034 [WARNING] [UniProt:A0A140T9X5] recommendedName missing
+2026-02-05 16:13:56,035 [WARNING] [UniProt:A0A140T9X5] used submissionNames
+2026-02-05 16:13:56,035 [INFO] [248/1685] Processing 6AMT chain A
+2026-02-05 16:13:56,508 [WARNING] [UniProt:A0A5H2UYS3] recommendedName missing
+2026-02-05 16:13:56,508 [WARNING] [UniProt:A0A5H2UYS3] used submissionNames
+2026-02-05 16:13:56,509 [INFO] [249/1685] Processing 1I7T chain A
+2026-02-05 16:13:58,086 [INFO] [250/1685] Processing 1HHI chain A
+2026-02-05 16:14:01,567 [INFO] [251/1685] Processing 7S8E chain A
+2026-02-05 16:14:01,571 [WARNING] [UniProt:A0A140T913] recommendedName missing
+2026-02-05 16:14:01,572 [WARNING] [UniProt:A0A140T913] used submissionNames
+2026-02-05 16:14:01,572 [INFO] [252/1685] Processing 4JFE chain A
+2026-02-05 16:14:02,249 [WARNING] [UniProt:A0A583ZB34] recommendedName missing
+2026-02-05 16:14:02,249 [WARNING] [UniProt:A0A583ZB34] used submissionNames
+2026-02-05 16:14:02,249 [INFO] [253/1685] Processing 7PB2 chain A
+2026-02-05 16:14:02,590 [WARNING] [UniProt:A0A140T913] recommendedName missing
+2026-02-05 16:14:02,591 [WARNING] [UniProt:A0A140T913] used submissionNames
+2026-02-05 16:14:02,591 [INFO] [254/1685] Processing 3NFN chain A
+2026-02-05 16:14:03,144 [WARNING] [UniProt:A0A140T913] recommendedName missing
+2026-02-05 16:14:03,145 [WARNING] [UniProt:A0A140T913] used submissionNames
+2026-02-05 16:14:03,145 [INFO] [255/1685] Processing 5HGH chain A
+2026-02-05 16:14:04,074 [INFO] [256/1685] Processing 5T6Y chain A
+2026-02-05 16:14:04,633 [INFO] [257/1685] Processing 5VUE chain A
+2026-02-05 16:14:05,413 [INFO] [258/1685] Processing 7MJ7 chain A
+2026-02-05 16:14:06,542 [INFO] [259/1685] Processing 8I5C chain A
+2026-02-05 16:14:07,132 [INFO] [260/1685] Processing 7S7D chain A
+2026-02-05 16:14:07,549 [INFO] [261/1685] Processing 5WKF chain A
+2026-02-05 16:14:07,954 [INFO] [262/1685] Processing 4NQX chain A
+2026-02-05 16:14:09,656 [INFO] [263/1685] Processing 6J29 chain A
+2026-02-05 16:14:10,656 [WARNING] [SIFTS:4n8v] attempt 1/3 failed: HTTPSConnectionPool(host='www.ebi.ac.uk', port=443): Read timed out. (read timeout=10)
+2026-02-05 16:14:12,992 [INFO] [264/1685] Processing 4PRN chain A
+2026-02-05 16:14:13,011 [INFO] [265/1685] Processing 5HHM chain A
+2026-02-05 16:14:13,431 [WARNING] [UniProt:A0A583ZB34] recommendedName missing
+2026-02-05 16:14:13,432 [WARNING] [UniProt:A0A583ZB34] used submissionNames
+2026-02-05 16:14:13,432 [INFO] [266/1685] Processing 3OXR chain A
+2026-02-05 16:14:14,069 [INFO] [267/1685] Processing 7MJ9 chain A
+2026-02-05 16:14:14,564 [INFO] [268/1685] Processing 6JTP chain A
+2026-02-05 16:14:15,611 [INFO] [269/1685] Processing 5VUF chain A
+2026-02-05 16:14:15,618 [INFO] [270/1685] Processing 5T6X chain A
+2026-02-05 16:14:16,078 [INFO] [271/1685] Processing 5C07 chain A
+2026-02-05 16:14:18,172 [WARNING] [UniProt:U5YJJ6] recommendedName missing
+2026-02-05 16:14:18,172 [WARNING] [UniProt:U5YJJ6] used submissionNames
+2026-02-05 16:14:18,172 [INFO] [272/1685] Processing 3GJF chain A
+2026-02-05 16:14:18,571 [INFO] [273/1685] Processing 7LGD chain A
+2026-02-05 16:14:18,993 [INFO] [274/1685] Processing 5BRZ chain A
+2026-02-05 16:14:19,718 [INFO] [275/1685] Processing 5C0C chain A
+2026-02-05 16:14:20,708 [INFO] [276/1685] Processing 8ISN chain A
+2026-02-05 16:14:21,072 [INFO] [277/1685] Processing 3VFN chain A
+2026-02-05 16:14:21,076 [WARNING] [UniProt:A0A140T913] recommendedName missing
+2026-02-05 16:14:21,077 [WARNING] [UniProt:A0A140T913] used submissionNames
+2026-02-05 16:14:21,077 [INFO] [278/1685] Processing 7KGT chain A
+2026-02-05 16:14:24,115 [INFO] [279/1685] Processing 3O4L chain A
+2026-02-05 16:14:24,929 [WARNING] [UniProt:Q5MAG5] recommendedName missing
+2026-02-05 16:14:24,930 [WARNING] [UniProt:Q5MAG5] used submissionNames
+2026-02-05 16:14:24,930 [INFO] [280/1685] Processing 5W1W chain A
+2026-02-05 16:14:25,353 [WARNING] [UniProt:A0A140T913] recommendedName missing
+2026-02-05 16:14:25,353 [WARNING] [UniProt:A0A140T913] used submissionNames
+2026-02-05 16:14:25,354 [INFO] [281/1685] Processing 2X70 chain A
+2026-02-05 16:14:25,560 [INFO] [282/1685] Processing 6Z9X chain A
+2026-02-05 16:14:25,585 [INFO] [283/1685] Processing 2BVO chain A
+2026-02-05 16:14:25,796 [WARNING] [UniProt:C1K0Y1] recommendedName missing
+2026-02-05 16:14:25,797 [WARNING] [UniProt:C1K0Y1] used submissionNames
+2026-02-05 16:14:25,797 [INFO] [284/1685] Processing 3GSO chain A
+2026-02-05 16:14:27,071 [INFO] [285/1685] Processing 6P64 chain A
+2026-02-05 16:14:27,106 [INFO] [286/1685] Processing 6P2C chain A
+2026-02-05 16:14:27,540 [INFO] [287/1685] Processing 4XXC chain A
+2026-02-05 16:14:30,090 [INFO] [288/1685] Processing 7S8A chain A
+2026-02-05 16:14:30,504 [INFO] [289/1685] Processing 9BL6 chain A
+2026-02-05 16:14:31,103 [INFO] [290/1685] Processing 6SSA chain A
+2026-02-05 16:14:31,175 [INFO] [291/1685] Processing 8TBW chain A
+2026-02-05 16:14:31,939 [WARNING] [UniProt:D9UAY1] recommendedName missing
+2026-02-05 16:14:31,940 [WARNING] [UniProt:D9UAY1] used submissionNames
+2026-02-05 16:14:31,940 [INFO] [292/1685] Processing 3VFP chain A
+2026-02-05 16:14:32,278 [WARNING] [UniProt:Q861F7] recommendedName missing
+2026-02-05 16:14:32,278 [WARNING] [UniProt:Q861F7] used submissionNames
+2026-02-05 16:14:32,278 [INFO] [293/1685] Processing 7OW5 chain A
+2026-02-05 16:14:33,446 [WARNING] [UniProt:C5MK56] recommendedName missing
+2026-02-05 16:14:33,447 [WARNING] [UniProt:C5MK56] used submissionNames
+2026-02-05 16:14:33,447 [INFO] [294/1685] Processing 2VLL chain A
+2026-02-05 16:14:35,595 [INFO] [295/1685] Processing 7JYV chain A
+2026-02-05 16:14:36,265 [INFO] [296/1685] Processing 3MRB chain A
+2026-02-05 16:14:36,774 [INFO] [297/1685] Processing 5SWQ chain A
+2026-02-05 16:14:36,999 [INFO] [298/1685] Processing 8RBU chain A
+2026-02-05 16:14:37,277 [INFO] [299/1685] Processing 3PWL chain A
+2026-02-05 16:14:38,274 [WARNING] [UniProt:Q53Z42] recommendedName missing
+2026-02-05 16:14:38,274 [WARNING] [UniProt:Q53Z42] used submissionNames
+2026-02-05 16:14:38,274 [INFO] [300/1685] Processing 3X13 chain A
+2026-02-05 16:14:38,559 [INFO] [301/1685] Processing 2X4S chain A
+2026-02-05 16:14:38,989 [INFO] [302/1685] Processing 4G8G chain A
+2026-02-05 16:14:41,519 [INFO] [303/1685] Processing 3IXA chain A
+2026-02-05 16:14:41,705 [WARNING] [UniProt:A0A411J078] recommendedName missing
+2026-02-05 16:14:41,705 [WARNING] [UniProt:A0A411J078] used submissionNames
+2026-02-05 16:14:41,706 [INFO] [304/1685] Processing 7PBC chain CCC
+2026-02-05 16:14:41,723 [WARNING] [UniProt:A0A140T913] recommendedName missing
+2026-02-05 16:14:41,724 [WARNING] [UniProt:A0A140T913] used submissionNames
+2026-02-05 16:14:41,724 [INFO] [305/1685] Processing 6RP9 chain A
+2026-02-05 16:14:42,448 [WARNING] [UniProt:A0A140T913] recommendedName missing
+2026-02-05 16:14:42,449 [WARNING] [UniProt:A0A140T913] used submissionNames
+2026-02-05 16:14:42,449 [INFO] [306/1685] Processing 7WJ3 chain A
+2026-02-05 16:14:42,609 [INFO] [307/1685] Processing 7T5M chain A
+2026-02-05 16:14:43,130 [WARNING] [UniProt:C5MK56] recommendedName missing
+2026-02-05 16:14:43,131 [WARNING] [UniProt:C5MK56] used submissionNames
+2026-02-05 16:14:43,131 [INFO] [308/1685] Processing 3VFU chain A
+2026-02-05 16:14:43,478 [WARNING] [UniProt:A0A583ZB34] recommendedName missing
+2026-02-05 16:14:43,479 [WARNING] [UniProt:A0A583ZB34] used submissionNames
+2026-02-05 16:14:43,479 [INFO] [309/1685] Processing 6Q3S chain A
+2026-02-05 16:14:44,879 [INFO] [310/1685] Processing 1A1N chain A
+2026-02-05 16:14:46,795 [WARNING] [UniProt:A0A5H2UYS3] recommendedName missing
+2026-02-05 16:14:46,796 [WARNING] [UniProt:A0A5H2UYS3] used submissionNames
+2026-02-05 16:14:46,830 [INFO] [311/1685] Processing 5HHO chain A
+2026-02-05 16:14:48,368 [WARNING] [UniProt:Q5S3G3] recommendedName missing
+2026-02-05 16:14:48,368 [WARNING] [UniProt:Q5S3G3] used submissionNames
+2026-02-05 16:14:48,369 [INFO] [312/1685] Processing 4JQV chain A
+2026-02-05 16:14:48,431 [INFO] [313/1685] Processing 6UJ8 chain A
+2026-02-05 16:14:48,482 [INFO] [314/1685] Processing 8F5A chain A
+2026-02-05 16:14:49,021 [INFO] [315/1685] Processing 3LN4 chain A
+2026-02-05 16:14:50,041 [INFO] [316/1685] Processing 4MNQ chain A
+2026-02-05 16:14:50,410 [INFO] [317/1685] Processing 7R7X chain A
+2026-02-05 16:14:51,118 [INFO] [318/1685] Processing 6VB2 chain A
+2026-02-05 16:14:52,937 [WARNING] [UniProt:Q861F7] recommendedName missing
+2026-02-05 16:14:52,938 [WARNING] [UniProt:Q861F7] used submissionNames
+2026-02-05 16:14:52,938 [INFO] [319/1685] Processing 8XG2 chain A
+2026-02-05 16:14:52,993 [INFO] [320/1685] Processing 6R2L chain A
+2026-02-05 16:14:53,334 [INFO] [321/1685] Processing 8SBK chain A
+2026-02-05 16:14:53,738 [WARNING] [UniProt:A0A858LG55] recommendedName missing
+2026-02-05 16:14:53,739 [WARNING] [UniProt:A0A858LG55] used submissionNames
+2026-02-05 16:14:53,739 [INFO] [322/1685] Processing 4WUU chain A
+2026-02-05 16:14:53,873 [WARNING] [UniProt:Q861F7] recommendedName missing
+2026-02-05 16:14:53,874 [WARNING] [UniProt:Q861F7] used submissionNames
+2026-02-05 16:14:53,874 [INFO] [323/1685] Processing 5E00 chain A
+2026-02-05 16:14:54,565 [INFO] [324/1685] Processing 5FA4 chain A
+2026-02-05 16:14:54,916 [INFO] [325/1685] Processing 8E8I chain A
+2026-02-05 16:14:58,105 [INFO] [326/1685] Processing 6MT6 chain A
+2026-02-05 16:14:59,738 [WARNING] [UniProt:U6BR87] recommendedName missing
+2026-02-05 16:14:59,739 [WARNING] [UniProt:U6BR87] used submissionNames
+2026-02-05 16:14:59,739 [INFO] [327/1685] Processing 3MRQ chain A
+2026-02-05 16:14:59,801 [INFO] [328/1685] Processing 8TUH chain A
+2026-02-05 16:14:59,855 [INFO] [329/1685] Processing 1W72 chain A
+2026-02-05 16:14:59,888 [INFO] [330/1685] Processing 6G3J chain A
+2026-02-05 16:15:00,775 [INFO] [331/1685] Processing 8SHI chain A
+2026-02-05 16:15:01,462 [INFO] [332/1685] Processing 6O4Z chain A
+2026-02-05 16:15:01,941 [WARNING] [UniProt:U6BR87] recommendedName missing
+2026-02-05 16:15:01,941 [WARNING] [UniProt:U6BR87] used submissionNames
+2026-02-05 16:15:01,942 [INFO] [333/1685] Processing 2VLK chain A
+2026-02-05 16:15:02,354 [WARNING] [UniProt:F4NBQ8] recommendedName missing
+2026-02-05 16:15:02,355 [WARNING] [UniProt:F4NBQ8] used submissionNames
+2026-02-05 16:15:02,355 [INFO] [334/1685] Processing 2P5E chain A
+2026-02-05 16:15:04,429 [INFO] [335/1685] Processing 4O2E chain A
+2026-02-05 16:15:04,587 [WARNING] [UniProt:A0A5H2UYS3] recommendedName missing
+2026-02-05 16:15:04,588 [WARNING] [UniProt:A0A5H2UYS3] used submissionNames
+2026-02-05 16:15:04,588 [INFO] [336/1685] Processing 7LGT chain A
+2026-02-05 16:15:05,192 [INFO] [337/1685] Processing 6O4Y chain A
+2026-02-05 16:15:05,337 [INFO] [338/1685] Processing 3PWN chain A
+2026-02-05 16:15:06,070 [INFO] [339/1685] Processing 4LCY chain A
+2026-02-05 16:15:08,414 [WARNING] [SIFTS:8xg2] attempt 1/3 failed: HTTPSConnectionPool(host='www.ebi.ac.uk', port=443): Read timed out. (read timeout=10)
+2026-02-05 16:15:10,377 [WARNING] [SIFTS:8e8i] attempt 1/3 failed: HTTPSConnectionPool(host='www.ebi.ac.uk', port=443): Read timed out. (read timeout=10)
+2026-02-05 16:15:11,264 [INFO] [340/1685] Processing 6PTE chain A
+2026-02-05 16:15:11,277 [INFO] [341/1685] Processing 5C08 chain A
+2026-02-05 16:15:11,318 [INFO] [342/1685] Processing 5E9D chain A
+2026-02-05 16:15:11,966 [WARNING] [UniProt:F6IQM2] recommendedName missing
+2026-02-05 16:15:11,966 [WARNING] [UniProt:F6IQM2] used submissionNames
+2026-02-05 16:15:11,967 [INFO] [343/1685] Processing 5HHP chain A
+2026-02-05 16:15:12,693 [WARNING] [UniProt:A0A140T913] recommendedName missing
+2026-02-05 16:15:12,694 [WARNING] [UniProt:A0A140T913] used submissionNames
+2026-02-05 16:15:12,695 [INFO] [344/1685] Processing 2GJ6 chain A
+2026-02-05 16:15:13,392 [INFO] [345/1685] Processing 3MRM chain A
+2026-02-05 16:15:13,556 [WARNING] [SIFTS:6mt6] attempt 1/3 failed: HTTPSConnectionPool(host='www.ebi.ac.uk', port=443): Read timed out. (read timeout=10)
+2026-02-05 16:15:13,778 [INFO] [346/1685] Processing 6RSY chain A
+2026-02-05 16:15:15,206 [WARNING] [SIFTS:3mrq] attempt 1/3 failed: HTTPSConnectionPool(host='www.ebi.ac.uk', port=443): Read timed out. (read timeout=10)
+2026-02-05 16:15:16,025 [INFO] [347/1685] Processing 6TRO chain A
+2026-02-05 16:15:16,394 [WARNING] [UniProt:A0A140T913] recommendedName missing
+2026-02-05 16:15:16,395 [WARNING] [UniProt:A0A140T913] used submissionNames
+2026-02-05 16:15:16,395 [INFO] [348/1685] Processing 8XES chain A
+2026-02-05 16:15:16,784 [INFO] [349/1685] Processing 4PRA chain A
+2026-02-05 16:15:17,182 [INFO] [350/1685] Processing 8FU4 chain A
+2026-02-05 16:15:17,487 [INFO] [351/1685] Processing 6BXP chain A
+2026-02-05 16:15:22,702 [INFO] [352/1685] Processing 3HPJ chain A
+2026-02-05 16:15:22,779 [INFO] [353/1685] Processing 2DYP chain A
+2026-02-05 16:15:23,281 [INFO] [354/1685] Processing 3O3E chain A
+2026-02-05 16:15:23,399 [INFO] [355/1685] Processing 3V5H chain A
+2026-02-05 16:15:23,572 [WARNING] [UniProt:Q5SS57] recommendedName missing
+2026-02-05 16:15:23,573 [WARNING] [UniProt:Q5SS57] used submissionNames
+2026-02-05 16:15:23,573 [INFO] [356/1685] Processing 5WKH chain A
+2026-02-05 16:15:25,204 [INFO] [357/1685] Processing 3SJV chain A
+2026-02-05 16:15:25,877 [WARNING] [SIFTS:8xg2] attempt 2/3 failed: HTTPSConnectionPool(host='www.ebi.ac.uk', port=443): Read timed out. (read timeout=10)
+2026-02-05 16:15:27,209 [INFO] [358/1685] Processing 3BXN chain A
+2026-02-05 16:15:27,215 [INFO] [359/1685] Processing 6O9C chain A
+2026-02-05 16:15:27,242 [WARNING] [UniProt:Q53Z42] recommendedName missing
+2026-02-05 16:15:27,242 [WARNING] [UniProt:Q53Z42] used submissionNames
+2026-02-05 16:15:27,243 [INFO] [360/1685] Processing 3BH8 chain A
+2026-02-05 16:15:27,980 [WARNING] [UniProt:C5MK56] recommendedName missing
+2026-02-05 16:15:27,980 [WARNING] [UniProt:C5MK56] used submissionNames
+2026-02-05 16:15:27,981 [INFO] [361/1685] Processing 8I5E chain H
+2026-02-05 16:15:28,051 [WARNING] [UniProt:A0A0G2JPD3] recommendedName missing
+2026-02-05 16:15:28,051 [WARNING] [UniProt:A0A0G2JPD3] used submissionNames
+2026-02-05 16:15:28,052 [INFO] [362/1685] Processing 3VRJ chain A
+2026-02-05 16:15:28,157 [WARNING] [SIFTS:2gj6] attempt 1/3 failed: HTTPSConnectionPool(host='www.ebi.ac.uk', port=443): Read timed out. (read timeout=10)
+2026-02-05 16:15:28,404 [WARNING] [UniProt:Q53Z42] recommendedName missing
+2026-02-05 16:15:28,405 [WARNING] [UniProt:Q53Z42] used submissionNames
+2026-02-05 16:15:28,405 [INFO] [363/1685] Processing 5WMP chain A
+2026-02-05 16:15:28,627 [INFO] [364/1685] Processing 1I1F chain A
+2026-02-05 16:15:28,911 [INFO] [365/1685] Processing 6TRN chain A
+2026-02-05 16:15:34,138 [INFO] [366/1685] Processing 3VFV chain A
+2026-02-05 16:15:34,167 [INFO] [367/1685] Processing 8TBV chain A
+2026-02-05 16:15:34,727 [INFO] [368/1685] Processing 6SS9 chain A
+2026-02-05 16:15:35,011 [INFO] [369/1685] Processing 8U9G chain A
+2026-02-05 16:15:36,628 [INFO] [370/1685] Processing 5MEN chain A
+2026-02-05 16:15:38,670 [INFO] [371/1685] Processing 5WMN chain A
+2026-02-05 16:15:38,855 [WARNING] [SIFTS:3v5h] attempt 1/3 failed: HTTPSConnectionPool(host='www.ebi.ac.uk', port=443): Read timed out. (read timeout=10)
+2026-02-05 16:15:39,185 [WARNING] [UniProt:U5YJJ6] recommendedName missing
+2026-02-05 16:15:39,185 [WARNING] [UniProt:U5YJJ6] used submissionNames
+2026-02-05 16:15:39,186 [INFO] [372/1685] Processing 7WT5 chain A
+2026-02-05 16:15:39,853 [INFO] [373/1685] Processing 3D39 chain A
+2026-02-05 16:15:40,117 [INFO] [374/1685] Processing 7L1C chain A
+2026-02-05 16:15:40,118 [WARNING] [UniProt:Q53Z42] recommendedName missing
+2026-02-05 16:15:40,119 [WARNING] [UniProt:Q53Z42] used submissionNames
+2026-02-05 16:15:40,119 [INFO] [375/1685] Processing 5IRO chain A
+2026-02-05 16:15:41,062 [WARNING] [UniProt:A0A0G2JPD3] recommendedName missing
+2026-02-05 16:15:41,063 [WARNING] [UniProt:A0A0G2JPD3] used submissionNames
+2026-02-05 16:15:41,064 [INFO] [376/1685] Processing 6V2P chain A
+2026-02-05 16:15:42,686 [WARNING] [SIFTS:3bxn] attempt 1/3 failed: HTTPSConnectionPool(host='www.ebi.ac.uk', port=443): Read timed out. (read timeout=10)
+2026-02-05 16:15:42,694 [WARNING] [SIFTS:3bh8] attempt 1/3 failed: HTTPSConnectionPool(host='www.ebi.ac.uk', port=443): Read timed out. (read timeout=10)
+2026-02-05 16:15:43,509 [WARNING] [SIFTS:3vrj] attempt 1/3 failed: HTTPSConnectionPool(host='www.ebi.ac.uk', port=443): Read timed out. (read timeout=10)
+2026-02-05 16:15:45,396 [WARNING] [UniProt:Q53Z42] recommendedName missing
+2026-02-05 16:15:45,396 [WARNING] [UniProt:Q53Z42] used submissionNames
+2026-02-05 16:15:45,396 [INFO] [377/1685] Processing 1S9W chain A
+2026-02-05 16:15:45,609 [WARNING] [SIFTS:2gj6] attempt 2/3 failed: HTTPSConnectionPool(host='www.ebi.ac.uk', port=443): Read timed out. (read timeout=10)
+2026-02-05 16:15:48,087 [INFO] [378/1685] Processing 5N6B chain A
+2026-02-05 16:15:49,625 [WARNING] [SIFTS:3vfv] attempt 1/3 failed: HTTPSConnectionPool(host='www.ebi.ac.uk', port=443): Read timed out. (read timeout=10)
+2026-02-05 16:15:50,107 [INFO] [379/1685] Processing 6VMA chain A
+2026-02-05 16:15:50,179 [WARNING] [SIFTS:6ss9] attempt 1/3 failed: HTTPSConnectionPool(host='www.ebi.ac.uk', port=443): Read timed out. (read timeout=10)
+2026-02-05 16:15:50,389 [WARNING] [UniProt:A0A109QAI7] recommendedName missing
+2026-02-05 16:15:50,390 [WARNING] [UniProt:A0A109QAI7] used submissionNames
+2026-02-05 16:15:50,390 [INFO] [380/1685] Processing 7WZZ chain A
+2026-02-05 16:15:50,473 [WARNING] [SIFTS:8u9g] attempt 1/3 failed: HTTPSConnectionPool(host='www.ebi.ac.uk', port=443): Read timed out. (read timeout=10)
+2026-02-05 16:15:51,313 [INFO] [381/1685] Processing 3LN5 chain A
+2026-02-05 16:15:51,570 [INFO] [382/1685] Processing 3GSX chain A
+2026-02-05 16:15:52,277 [INFO] [383/1685] Processing 8EO8 chain A
+2026-02-05 16:15:52,278 [WARNING] [UniProt:I3ZN84] recommendedName missing
+2026-02-05 16:15:52,278 [WARNING] [UniProt:I3ZN84] used submissionNames
+2026-02-05 16:15:52,278 [INFO] [384/1685] Processing 5V5M chain A
+2026-02-05 16:15:52,703 [INFO] [385/1685] Processing 8EMG chain A
+2026-02-05 16:15:55,910 [WARNING] [UniProt:Q56H30] recommendedName missing
+2026-02-05 16:15:55,910 [WARNING] [UniProt:Q56H30] used submissionNames
+2026-02-05 16:15:55,911 [INFO] [386/1685] Processing 7RM4 chain A
+2026-02-05 16:15:56,154 [INFO] [387/1685] Processing 7RRG chain A
+2026-02-05 16:15:56,903 [INFO] [388/1685] Processing 2AV1 chain A
+2026-02-05 16:15:56,991 [INFO] [389/1685] Processing 7DZN chain A
+2026-02-05 16:15:59,659 [INFO] [390/1685] Processing 4U6Y chain A
+2026-02-05 16:16:01,067 [INFO] [391/1685] Processing 7SRK chain A
+2026-02-05 16:16:01,312 [WARNING] [UniProt:A0A140T913] recommendedName missing
+2026-02-05 16:16:01,313 [WARNING] [UniProt:A0A140T913] used submissionNames
+2026-02-05 16:16:01,313 [INFO] [392/1685] Processing 5C0B chain A
+2026-02-05 16:16:01,647 [WARNING] [UniProt:F4NC28] recommendedName missing
+2026-02-05 16:16:01,648 [WARNING] [UniProt:F4NC28] used submissionNames
+2026-02-05 16:16:01,648 [INFO] [393/1685] Processing 8ERX chain A
+2026-02-05 16:16:02,757 [INFO] [394/1685] Processing 8ES9 chain N
+2026-02-05 16:16:03,019 [INFO] [395/1685] Processing 6VB0 chain A
+2026-02-05 16:16:03,260 [INFO] [396/1685] Processing 8E2Z chain A
+2026-02-05 16:16:03,657 [INFO] [397/1685] Processing 4U1I chain A
+2026-02-05 16:16:03,658 [WARNING] [UniProt:F4NBT2] recommendedName missing
+2026-02-05 16:16:03,658 [WARNING] [UniProt:F4NBT2] used submissionNames
+2026-02-05 16:16:03,658 [INFO] [398/1685] Processing 2GUO chain A
+2026-02-05 16:16:03,704 [WARNING] [UniProt:A0A140T913] recommendedName missing
+2026-02-05 16:16:03,705 [WARNING] [UniProt:A0A140T913] used submissionNames
+2026-02-05 16:16:03,706 [INFO] [399/1685] Processing 3L3K chain A
+2026-02-05 16:16:03,722 [INFO] [400/1685] Processing 3UTS chain A
+2026-02-05 16:16:03,922 [WARNING] [UniProt:F4NBT2] recommendedName missing
+2026-02-05 16:16:03,922 [WARNING] [UniProt:F4NBT2] used submissionNames
+2026-02-05 16:16:03,922 [INFO] [401/1685] Processing 9BL5 chain A
+2026-02-05 16:16:07,245 [ERROR] [ERROR] [8ERX:A] no compatible UniProt mapping
+2026-02-05 16:16:07,245 [INFO] [402/1685] Processing 4UQ3 chain A
+2026-02-05 16:16:07,391 [INFO] [403/1685] Processing 5WXC chain A
+2026-02-05 16:16:07,599 [INFO] [404/1685] Processing 5T6W chain A
+2026-02-05 16:16:08,374 [INFO] [405/1685] Processing 6JTN chain A
+2026-02-05 16:16:08,854 [WARNING] [UniProt:V6E0U6] recommendedName missing
+2026-02-05 16:16:08,854 [WARNING] [UniProt:V6E0U6] used submissionNames
+2026-02-05 16:16:08,854 [INFO] [406/1685] Processing 1OGA chain A
+2026-02-05 16:16:11,093 [INFO] [407/1685] Processing 6D2T chain A
+2026-02-05 16:16:13,956 [WARNING] [UniProt:Q861F7] recommendedName missing
+2026-02-05 16:16:13,956 [WARNING] [UniProt:Q861F7] used submissionNames
+2026-02-05 16:16:13,957 [INFO] [408/1685] Processing 6PBH chain A
+2026-02-05 16:16:14,094 [INFO] [409/1685] Processing 5IEH chain A
+2026-02-05 16:16:14,190 [WARNING] [UniProt:F4NBQ8] recommendedName missing
+2026-02-05 16:16:14,190 [WARNING] [UniProt:F4NBQ8] used submissionNames
+2026-02-05 16:16:14,191 [INFO] [410/1685] Processing 1B0G chain A
+2026-02-05 16:16:14,472 [WARNING] [UniProt:Q5SS57] recommendedName missing
+2026-02-05 16:16:14,472 [WARNING] [UniProt:Q5SS57] used submissionNames
+2026-02-05 16:16:14,473 [INFO] [411/1685] Processing 7RZJ chain A
+2026-02-05 16:16:15,115 [INFO] [412/1685] Processing 6MTL chain A
+2026-02-05 16:16:15,123 [INFO] [413/1685] Processing 3MR9 chain A
+2026-02-05 16:16:15,141 [INFO] [414/1685] Processing 1B0R chain A
+2026-02-05 16:16:15,144 [WARNING] [UniProt:A0A411J078] recommendedName missing
+2026-02-05 16:16:15,145 [WARNING] [UniProt:A0A411J078] used submissionNames
+2026-02-05 16:16:15,145 [INFO] [415/1685] Processing 3GSQ chain A
+2026-02-05 16:16:18,607 [INFO] [416/1685] Processing 2GTW chain A
+2026-02-05 16:16:18,732 [INFO] [417/1685] Processing 3MRC chain A
+2026-02-05 16:16:18,819 [INFO] [418/1685] Processing 3HCV chain A
+2026-02-05 16:16:19,022 [INFO] [419/1685] Processing 6EWC chain A
+2026-02-05 16:16:20,349 [INFO] [420/1685] Processing 1AGF chain A
+2026-02-05 16:16:20,791 [WARNING] [UniProt:C1K0Y1] recommendedName missing
+2026-02-05 16:16:20,792 [WARNING] [UniProt:C1K0Y1] used submissionNames
+2026-02-05 16:16:20,792 [INFO] [421/1685] Processing 4JRX chain A
+2026-02-05 16:16:23,456 [INFO] [422/1685] Processing 8ES8 chain N
+2026-02-05 16:16:23,460 [WARNING] [UniProt:F6IR24] recommendedName missing
+2026-02-05 16:16:23,461 [WARNING] [UniProt:F6IR24] used submissionNames
+2026-02-05 16:16:23,461 [INFO] [423/1685] Processing 3I6G chain A
+2026-02-05 16:16:25,388 [INFO] [424/1685] Processing 4L29 chain A
+2026-02-05 16:16:25,569 [INFO] [425/1685] Processing 6BJ2 chain A
+2026-02-05 16:16:25,904 [INFO] [426/1685] Processing 7WT3 chain A
+2026-02-05 16:16:26,577 [INFO] [427/1685] Processing 4I4W chain A
+2026-02-05 16:16:26,587 [INFO] [428/1685] Processing 7NDU chain AAA
+2026-02-05 16:16:26,643 [INFO] [429/1685] Processing 5EU4 chain A
+2026-02-05 16:16:26,828 [INFO] [430/1685] Processing 6VB7 chain A
+2026-02-05 16:16:28,967 [INFO] [431/1685] Processing 3KPO chain A
+2026-02-05 16:16:30,039 [INFO] [432/1685] Processing 3PWJ chain A
+2026-02-05 16:16:30,170 [INFO] [433/1685] Processing 7N6D chain A
+2026-02-05 16:16:30,330 [INFO] [434/1685] Processing 4E5X chain A
+2026-02-05 16:16:30,526 [INFO] [435/1685] Processing 5C09 chain A
+2026-02-05 16:16:31,777 [INFO] [436/1685] Processing 1AGD chain A
+2026-02-05 16:16:32,029 [WARNING] [UniProt:C5MK56] recommendedName missing
+2026-02-05 16:16:32,030 [WARNING] [UniProt:C5MK56] used submissionNames
+2026-02-05 16:16:32,030 [INFO] [437/1685] Processing 7KGR chain A
+2026-02-05 16:16:34,689 [WARNING] [UniProt:Q861F7] recommendedName missing
+2026-02-05 16:16:34,690 [WARNING] [UniProt:Q861F7] used submissionNames
+2026-02-05 16:16:34,690 [INFO] [438/1685] Processing 1AO7 chain A
+2026-02-05 16:16:36,849 [INFO] [439/1685] Processing 7SIH chain A
+2026-02-05 16:16:36,988 [INFO] [440/1685] Processing 3GSR chain A
+2026-02-05 16:16:37,084 [WARNING] [UniProt:A0A5H2UYS3] recommendedName missing
+2026-02-05 16:16:37,085 [WARNING] [UniProt:A0A5H2UYS3] used submissionNames
+2026-02-05 16:16:37,085 [INFO] [441/1685] Processing 3H7B chain A
+2026-02-05 16:16:38,013 [WARNING] [UniProt:F4NBQ8] recommendedName missing
+2026-02-05 16:16:38,014 [WARNING] [UniProt:F4NBQ8] used submissionNames
+2026-02-05 16:16:38,014 [INFO] [442/1685] Processing 7Q98 chain A
+2026-02-05 16:16:38,093 [INFO] [443/1685] Processing 1TVH chain A
+2026-02-05 16:16:38,919 [WARNING] [SIFTS:3i6g] attempt 1/3 failed: HTTPSConnectionPool(host='www.ebi.ac.uk', port=443): Read timed out. (read timeout=10)
+2026-02-05 16:16:40,465 [INFO] [444/1685] Processing 3GSU chain A
+2026-02-05 16:16:41,366 [WARNING] [UniProt:A0A140T913] recommendedName missing
+2026-02-05 16:16:41,366 [WARNING] [UniProt:A0A140T913] used submissionNames
+2026-02-05 16:16:41,367 [INFO] [445/1685] Processing 3BZE chain A
+2026-02-05 16:16:41,464 [INFO] [446/1685] Processing 7EJN chain A
+2026-02-05 16:16:41,754 [INFO] [447/1685] Processing 8RJI chain A
+2026-02-05 16:16:41,971 [INFO] [448/1685] Processing 3MRJ chain A
+2026-02-05 16:16:42,034 [WARNING] [SIFTS:4i4w] attempt 1/3 failed: HTTPSConnectionPool(host='www.ebi.ac.uk', port=443): Read timed out. (read timeout=10)
+2026-02-05 16:16:42,036 [WARNING] [SIFTS:7ndu] attempt 1/3 failed: HTTPSConnectionPool(host='www.ebi.ac.uk', port=443): Read timed out. (read timeout=10)
+2026-02-05 16:16:43,186 [INFO] [449/1685] Processing 2J8U chain A
+2026-02-05 16:16:43,223 [WARNING] [UniProt:Q861F7] recommendedName missing
+2026-02-05 16:16:43,223 [WARNING] [UniProt:Q861F7] used submissionNames
+2026-02-05 16:16:43,224 [INFO] [450/1685] Processing 4FTV chain A
+2026-02-05 16:16:46,175 [INFO] [451/1685] Processing 3HAE chain A
+2026-02-05 16:16:48,423 [INFO] [452/1685] Processing 6UZN chain A
+2026-02-05 16:16:48,518 [INFO] [453/1685] Processing 1QR1 chain A
+2026-02-05 16:16:49,263 [WARNING] [UniProt:A0A140T913] recommendedName missing
+2026-02-05 16:16:49,263 [WARNING] [UniProt:A0A140T913] used submissionNames
+2026-02-05 16:16:49,264 [INFO] [454/1685] Processing 6V3J chain A
+2026-02-05 16:16:49,538 [INFO] [455/1685] Processing 5NMF chain A
+2026-02-05 16:16:51,876 [INFO] [456/1685] Processing 7Q9A chain A
+2026-02-05 16:16:52,651 [WARNING] [UniProt:A0A5H2UYS3] recommendedName missing
+2026-02-05 16:16:52,652 [WARNING] [UniProt:A0A5H2UYS3] used submissionNames
+2026-02-05 16:16:52,652 [INFO] [457/1685] Processing 7JYW chain A
+2026-02-05 16:16:52,935 [WARNING] [UniProt:A0A411J078] recommendedName missing
+2026-02-05 16:16:52,936 [WARNING] [UniProt:A0A411J078] used submissionNames
+2026-02-05 16:16:52,936 [INFO] [458/1685] Processing 2AV7 chain A
+2026-02-05 16:16:53,393 [INFO] [459/1685] Processing 6PYV chain A
+2026-02-05 16:16:53,861 [WARNING] [UniProt:A0A6B7FTL9] recommendedName missing
+2026-02-05 16:16:53,861 [WARNING] [UniProt:A0A6B7FTL9] used submissionNames
+2026-02-05 16:16:53,861 [INFO] [460/1685] Processing 7N1F chain A
+2026-02-05 16:16:54,618 [INFO] [461/1685] Processing 6VM7 chain A
+2026-02-05 16:16:55,380 [INFO] [462/1685] Processing 8EMK chain A
+2026-02-05 16:16:55,478 [INFO] [463/1685] Processing 6D2R chain A
+2026-02-05 16:16:56,903 [INFO] [464/1685] Processing 7U21 chain A
+2026-02-05 16:16:57,210 [INFO] [465/1685] Processing 6TDP chain A
+2026-02-05 16:16:57,620 [INFO] [466/1685] Processing 5DDH chain A
+2026-02-05 16:16:59,638 [WARNING] [UniProt:F4NBQ8] recommendedName missing
+2026-02-05 16:16:59,638 [WARNING] [UniProt:F4NBQ8] used submissionNames
+2026-02-05 16:16:59,638 [INFO] [467/1685] Processing 7M8T chain A
+2026-02-05 16:16:59,937 [INFO] [468/1685] Processing 3VFS chain A
+2026-02-05 16:16:59,994 [INFO] [469/1685] Processing 3VRI chain A
+2026-02-05 16:17:00,959 [INFO] [470/1685] Processing 6Z9V chain A
+2026-02-05 16:17:03,074 [WARNING] [UniProt:A0A140T913] recommendedName missing
+2026-02-05 16:17:03,075 [WARNING] [UniProt:A0A140T913] used submissionNames
+2026-02-05 16:17:03,075 [INFO] [471/1685] Processing 4U1L chain A
+2026-02-05 16:17:03,156 [WARNING] [UniProt:I3ZN84] recommendedName missing
+2026-02-05 16:17:03,156 [WARNING] [UniProt:I3ZN84] used submissionNames
+2026-02-05 16:17:03,157 [INFO] [472/1685] Processing 7NMG chain A
+2026-02-05 16:17:04,043 [WARNING] [UniProt:A0A5H2UYS3] recommendedName missing
+2026-02-05 16:17:04,044 [WARNING] [UniProt:A0A5H2UYS3] used submissionNames
+2026-02-05 16:17:04,044 [INFO] [473/1685] Processing 2BCK chain A
+2026-02-05 16:17:04,373 [INFO] [474/1685] Processing 2RFX chain A
+2026-02-05 16:17:04,861 [INFO] [475/1685] Processing 6UJ9 chain A
+2026-02-05 16:17:05,086 [WARNING] [UniProt:A0A140T913] recommendedName missing
+2026-02-05 16:17:05,087 [WARNING] [UniProt:A0A140T913] used submissionNames
+2026-02-05 16:17:05,087 [INFO] [476/1685] Processing 8EK5 chain A
+2026-02-05 16:17:05,825 [WARNING] [UniProt:A0A140T913] recommendedName missing
+2026-02-05 16:17:05,825 [WARNING] [UniProt:A0A140T913] used submissionNames
+2026-02-05 16:17:05,826 [INFO] [477/1685] Processing 2BNR chain A
+2026-02-05 16:17:06,642 [WARNING] [UniProt:F4NBT2] recommendedName missing
+2026-02-05 16:17:06,643 [WARNING] [UniProt:F4NBT2] used submissionNames
+2026-02-05 16:17:06,643 [INFO] [478/1685] Processing 1AGE chain A
+2026-02-05 16:17:06,902 [INFO] [479/1685] Processing 7QPJ chain C
+2026-02-05 16:17:08,094 [WARNING] [UniProt:A0A140T913] recommendedName missing
+2026-02-05 16:17:08,094 [WARNING] [UniProt:A0A140T913] used submissionNames
+2026-02-05 16:17:08,095 [INFO] [480/1685] Processing 5EUO chain A
+2026-02-05 16:17:08,436 [WARNING] [UniProt:F6IQS1] recommendedName missing
+2026-02-05 16:17:08,437 [WARNING] [UniProt:F6IQS1] used submissionNames
+2026-02-05 16:17:08,437 [INFO] [481/1685] Processing 3FT3 chain A
+2026-02-05 16:17:10,831 [WARNING] [UniProt:U5YJK1] recommendedName missing
+2026-02-05 16:17:10,832 [WARNING] [UniProt:U5YJK1] used submissionNames
+2026-02-05 16:17:10,832 [INFO] [482/1685] Processing 3MRH chain A
+2026-02-05 16:17:11,353 [INFO] [483/1685] Processing 7Q9B chain AAA
+2026-02-05 16:17:11,426 [INFO] [484/1685] Processing 5N1Y chain A
+2026-02-05 16:17:12,168 [WARNING] [UniProt:A0A140T913] recommendedName missing
+2026-02-05 16:17:12,168 [WARNING] [UniProt:A0A140T913] used submissionNames
+2026-02-05 16:17:12,169 [INFO] [485/1685] Processing 6UJO chain A
+2026-02-05 16:17:14,346 [WARNING] [UniProt:A0A5H2UYS3] recommendedName missing
+2026-02-05 16:17:14,346 [WARNING] [UniProt:A0A5H2UYS3] used submissionNames
+2026-02-05 16:17:14,347 [INFO] [486/1685] Processing 4GKS chain A
+2026-02-05 16:17:14,570 [INFO] [487/1685] Processing 6VB6 chain A
+2026-02-05 16:17:15,494 [INFO] [488/1685] Processing 3L3J chain A
+2026-02-05 16:17:16,288 [INFO] [489/1685] Processing 7SR5 chain A
+2026-02-05 16:17:16,291 [WARNING] [UniProt:F6IR24] recommendedName missing
+2026-02-05 16:17:16,353 [WARNING] [UniProt:F6IR24] used submissionNames
+2026-02-05 16:17:16,353 [INFO] [490/1685] Processing 5EOT chain A
+2026-02-05 16:17:16,418 [INFO] [491/1685] Processing 7SIF chain A
+2026-02-05 16:17:17,272 [INFO] [492/1685] Processing 5MEP chain A
+2026-02-05 16:17:18,100 [INFO] [493/1685] Processing 4QRS chain A
+2026-02-05 16:17:18,102 [INFO] [494/1685] Processing 6IEX chain A
+2026-02-05 16:17:19,858 [INFO] [495/1685] Processing 3KYN chain A
+2026-02-05 16:17:20,070 [WARNING] [UniProt:A0A140T913] recommendedName missing
+2026-02-05 16:17:20,070 [WARNING] [UniProt:A0A140T913] used submissionNames
+2026-02-05 16:17:20,071 [INFO] [496/1685] Processing 4HWZ chain A
+2026-02-05 16:17:20,081 [INFO] [497/1685] Processing 7MJ8 chain A
+2026-02-05 16:17:22,263 [INFO] [498/1685] Processing 3BHB chain A
+2026-02-05 16:17:22,589 [WARNING] [UniProt:A0A140T913] recommendedName missing
+2026-02-05 16:17:22,589 [WARNING] [UniProt:A0A140T913] used submissionNames
+2026-02-05 16:17:22,590 [INFO] [499/1685] Processing 8RNH chain A
+2026-02-05 16:17:22,910 [INFO] [500/1685] Processing 6SS7 chain D
+2026-02-05 16:17:23,359 [WARNING] [UniProt:U5YJP1] recommendedName missing
+2026-02-05 16:17:23,359 [WARNING] [UniProt:U5YJP1] used submissionNames
+2026-02-05 16:17:23,360 [INFO] [501/1685] Processing 6P2F chain A
+2026-02-05 16:17:25,757 [WARNING] [UniProt:F4NBQ8] recommendedName missing
+2026-02-05 16:17:25,757 [WARNING] [UniProt:F4NBQ8] used submissionNames
+2026-02-05 16:17:25,758 [INFO] [502/1685] Processing 5FA3 chain A
+2026-02-05 16:17:25,829 [INFO] [503/1685] Processing 3KPP chain A
+2026-02-05 16:17:26,948 [INFO] [504/1685] Processing 8UDR chain A
+2026-02-05 16:17:27,646 [WARNING] [UniProt:A0A5H2UI55] recommendedName missing
+2026-02-05 16:17:27,646 [WARNING] [UniProt:A0A5H2UI55] used submissionNames
+2026-02-05 16:17:27,646 [INFO] [505/1685] Processing 4MJI chain A
+2026-02-05 16:17:29,300 [WARNING] [UniProt:A0A499S0B6] recommendedName missing
+2026-02-05 16:17:29,300 [WARNING] [UniProt:A0A499S0B6] used submissionNames
+2026-02-05 16:17:29,301 [INFO] [506/1685] Processing 7N2O chain A
+2026-02-05 16:17:29,533 [INFO] [507/1685] Processing 1I7U chain A
+2026-02-05 16:17:31,175 [INFO] [508/1685] Processing 8SBL chain A
+2026-02-05 16:17:31,211 [INFO] [509/1685] Processing 3LKO chain A
+2026-02-05 16:17:31,265 [WARNING] [UniProt:A0A140T913] recommendedName missing
+2026-02-05 16:17:31,265 [WARNING] [UniProt:A0A140T913] used submissionNames
+2026-02-05 16:17:31,266 [INFO] [510/1685] Processing 3RL1 chain A
+2026-02-05 16:17:31,383 [INFO] [511/1685] Processing 3HG1 chain A
+2026-02-05 16:17:33,807 [WARNING] [UniProt:S6AU73] recommendedName missing
+2026-02-05 16:17:33,808 [WARNING] [UniProt:S6AU73] used submissionNames
+2026-02-05 16:17:33,808 [INFO] [512/1685] Processing 4NNY chain A
+2026-02-05 16:17:34,321 [INFO] [513/1685] Processing 3VXM chain A
+2026-02-05 16:17:34,777 [INFO] [514/1685] Processing 1I7R chain A
+2026-02-05 16:17:35,511 [WARNING] [SIFTS:4hwz] attempt 1/3 failed: HTTPSConnectionPool(host='www.ebi.ac.uk', port=443): Read timed out. (read timeout=10)
+2026-02-05 16:17:37,218 [INFO] [515/1685] Processing 5C0E chain A
+2026-02-05 16:17:37,665 [INFO] [516/1685] Processing 6UZP chain A
+2026-02-05 16:17:38,054 [INFO] [517/1685] Processing 5W67 chain A
+2026-02-05 16:17:38,391 [INFO] [518/1685] Processing 7SU9 chain A
+2026-02-05 16:17:38,923 [WARNING] [UniProt:A0A6S7XV52] recommendedName missing
+2026-02-05 16:17:38,924 [WARNING] [UniProt:A0A6S7XV52] used submissionNames
+2026-02-05 16:17:38,924 [INFO] [519/1685] Processing 6VB5 chain A
+2026-02-05 16:17:39,069 [INFO] [520/1685] Processing 4JRY chain A
+2026-02-05 16:17:40,542 [WARNING] [UniProt:A3F718] recommendedName missing
+2026-02-05 16:17:40,543 [WARNING] [UniProt:A3F718] used submissionNames
+2026-02-05 16:17:40,543 [INFO] [521/1685] Processing 2HJL chain A
+2026-02-05 16:17:40,976 [INFO] [522/1685] Processing 3LKN chain A
+2026-02-05 16:17:42,377 [WARNING] [UniProt:A0A5H2UYS3] recommendedName missing
+2026-02-05 16:17:42,377 [WARNING] [UniProt:A0A5H2UYS3] used submissionNames
+2026-02-05 16:17:42,377 [INFO] [523/1685] Processing 2JCC chain A
+2026-02-05 16:17:42,613 [INFO] [524/1685] Processing 6ULK chain A
+2026-02-05 16:17:42,620 [WARNING] [UniProt:Q8WLS4] recommendedName missing
+2026-02-05 16:17:42,620 [WARNING] [UniProt:Q8WLS4] used submissionNames
+2026-02-05 16:17:42,620 [INFO] [525/1685] Processing 3MRG chain A
+2026-02-05 16:17:42,697 [INFO] [526/1685] Processing 7MJ6 chain A
+2026-02-05 16:17:45,804 [INFO] [527/1685] Processing 3MV9 chain A
+2026-02-05 16:17:46,194 [INFO] [528/1685] Processing 6XQA chain A
+2026-02-05 16:17:48,655 [INFO] [529/1685] Processing 8TUB chain F
+2026-02-05 16:17:48,857 [WARNING] [UniProt:D9J307] recommendedName missing
+2026-02-05 16:17:48,857 [WARNING] [UniProt:D9J307] used submissionNames
+2026-02-05 16:17:48,857 [INFO] [530/1685] Processing 5C0F chain A
+2026-02-05 16:17:49,003 [INFO] [531/1685] Processing 3MRP chain A
+2026-02-05 16:17:49,264 [WARNING] [SIFTS:4nny] attempt 1/3 failed: HTTPSConnectionPool(host='www.ebi.ac.uk', port=443): Read timed out. (read timeout=10)
+2026-02-05 16:17:49,432 [INFO] [532/1685] Processing 4U6X chain A
+2026-02-05 16:17:50,057 [WARNING] [UniProt:A2BF26] recommendedName missing
+2026-02-05 16:17:50,057 [WARNING] [UniProt:A2BF26] used submissionNames
+2026-02-05 16:17:50,058 [INFO] [533/1685] Processing 3MRO chain A
+2026-02-05 16:17:50,291 [WARNING] [UniProt:C5MK56] recommendedName missing
+2026-02-05 16:17:50,292 [WARNING] [UniProt:C5MK56] used submissionNames
+2026-02-05 16:17:50,292 [INFO] [534/1685] Processing 5WMO chain A
+2026-02-05 16:17:51,993 [INFO] [535/1685] Processing 5C0D chain A
+2026-02-05 16:17:52,410 [INFO] [536/1685] Processing 3GSV chain A
+2026-02-05 16:17:53,818 [INFO] [537/1685] Processing 3UTQ chain A
+2026-02-05 16:17:53,831 [WARNING] [UniProt:C1K0Y1] recommendedName missing
+2026-02-05 16:17:53,831 [WARNING] [UniProt:C1K0Y1] used submissionNames
+2026-02-05 16:17:53,831 [INFO] [538/1685] Processing 1JF1 chain A
+2026-02-05 16:17:53,906 [WARNING] [UniProt:A0A140T913] recommendedName missing
+2026-02-05 16:17:53,907 [WARNING] [UniProt:A0A140T913] used submissionNames
+2026-02-05 16:17:53,907 [INFO] [539/1685] Processing 2BNQ chain A
+2026-02-05 16:17:54,073 [INFO] [540/1685] Processing 3QFD chain A
+2026-02-05 16:17:54,383 [WARNING] [SIFTS:6vb5] attempt 1/3 failed: HTTPSConnectionPool(host='www.ebi.ac.uk', port=443): Read timed out. (read timeout=10)
+2026-02-05 16:17:57,377 [WARNING] [UniProt:A0A5H2UYS3] recommendedName missing
+2026-02-05 16:17:57,377 [WARNING] [UniProt:A0A5H2UYS3] used submissionNames
+2026-02-05 16:17:57,378 [INFO] [541/1685] Processing 3BH9 chain A
+2026-02-05 16:18:00,151 [INFO] [542/1685] Processing 6VMX chain A
+2026-02-05 16:18:00,310 [INFO] [543/1685] Processing 4MJ6 chain A
+2026-02-05 16:18:00,562 [INFO] [544/1685] Processing 6UZO chain A
+2026-02-05 16:18:00,849 [INFO] [545/1685] Processing 1N2R chain A
+2026-02-05 16:18:01,493 [INFO] [546/1685] Processing 7Q99 chain A
+2026-02-05 16:18:03,552 [INFO] [547/1685] Processing 8EMJ chain A
+2026-02-05 16:18:03,859 [INFO] [548/1685] Processing 5TEZ chain A
+2026-02-05 16:18:04,757 [INFO] [549/1685] Processing 3FQN chain A
+2026-02-05 16:18:05,254 [INFO] [550/1685] Processing 7SR0 chain A
+2026-02-05 16:18:05,333 [INFO] [551/1685] Processing 3VFR chain A
+2026-02-05 16:18:05,381 [INFO] [552/1685] Processing 7N2S chain A
+2026-02-05 16:18:05,388 [INFO] [553/1685] Processing 2HN7 chain A
+2026-02-05 16:18:05,937 [INFO] [554/1685] Processing 3OXS chain A
+2026-02-05 16:18:07,393 [INFO] [555/1685] Processing 3O3A chain A
+2026-02-05 16:18:07,584 [WARNING] [UniProt:F4NBQ8] recommendedName missing
+2026-02-05 16:18:07,584 [WARNING] [UniProt:F4NBQ8] used submissionNames
+2026-02-05 16:18:07,585 [INFO] [556/1685] Processing 6OPD chain A
+2026-02-05 16:18:08,856 [INFO] [557/1685] Processing 6AMU chain A
+2026-02-05 16:18:11,566 [INFO] [558/1685] Processing 6EWO chain A
+2026-02-05 16:18:11,850 [WARNING] [UniProt:F4NBQ8] recommendedName missing
+2026-02-05 16:18:11,850 [WARNING] [UniProt:F4NBQ8] used submissionNames
+2026-02-05 16:18:11,850 [INFO] [559/1685] Processing 4I48 chain A
+2026-02-05 16:18:11,962 [INFO] [560/1685] Processing 5IND chain A
+2026-02-05 16:18:12,332 [INFO] [561/1685] Processing 3KLA chain A
+2026-02-05 16:18:12,733 [WARNING] [UniProt:A0A140T913] recommendedName missing
+2026-02-05 16:18:12,734 [WARNING] [UniProt:A0A140T913] used submissionNames
+2026-02-05 16:18:12,734 [INFO] [562/1685] Processing 3BWA chain A
+2026-02-05 16:18:14,954 [WARNING] [UniProt:F4NBT2] recommendedName missing
+2026-02-05 16:18:14,955 [WARNING] [UniProt:F4NBT2] used submissionNames
+2026-02-05 16:18:14,955 [INFO] [563/1685] Processing 6BXQ chain B
+2026-02-05 16:18:15,398 [INFO] [564/1685] Processing 6O9B chain A
+2026-02-05 16:18:16,580 [WARNING] [UniProt:A3F718] recommendedName missing
+2026-02-05 16:18:16,581 [WARNING] [UniProt:A3F718] used submissionNames
+2026-02-05 16:18:16,582 [INFO] [565/1685] Processing 4WJ5 chain A
+2026-02-05 16:18:17,146 [WARNING] [UniProt:Q861F6] recommendedName missing
+2026-02-05 16:18:17,146 [WARNING] [UniProt:Q861F6] used submissionNames
+2026-02-05 16:18:17,146 [INFO] [566/1685] Processing 7SR3 chain A
+2026-02-05 16:18:17,722 [INFO] [567/1685] Processing 4QRP chain A
+2026-02-05 16:18:18,194 [WARNING] [UniProt:C5MK56] recommendedName missing
+2026-02-05 16:18:18,194 [WARNING] [UniProt:C5MK56] used submissionNames
+2026-02-05 16:18:18,194 [INFO] [568/1685] Processing 5EU6 chain A
+2026-02-05 16:18:18,455 [INFO] [569/1685] Processing 5INC chain A
+2026-02-05 16:18:18,880 [INFO] [570/1685] Processing 9BL2 chain A
+2026-02-05 16:18:19,064 [INFO] [571/1685] Processing 7X1C chain A
+2026-02-05 16:18:20,890 [INFO] [572/1685] Processing 3MRK chain A
+2026-02-05 16:18:23,167 [INFO] [573/1685] Processing 8ESH chain A
+2026-02-05 16:18:23,477 [INFO] [574/1685] Processing 5VWJ chain A
+2026-02-05 16:18:24,089 [INFO] [575/1685] Processing 4PR5 chain A
+2026-02-05 16:18:24,180 [INFO] [576/1685] Processing 1X7Q chain A
+2026-02-05 16:18:26,406 [INFO] [577/1685] Processing 3LKP chain A
+2026-02-05 16:18:26,872 [INFO] [578/1685] Processing 6SS8 chain A
+2026-02-05 16:18:27,304 [WARNING] [SIFTS:4i48] attempt 1/3 failed: HTTPSConnectionPool(host='www.ebi.ac.uk', port=443): Read timed out. (read timeout=10)
+2026-02-05 16:18:27,655 [WARNING] [UniProt:A0A6S7XV52] recommendedName missing
+2026-02-05 16:18:27,656 [WARNING] [UniProt:A0A6S7XV52] used submissionNames
+2026-02-05 16:18:27,656 [INFO] [579/1685] Processing 3VXO chain A
+2026-02-05 16:18:29,173 [INFO] [580/1685] Processing 8RNE chain A
+2026-02-05 16:18:29,673 [INFO] [581/1685] Processing 6VB4 chain A
+2026-02-05 16:18:29,918 [INFO] [582/1685] Processing 6VIU chain A
+2026-02-05 16:18:30,061 [WARNING] [UniProt:I3ZN84] recommendedName missing
+2026-02-05 16:18:30,062 [WARNING] [UniProt:I3ZN84] used submissionNames
+2026-02-05 16:18:30,062 [INFO] [583/1685] Processing 3MRE chain A
+2026-02-05 16:18:30,269 [WARNING] [UniProt:A0A678ZMW1] recommendedName missing
+2026-02-05 16:18:30,269 [WARNING] [UniProt:A0A678ZMW1] used submissionNames
+2026-02-05 16:18:30,270 [INFO] [584/1685] Processing 9DL1 chain F
+2026-02-05 16:18:32,320 [INFO] [585/1685] Processing 2AXG chain A
+2026-02-05 16:18:33,145 [INFO] [586/1685] Processing 3QZW chain A
+2026-02-05 16:18:34,352 [WARNING] [UniProt:D2KZ37] recommendedName missing
+2026-02-05 16:18:34,352 [WARNING] [UniProt:D2KZ37] used submissionNames
+2026-02-05 16:18:34,352 [INFO] [587/1685] Processing 6AT5 chain A
+2026-02-05 16:18:35,410 [INFO] [588/1685] Processing 3TO2 chain A
+2026-02-05 16:18:35,627 [INFO] [589/1685] Processing 1MI5 chain A
+2026-02-05 16:18:36,666 [INFO] [590/1685] Processing 3FQR chain A
+2026-02-05 16:18:37,880 [INFO] [591/1685] Processing 7YG3 chain A
+2026-02-05 16:18:38,317 [INFO] [592/1685] Processing 8XKE chain A
+2026-02-05 16:18:39,093 [INFO] [593/1685] Processing 3KPQ chain A
+2026-02-05 16:18:40,381 [WARNING] [UniProt:Q59EE1] recommendedName missing
+2026-02-05 16:18:40,382 [WARNING] [UniProt:Q59EE1] used submissionNames
+2026-02-05 16:18:40,382 [WARNING] [UniProt:Q59EE1] gene name missing
+2026-02-05 16:18:40,382 [INFO] [594/1685] Processing 6VQZ chain A
+2026-02-05 16:18:40,740 [INFO] [595/1685] Processing 7SR4 chain A
+2026-02-05 16:18:40,899 [WARNING] [UniProt:F4NBQ8] recommendedName missing
+2026-02-05 16:18:40,899 [WARNING] [UniProt:F4NBQ8] used submissionNames
+2026-02-05 16:18:40,900 [INFO] [596/1685] Processing 6MT5 chain A
+2026-02-05 16:18:41,124 [WARNING] [UniProt:F4NBQ8] recommendedName missing
+2026-02-05 16:18:41,125 [WARNING] [UniProt:F4NBQ8] used submissionNames
+2026-02-05 16:18:41,125 [INFO] [597/1685] Processing 3KYO chain A
+2026-02-05 16:18:41,479 [WARNING] [UniProt:A0A5B8RNS7] recommendedName missing
+2026-02-05 16:18:41,480 [WARNING] [UniProt:A0A5B8RNS7] used submissionNames
+2026-02-05 16:18:41,480 [INFO] [598/1685] Processing 1K5N chain A
+2026-02-05 16:18:41,488 [INFO] [599/1685] Processing 4JFD chain A
+2026-02-05 16:18:43,735 [INFO] [600/1685] Processing 7MLE chain A
+2026-02-05 16:18:44,101 [WARNING] [UniProt:A0A6S7XV52] recommendedName missing
+2026-02-05 16:18:44,102 [WARNING] [UniProt:A0A6S7XV52] used submissionNames
+2026-02-05 16:18:44,102 [INFO] [601/1685] Processing 7N2P chain A
+2026-02-05 16:18:44,646 [INFO] [602/1685] Processing 6EQA chain A
+2026-02-05 16:18:45,761 [INFO] [603/1685] Processing 3MRF chain A
+2026-02-05 16:18:46,830 [INFO] [604/1685] Processing 8EMF chain A
+2026-02-05 16:18:47,060 [INFO] [605/1685] Processing 3DX6 chain A
+2026-02-05 16:18:48,125 [INFO] [606/1685] Processing 3MRR chain A
+2026-02-05 16:18:49,531 [WARNING] [UniProt:A0A0G2JL56] recommendedName missing
+2026-02-05 16:18:49,532 [WARNING] [UniProt:A0A0G2JL56] used submissionNames
+2026-02-05 16:18:49,532 [INFO] [607/1685] Processing 3VXR chain A
+2026-02-05 16:18:51,492 [WARNING] [UniProt:F4NBP7] recommendedName missing
+2026-02-05 16:18:51,493 [WARNING] [UniProt:F4NBP7] used submissionNames
+2026-02-05 16:18:51,493 [INFO] [608/1685] Processing 3MYJ chain A
+2026-02-05 16:18:51,567 [WARNING] [UniProt:O78189] recommendedName missing
+2026-02-05 16:18:51,568 [WARNING] [UniProt:O78189] used submissionNames
+2026-02-05 16:18:51,568 [INFO] [609/1685] Processing 3MRD chain A
+2026-02-05 16:18:51,828 [INFO] [610/1685] Processing 5MEO chain A
+2026-02-05 16:18:52,348 [INFO] [611/1685] Processing 7XF3 chain A
+2026-02-05 16:18:52,795 [INFO] [612/1685] Processing 5VUD chain A
+2026-02-05 16:18:52,919 [INFO] [613/1685] Processing 5T6Z chain A
+2026-02-05 16:18:52,966 [INFO] [614/1685] Processing 1AGB chain A
+2026-02-05 16:18:55,237 [INFO] [615/1685] Processing 7N1A chain A
+2026-02-05 16:18:55,279 [WARNING] [UniProt:A3F718] recommendedName missing
+2026-02-05 16:18:55,280 [WARNING] [UniProt:A3F718] used submissionNames
+2026-02-05 16:18:55,280 [INFO] [616/1685] Processing 6O51 chain A
+2026-02-05 16:18:56,072 [INFO] [617/1685] Processing 3AM8 chain A
+2026-02-05 16:18:57,199 [INFO] [618/1685] Processing 5EU5 chain A
+2026-02-05 16:18:58,506 [INFO] [619/1685] Processing 6BJ3 chain A
+2026-02-05 16:18:59,551 [INFO] [620/1685] Processing 5NMH chain A
+2026-02-05 16:19:00,955 [INFO] [621/1685] Processing 2FZ3 chain A
+2026-02-05 16:19:02,914 [INFO] [622/1685] Processing 6VQY chain A
+2026-02-05 16:19:02,992 [INFO] [623/1685] Processing 6TDO chain A
+2026-02-05 16:19:03,308 [WARNING] [UniProt:A0A6S7XV52] recommendedName missing
+2026-02-05 16:19:03,309 [WARNING] [UniProt:A0A6S7XV52] used submissionNames
+2026-02-05 16:19:03,309 [INFO] [624/1685] Processing 2V2X chain A
+2026-02-05 16:19:03,623 [WARNING] [UniProt:D9J307] recommendedName missing
+2026-02-05 16:19:03,623 [WARNING] [UniProt:D9J307] used submissionNames
+2026-02-05 16:19:03,624 [INFO] [625/1685] Processing 6RPB chain A
+2026-02-05 16:19:04,079 [WARNING] [UniProt:F4NBT2] recommendedName missing
+2026-02-05 16:19:04,079 [WARNING] [UniProt:F4NBT2] used submissionNames
+2026-02-05 16:19:04,080 [INFO] [626/1685] Processing 5EO0 chain A
+2026-02-05 16:19:04,357 [INFO] [627/1685] Processing 3QDM chain A
+2026-02-05 16:19:04,378 [INFO] [628/1685] Processing 8RNF chain A
+2026-02-05 16:19:04,781 [INFO] [629/1685] Processing 4L3E chain A
+2026-02-05 16:19:04,820 [INFO] [630/1685] Processing 3MRN chain A
+2026-02-05 16:19:06,451 [WARNING] [UniProt:A0A140T913] recommendedName missing
+2026-02-05 16:19:06,451 [WARNING] [UniProt:A0A140T913] used submissionNames
+2026-02-05 16:19:06,452 [INFO] [631/1685] Processing 4HX1 chain A
+2026-02-05 16:19:06,470 [WARNING] [UniProt:A0A140T913] recommendedName missing
+2026-02-05 16:19:06,471 [WARNING] [UniProt:A0A140T913] used submissionNames
+2026-02-05 16:19:06,471 [INFO] [632/1685] Processing 6JTO chain A
+2026-02-05 16:19:07,432 [INFO] [633/1685] Processing 4NT6 chain A
+2026-02-05 16:19:08,653 [INFO] [634/1685] Processing 3GIV chain A
+2026-02-05 16:19:10,989 [INFO] [635/1685] Processing 4WU7 chain A
+2026-02-05 16:19:11,765 [INFO] [636/1685] Processing 6VMC chain A
+2026-02-05 16:19:12,188 [WARNING] [UniProt:O19626] recommendedName missing
+2026-02-05 16:19:12,188 [WARNING] [UniProt:O19626] used submissionNames
+2026-02-05 16:19:12,188 [INFO] [637/1685] Processing 8ELH chain A
+2026-02-05 16:19:14,141 [WARNING] [UniProt:O78189] recommendedName missing
+2026-02-05 16:19:14,142 [WARNING] [UniProt:O78189] used submissionNames
+2026-02-05 16:19:14,142 [INFO] [638/1685] Processing 1AGC chain A
+2026-02-05 16:19:14,252 [WARNING] [UniProt:F6IQS1] recommendedName missing
+2026-02-05 16:19:14,253 [WARNING] [UniProt:F6IQS1] used submissionNames
+2026-02-05 16:19:14,253 [INFO] [639/1685] Processing 6AVG chain G
+2026-02-05 16:19:14,751 [INFO] [640/1685] Processing 3D25 chain A
+2026-02-05 16:19:15,060 [INFO] [641/1685] Processing 3SPV chain A
+2026-02-05 16:19:15,527 [INFO] [642/1685] Processing 4U1M chain A
+2026-02-05 16:19:15,629 [WARNING] [UniProt:Q59EE1] recommendedName missing
+2026-02-05 16:19:15,630 [WARNING] [UniProt:Q59EE1] used submissionNames
+2026-02-05 16:19:15,630 [WARNING] [UniProt:Q59EE1] gene name missing
+2026-02-05 16:19:15,630 [INFO] [643/1685] Processing 4PRI chain A
+2026-02-05 16:19:15,791 [INFO] [644/1685] Processing 5C0J chain A
+2026-02-05 16:19:16,465 [INFO] [645/1685] Processing 1DUZ chain A
+2026-02-05 16:19:16,480 [INFO] [646/1685] Processing 1A1O chain A
+2026-02-05 16:19:17,825 [INFO] [647/1685] Processing 6V2Q chain A
+2026-02-05 16:19:17,923 [INFO] [648/1685] Processing 7OW3 chain A
+2026-02-05 16:19:18,818 [INFO] [649/1685] Processing 7TUC chain A
+2026-02-05 16:19:19,698 [ERROR] [ERROR] [8ELH:A] no compatible UniProt mapping
+2026-02-05 16:19:19,699 [INFO] [650/1685] Processing 5C0A chain A
+2026-02-05 16:19:20,175 [INFO] [651/1685] Processing 8V51 chain A
+2026-02-05 16:19:23,534 [INFO] [652/1685] Processing 8RJH chain A
+2026-02-05 16:19:24,897 [WARNING] [UniProt:A0A140T913] recommendedName missing
+2026-02-05 16:19:24,897 [WARNING] [UniProt:A0A140T913] used submissionNames
+2026-02-05 16:19:24,898 [INFO] [653/1685] Processing 1TVB chain A
+2026-02-05 16:19:25,575 [INFO] [654/1685] Processing 2GIT chain A
+2026-02-05 16:19:25,728 [INFO] [655/1685] Processing 5F7D chain A
+2026-02-05 16:19:26,204 [INFO] [656/1685] Processing 5YXN chain C
+2026-02-05 16:19:26,520 [INFO] [657/1685] Processing 7TLT chain A
+2026-02-05 16:19:26,837 [WARNING] [UniProt:C5MK56] recommendedName missing
+2026-02-05 16:19:26,838 [WARNING] [UniProt:C5MK56] used submissionNames
+2026-02-05 16:19:26,838 [INFO] [658/1685] Processing 3VFW chain A
+2026-02-05 16:19:26,980 [INFO] [659/1685] Processing 6D7G chain A
+2026-02-05 16:19:27,213 [INFO] [660/1685] Processing 8FRT chain A
+2026-02-05 16:19:27,944 [INFO] [661/1685] Processing 3MRI chain A
+2026-02-05 16:19:27,958 [INFO] [662/1685] Processing 2GT9 chain A
+2026-02-05 16:19:29,028 [WARNING] [UniProt:I3ZN84] recommendedName missing
+2026-02-05 16:19:29,028 [WARNING] [UniProt:I3ZN84] used submissionNames
+2026-02-05 16:19:29,029 [INFO] [663/1685] Processing 6ULN chain A
+2026-02-05 16:19:30,056 [WARNING] [UniProt:D5H3J5] recommendedName missing
+2026-02-05 16:19:30,056 [WARNING] [UniProt:D5H3J5] used submissionNames
+2026-02-05 16:19:30,056 [INFO] [664/1685] Processing 5BS0 chain A
+2026-02-05 16:19:31,219 [INFO] [665/1685] Processing 6PYJ chain A
+2026-02-05 16:19:31,376 [WARNING] [UniProt:O19626] recommendedName missing
+2026-02-05 16:19:31,376 [WARNING] [UniProt:O19626] used submissionNames
+2026-02-05 16:19:31,376 [INFO] [666/1685] Processing 1IM3 chain A
+2026-02-05 16:19:36,325 [INFO] [667/1685] Processing 3I6K chain A
+2026-02-05 16:19:37,011 [INFO] [668/1685] Processing 2H6P chain A
+2026-02-05 16:19:37,209 [INFO] [669/1685] Processing 3VFT chain A
+2026-02-05 16:19:37,656 [INFO] [670/1685] Processing 7R7V chain A
+2026-02-05 16:19:37,752 [WARNING] [UniProt:B0UXQ0] recommendedName missing
+2026-02-05 16:19:37,753 [WARNING] [UniProt:B0UXQ0] used submissionNames
+2026-02-05 16:19:37,753 [INFO] [671/1685] Processing 8FJA chain A
+2026-02-05 16:19:37,788 [WARNING] [UniProt:A0A411J078] recommendedName missing
+2026-02-05 16:19:37,788 [WARNING] [UniProt:A0A411J078] used submissionNames
+2026-02-05 16:19:37,789 [INFO] [672/1685] Processing 7M8U chain A
+2026-02-05 16:19:38,260 [INFO] [673/1685] Processing 4PRP chain A
+2026-02-05 16:19:38,880 [WARNING] [UniProt:A0A583ZB34] recommendedName missing
+2026-02-05 16:19:38,880 [WARNING] [UniProt:A0A583ZB34] used submissionNames
+2026-02-05 16:19:38,881 [INFO] [674/1685] Processing 7M8S chain A
+2026-02-05 16:19:39,382 [INFO] [675/1685] Processing 3SKO chain A
+2026-02-05 16:19:39,542 [INFO] [676/1685] Processing 3DX7 chain A
+2026-02-05 16:19:40,268 [WARNING] [UniProt:C1K0Y1] recommendedName missing
+2026-02-05 16:19:40,268 [WARNING] [UniProt:C1K0Y1] used submissionNames
+2026-02-05 16:19:40,269 [INFO] [677/1685] Processing 1XH3 chain A
+2026-02-05 16:19:42,165 [INFO] [678/1685] Processing 3X14 chain A
+2026-02-05 16:19:42,683 [INFO] [679/1685] Processing 3BW9 chain A
+2026-02-05 16:19:42,880 [INFO] [680/1685] Processing 5KNM chain A
+2026-02-05 16:19:46,101 [INFO] [681/1685] Processing 7SIG chain A
+2026-02-05 16:19:47,833 [INFO] [682/1685] Processing 5C0G chain A
+2026-02-05 16:19:48,429 [INFO] [683/1685] Processing 2YPL chain A
+2026-02-05 16:19:48,659 [INFO] [684/1685] Processing 5U98 chain A
+2026-02-05 16:19:48,896 [WARNING] [UniProt:S6BVK3] recommendedName missing
+2026-02-05 16:19:48,897 [WARNING] [UniProt:S6BVK3] used submissionNames
+2026-02-05 16:19:48,897 [INFO] [685/1685] Processing 2V2W chain A
+2026-02-05 16:19:48,982 [WARNING] [UniProt:Q546I9] recommendedName missing
+2026-02-05 16:19:48,982 [WARNING] [UniProt:Q546I9] used submissionNames
+2026-02-05 16:19:48,983 [INFO] [686/1685] Processing 5NQK chain H
+2026-02-05 16:19:49,460 [WARNING] [UniProt:C5MK56] recommendedName missing
+2026-02-05 16:19:49,461 [WARNING] [UniProt:C5MK56] used submissionNames
+2026-02-05 16:19:49,461 [INFO] [687/1685] Processing 6PTB chain A
+2026-02-05 16:19:50,046 [WARNING] [UniProt:Q861F7] recommendedName missing
+2026-02-05 16:19:50,048 [WARNING] [UniProt:Q861F7] used submissionNames
+2026-02-05 16:19:50,048 [INFO] [688/1685] Processing 2GTZ chain A
+2026-02-05 16:19:50,093 [WARNING] [UniProt:A0A140T913] recommendedName missing
+2026-02-05 16:19:50,094 [WARNING] [UniProt:A0A140T913] used submissionNames
+2026-02-05 16:19:50,094 [INFO] [689/1685] Processing 5WXD chain A
+2026-02-05 16:19:50,895 [INFO] [690/1685] Processing 4NNX chain A
+2026-02-05 16:19:50,976 [INFO] [691/1685] Processing 9BLA chain A
+2026-02-05 16:19:51,050 [WARNING] [UniProt:O78126] recommendedName missing
+2026-02-05 16:19:51,051 [WARNING] [UniProt:O78126] used submissionNames
+2026-02-05 16:19:51,051 [INFO] [692/1685] Processing 8EMI chain A
+2026-02-05 16:19:51,705 [INFO] [693/1685] Processing 5WWI chain A
+2026-02-05 16:19:53,576 [INFO] [694/1685] Processing 7X00 chain A
+2026-02-05 16:19:54,111 [INFO] [695/1685] Processing 5NHT chain H
+2026-02-05 16:19:57,279 [WARNING] [UniProt:Q546I9] recommendedName missing
+2026-02-05 16:19:57,280 [WARNING] [UniProt:Q546I9] used submissionNames
+2026-02-05 16:19:57,280 [INFO] [696/1685] Processing 7UR1 chain A
+2026-02-05 16:19:59,325 [INFO] [697/1685] Processing 3L3G chain A
+2026-02-05 16:20:00,014 [INFO] [698/1685] Processing 3BGM chain A
+2026-02-05 16:20:00,201 [INFO] [699/1685] Processing 4NO2 chain A
+2026-02-05 16:20:00,336 [INFO] [700/1685] Processing 6UK4 chain A
+2026-02-05 16:20:00,485 [INFO] [701/1685] Processing 7L1B chain A
+2026-02-05 16:20:00,916 [INFO] [702/1685] Processing 4U1N chain A
+2026-02-05 16:20:01,105 [INFO] [703/1685] Processing 1SYS chain A
+2026-02-05 16:20:01,478 [INFO] [704/1685] Processing 1EEZ chain A
+2026-02-05 16:20:01,638 [INFO] [705/1685] Processing 5C0I chain A
+2026-02-05 16:20:02,232 [WARNING] [UniProt:F4NBT2] recommendedName missing
+2026-02-05 16:20:02,233 [WARNING] [UniProt:F4NBT2] used submissionNames
+2026-02-05 16:20:02,233 [INFO] [706/1685] Processing 7N2N chain A
+2026-02-05 16:20:02,321 [INFO] [707/1685] Processing 3W39 chain A
+2026-02-05 16:20:02,628 [WARNING] [UniProt:A0A411J078] recommendedName missing
+2026-02-05 16:20:02,629 [WARNING] [UniProt:A0A411J078] used submissionNames
+2026-02-05 16:20:02,629 [INFO] [708/1685] Processing 2X4P chain A
+2026-02-05 16:20:03,157 [INFO] [709/1685] Processing 7S8R chain A
+2026-02-05 16:20:04,785 [WARNING] [UniProt:F4NC28] recommendedName missing
+2026-02-05 16:20:04,786 [WARNING] [UniProt:F4NC28] used submissionNames
+2026-02-05 16:20:04,786 [INFO] [710/1685] Processing 4PRB chain A
+2026-02-05 16:20:05,568 [INFO] [711/1685] Processing 7STG chain A
+2026-02-05 16:20:08,471 [WARNING] [UniProt:Q53Z42] recommendedName missing
+2026-02-05 16:20:08,472 [WARNING] [UniProt:Q53Z42] used submissionNames
+2026-02-05 16:20:08,472 [INFO] [712/1685] Processing 1SYV chain A
+2026-02-05 16:20:10,771 [INFO] [713/1685] Processing 3W0W chain A
+2026-02-05 16:20:11,551 [WARNING] [UniProt:U5YJP1] recommendedName missing
+2026-02-05 16:20:11,551 [WARNING] [UniProt:U5YJP1] used submissionNames
+2026-02-05 16:20:11,551 [INFO] [714/1685] Processing 7DZM chain A
+2026-02-05 16:20:11,706 [INFO] [715/1685] Processing 4PRH chain A
+2026-02-05 16:20:11,922 [INFO] [716/1685] Processing 3KPL chain A
+2026-02-05 16:20:11,986 [INFO] [717/1685] Processing 6ULR chain A
+2026-02-05 16:20:12,339 [INFO] [718/1685] Processing 6O53 chain A
+2026-02-05 16:20:12,868 [INFO] [719/1685] Processing 6UJQ chain A
+2026-02-05 16:20:12,977 [INFO] [720/1685] Processing 3BVN chain A
+2026-02-05 16:20:13,088 [INFO] [721/1685] Processing 6VRM chain A
+2026-02-05 16:20:13,700 [WARNING] [UniProt:A3F718] recommendedName missing
+2026-02-05 16:20:13,701 [WARNING] [UniProt:A3F718] used submissionNames
+2026-02-05 16:20:13,701 [INFO] [722/1685] Processing 2FYY chain A
+2026-02-05 16:20:13,738 [INFO] [723/1685] Processing 6TDS chain A
+2026-02-05 16:20:14,360 [WARNING] [UniProt:U5YJK1] recommendedName missing
+2026-02-05 16:20:14,360 [WARNING] [UniProt:U5YJK1] used submissionNames
+2026-02-05 16:20:14,361 [INFO] [724/1685] Processing 1JHT chain A
+2026-02-05 16:20:15,979 [WARNING] [UniProt:C5MK56] recommendedName missing
+2026-02-05 16:20:15,979 [WARNING] [UniProt:C5MK56] used submissionNames
+2026-02-05 16:20:15,980 [INFO] [725/1685] Processing 5VWH chain A
+2026-02-05 16:20:19,909 [INFO] [726/1685] Processing 2VLJ chain A
+2026-02-05 16:20:22,190 [INFO] [727/1685] Processing 1E28 chain A
+2026-02-05 16:20:22,735 [WARNING] [UniProt:I3ZN85] recommendedName missing
+2026-02-05 16:20:22,736 [WARNING] [UniProt:I3ZN85] used submissionNames
+2026-02-05 16:20:22,737 [INFO] [728/1685] Processing 7UC5 chain A
+2026-02-05 16:20:22,931 [WARNING] [UniProt:C5MK56] recommendedName missing
+2026-02-05 16:20:22,932 [WARNING] [UniProt:C5MK56] used submissionNames
+2026-02-05 16:20:22,932 [INFO] [729/1685] Processing 5YXU chain E
+2026-02-05 16:20:23,346 [INFO] [730/1685] Processing 2X4Q chain D
+2026-02-05 16:20:23,686 [WARNING] [UniProt:C1K0Y1] recommendedName missing
+2026-02-05 16:20:23,687 [WARNING] [UniProt:C1K0Y1] used submissionNames
+2026-02-05 16:20:23,687 [INFO] [731/1685] Processing 4NO3 chain A
+2026-02-05 16:20:23,699 [WARNING] [UniProt:A0A140T913] recommendedName missing
+2026-02-05 16:20:23,699 [WARNING] [UniProt:A0A140T913] used submissionNames
+2026-02-05 16:20:23,700 [INFO] [732/1685] Processing 3CDG chain A
+2026-02-05 16:20:23,925 [INFO] [733/1685] Processing 8WUL chain L
+2026-02-05 16:20:24,066 [WARNING] [UniProt:U5YJP1] recommendedName missing
+2026-02-05 16:20:24,066 [WARNING] [UniProt:U5YJP1] used submissionNames
+2026-02-05 16:20:24,066 [INFO] [734/1685] Processing 3D18 chain A
+2026-02-05 16:20:24,551 [WARNING] [UniProt:Q56H30] recommendedName missing
+2026-02-05 16:20:24,552 [WARNING] [UniProt:Q56H30] used submissionNames
+2026-02-05 16:20:24,552 [INFO] [735/1685] Processing 4UQ2 chain C
+2026-02-05 16:20:24,561 [WARNING] [UniProt:A0A140T913] recommendedName missing
+2026-02-05 16:20:24,562 [WARNING] [UniProt:A0A140T913] used submissionNames
+2026-02-05 16:20:24,563 [INFO] [736/1685] Processing 1ZHK chain A
+2026-02-05 16:20:24,894 [WARNING] [UniProt:O19626] recommendedName missing
+2026-02-05 16:20:24,894 [WARNING] [UniProt:O19626] used submissionNames
+2026-02-05 16:20:24,895 [INFO] [737/1685] Processing 8VCL chain A
+2026-02-05 16:20:24,923 [WARNING] [UniProt:F6IQS1] recommendedName missing
+2026-02-05 16:20:24,924 [WARNING] [UniProt:F6IQS1] used submissionNames
+2026-02-05 16:20:24,924 [INFO] [738/1685] Processing 6D29 chain A
+2026-02-05 16:20:26,633 [INFO] [739/1685] Processing 4U1J chain A
+2026-02-05 16:20:27,715 [INFO] [740/1685] Processing 7L1D chain A
+2026-02-05 16:20:28,277 [WARNING] [UniProt:A0A678ZGP6] recommendedName missing
+2026-02-05 16:20:28,277 [WARNING] [UniProt:A0A678ZGP6] used submissionNames
+2026-02-05 16:20:28,278 [INFO] [741/1685] Processing 8CX4 chain A
+2026-02-05 16:20:31,413 [INFO] [742/1685] Processing 4U1S chain A
+2026-02-05 16:20:33,616 [INFO] [743/1685] Processing 3LKQ chain A
+2026-02-05 16:20:34,194 [INFO] [744/1685] Processing 6RPA chain A
+2026-02-05 16:20:34,412 [INFO] [745/1685] Processing 8GOM chain A
+2026-02-05 16:20:34,785 [INFO] [746/1685] Processing 6E1I chain A
+2026-02-05 16:20:35,068 [INFO] [747/1685] Processing 5NME chain A
+2026-02-05 16:20:35,130 [WARNING] [UniProt:A0A583ZB34] recommendedName missing
+2026-02-05 16:20:35,131 [WARNING] [UniProt:A0A583ZB34] used submissionNames
+2026-02-05 16:20:35,132 [INFO] [748/1685] Processing 6VR5 chain A
+2026-02-05 16:20:35,512 [INFO] [749/1685] Processing 3KPM chain A
+2026-02-05 16:20:36,014 [INFO] [750/1685] Processing 7TUE chain A
+2026-02-05 16:20:36,024 [INFO] [751/1685] Processing 3FFC chain A
+2026-02-05 16:20:36,355 [INFO] [752/1685] Processing 7PDW chain CCC
+2026-02-05 16:20:37,729 [INFO] [753/1685] Processing 4MJ5 chain A
+2026-02-05 16:20:38,069 [INFO] [754/1685] Processing 6AT9 chain A
+2026-02-05 16:20:38,613 [INFO] [755/1685] Processing 1XR8 chain A
+2026-02-05 16:20:39,144 [INFO] [756/1685] Processing 4JFQ chain A
+2026-02-05 16:20:39,463 [WARNING] [UniProt:A3F718] recommendedName missing
+2026-02-05 16:20:39,464 [WARNING] [UniProt:A3F718] used submissionNames
+2026-02-05 16:20:39,464 [INFO] [757/1685] Processing 7RE8 chain A
+2026-02-05 16:20:43,495 [INFO] [758/1685] Processing 3DTX chain A
+2026-02-05 16:20:45,623 [INFO] [759/1685] Processing 5T70 chain A
+2026-02-05 16:20:45,660 [WARNING] [UniProt:A0A140T913] recommendedName missing
+2026-02-05 16:20:45,661 [WARNING] [UniProt:A0A140T913] used submissionNames
+2026-02-05 16:20:45,661 [INFO] [760/1685] Processing 7R7W chain A
+2026-02-05 16:20:46,002 [INFO] [761/1685] Processing 6VQ2 chain A
+2026-02-05 16:20:46,340 [WARNING] [UniProt:A0A140T913] recommendedName missing
+2026-02-05 16:20:46,341 [WARNING] [UniProt:A0A140T913] used submissionNames
+2026-02-05 16:20:46,341 [INFO] [762/1685] Processing 6DKP chain A
+2026-02-05 16:20:46,511 [INFO] [763/1685] Processing 9ASF chain A
+2026-02-05 16:20:46,979 [INFO] [764/1685] Processing 2X4T chain D
+2026-02-05 16:20:47,474 [INFO] [765/1685] Processing 7K81 chain A
+2026-02-05 16:20:47,566 [WARNING] [UniProt:Q861F7] recommendedName missing
+2026-02-05 16:20:47,566 [WARNING] [UniProt:Q861F7] used submissionNames
+2026-02-05 16:20:47,566 [INFO] [766/1685] Processing 5IEK chain A
+2026-02-05 16:20:47,779 [WARNING] [UniProt:D5H3J5] recommendedName missing
+2026-02-05 16:20:47,780 [WARNING] [UniProt:D5H3J5] used submissionNames
+2026-02-05 16:20:47,780 [INFO] [767/1685] Processing 3DX8 chain A
+2026-02-05 16:20:49,062 [WARNING] [SIFTS:3lkq] attempt 1/3 failed: HTTPSConnectionPool(host='www.ebi.ac.uk', port=443): Read timed out. (read timeout=10)
+2026-02-05 16:20:49,157 [INFO] [768/1685] Processing 5GSD chain A
+2026-02-05 16:20:49,480 [INFO] [769/1685] Processing 6VQO chain A
+2026-02-05 16:20:50,587 [INFO] [770/1685] Processing 6V2O chain A
+2026-02-05 16:20:50,683 [WARNING] [UniProt:A0A140T913] recommendedName missing
+2026-02-05 16:20:50,684 [WARNING] [UniProt:A0A140T913] used submissionNames
+2026-02-05 16:20:50,685 [INFO] [771/1685] Processing 6PZ5 chain A
+2026-02-05 16:20:54,990 [INFO] [772/1685] Processing 5MEQ chain A
+2026-02-05 16:20:55,123 [INFO] [773/1685] Processing 4LNR chain A
+2026-02-05 16:20:56,853 [WARNING] [UniProt:S6BVK3] recommendedName missing
+2026-02-05 16:20:56,854 [WARNING] [UniProt:S6BVK3] used submissionNames
+2026-02-05 16:20:56,855 [INFO] [774/1685] Processing 4JFO chain A
+2026-02-05 16:20:57,091 [INFO] [775/1685] Processing 6K60 chain A
+2026-02-05 16:20:57,226 [WARNING] [UniProt:O78189] recommendedName missing
+2026-02-05 16:20:57,227 [WARNING] [UniProt:O78189] used submissionNames
+2026-02-05 16:20:57,227 [INFO] [776/1685] Processing 4PRE chain A
+2026-02-05 16:20:57,775 [INFO] [777/1685] Processing 8REF chain A
+2026-02-05 16:20:57,982 [INFO] [778/1685] Processing 6UZM chain A
+2026-02-05 16:20:58,514 [INFO] [779/1685] Processing 3LKS chain A
+2026-02-05 16:20:58,670 [WARNING] [UniProt:A0A5H2UYS3] recommendedName missing
+2026-02-05 16:20:58,670 [WARNING] [UniProt:A0A5H2UYS3] used submissionNames
+2026-02-05 16:20:58,670 [INFO] [780/1685] Processing 6BJ8 chain A
+2026-02-05 16:20:59,137 [INFO] [781/1685] Processing 3MRL chain A
+2026-02-05 16:20:59,195 [INFO] [782/1685] Processing 1ZSD chain A
+2026-02-05 16:21:00,594 [INFO] [783/1685] Processing 4QRQ chain A
+2026-02-05 16:21:00,713 [WARNING] [UniProt:A0A140T913] recommendedName missing
+2026-02-05 16:21:00,714 [WARNING] [UniProt:A0A140T913] used submissionNames
+2026-02-05 16:21:00,715 [INFO] [784/1685] Processing 3MV7 chain A
+2026-02-05 16:21:01,805 [WARNING] [UniProt:U6BR87] recommendedName missing
+2026-02-05 16:21:01,805 [WARNING] [UniProt:U6BR87] used submissionNames
+2026-02-05 16:21:01,806 [INFO] [785/1685] Processing 1JGD chain A
+2026-02-05 16:21:02,145 [INFO] [786/1685] Processing 6TMO chain A
+2026-02-05 16:21:03,810 [INFO] [787/1685] Processing 7R80 chain C
+2026-02-05 16:21:06,439 [INFO] [788/1685] Processing 7K80 chain A
+2026-02-05 16:21:06,660 [INFO] [789/1685] Processing 6Q3K chain A
+2026-02-05 16:21:08,376 [INFO] [790/1685] Processing 1ZHL chain A
+2026-02-05 16:21:08,423 [INFO] [791/1685] Processing 2YPK chain A
+2026-02-05 16:21:08,490 [WARNING] [UniProt:C5MK56] recommendedName missing
+2026-02-05 16:21:08,490 [WARNING] [UniProt:C5MK56] used submissionNames
+2026-02-05 16:21:08,491 [INFO] [792/1685] Processing 3VCL chain A
+2026-02-05 16:21:09,007 [WARNING] [UniProt:C5IYE8] recommendedName missing
+2026-02-05 16:21:09,007 [WARNING] [UniProt:C5IYE8] used submissionNames
+2026-02-05 16:21:09,008 [INFO] [793/1685] Processing 7R7Y chain A
+2026-02-05 16:21:09,188 [WARNING] [UniProt:F4NBQ8] recommendedName missing
+2026-02-05 16:21:09,189 [WARNING] [UniProt:F4NBQ8] used submissionNames
+2026-02-05 16:21:09,189 [INFO] [794/1685] Processing 8F7M chain A
+2026-02-05 16:21:09,938 [INFO] [795/1685] Processing 8DNT chain E
+2026-02-05 16:21:10,096 [INFO] [796/1685] Processing 1W0W chain A
+2026-02-05 16:21:10,591 [INFO] [797/1685] Processing 7PHR chain H
+2026-02-05 16:21:11,595 [INFO] [798/1685] Processing 5VGD chain A
+2026-02-05 16:21:12,043 [INFO] [799/1685] Processing 8WTE chain H
+2026-02-05 16:21:12,175 [INFO] [800/1685] Processing 7STF chain A
+2026-02-05 16:21:13,349 [WARNING] [UniProt:A0A5B8RNS7] recommendedName missing
+2026-02-05 16:21:13,350 [WARNING] [UniProt:A0A5B8RNS7] used submissionNames
+2026-02-05 16:21:13,350 [INFO] [801/1685] Processing 7EU2 chain A
+2026-02-05 16:21:14,122 [INFO] [802/1685] Processing 9ASG chain A
+2026-02-05 16:21:14,996 [WARNING] [UniProt:S6BVK3] recommendedName missing
+2026-02-05 16:21:14,997 [WARNING] [UniProt:S6BVK3] used submissionNames
+2026-02-05 16:21:14,997 [INFO] [803/1685] Processing 6VR1 chain A
+2026-02-05 16:21:17,654 [WARNING] [UniProt:A0A5H2UYS3] recommendedName missing
+2026-02-05 16:21:17,655 [WARNING] [UniProt:A0A5H2UYS3] used submissionNames
+2026-02-05 16:21:17,655 [INFO] [804/1685] Processing 1M6O chain A
+2026-02-05 16:21:18,100 [INFO] [805/1685] Processing 9BL3 chain A
+2026-02-05 16:21:19,813 [INFO] [806/1685] Processing 6EWA chain A
+2026-02-05 16:21:19,887 [INFO] [807/1685] Processing 5XOS chain A
+2026-02-05 16:21:19,987 [INFO] [808/1685] Processing 6PYL chain A
+2026-02-05 16:21:20,334 [WARNING] [UniProt:U6BR87] recommendedName missing
+2026-02-05 16:21:20,335 [WARNING] [UniProt:U6BR87] used submissionNames
+2026-02-05 16:21:20,335 [INFO] [809/1685] Processing 6Y26 chain A
+2026-02-05 16:21:20,588 [WARNING] [UniProt:U6BR87] recommendedName missing
+2026-02-05 16:21:20,589 [WARNING] [UniProt:U6BR87] used submissionNames
+2026-02-05 16:21:20,589 [INFO] [810/1685] Processing 7ST3 chain A
+2026-02-05 16:21:21,242 [WARNING] [UniProt:U5YKE0] recommendedName missing
+2026-02-05 16:21:21,242 [WARNING] [UniProt:U5YKE0] used submissionNames
+2026-02-05 16:21:21,243 [INFO] [811/1685] Processing 5DEF chain A
+2026-02-05 16:21:21,585 [INFO] [812/1685] Processing 2AK4 chain A
+2026-02-05 16:21:22,080 [INFO] [813/1685] Processing 1I1Y chain A
+2026-02-05 16:21:22,962 [INFO] [814/1685] Processing 5WMQ chain A
+2026-02-05 16:21:23,373 [WARNING] [UniProt:A0A583ZB34] recommendedName missing
+2026-02-05 16:21:23,374 [WARNING] [UniProt:A0A583ZB34] used submissionNames
+2026-02-05 16:21:23,374 [INFO] [815/1685] Processing 6NCA chain I
+2026-02-05 16:21:23,617 [INFO] [816/1685] Processing 4U1H chain A
+2026-02-05 16:21:25,635 [INFO] [817/1685] Processing 3VH8 chain A
+2026-02-05 16:21:26,099 [WARNING] [UniProt:A0A5H2UU57] recommendedName missing
+2026-02-05 16:21:26,100 [WARNING] [UniProt:A0A5H2UU57] used submissionNames
+2026-02-05 16:21:26,100 [INFO] [818/1685] Processing 1W0V chain A
+2026-02-05 16:21:26,247 [WARNING] [UniProt:A0A140T913] recommendedName missing
+2026-02-05 16:21:26,248 [WARNING] [UniProt:A0A140T913] used submissionNames
+2026-02-05 16:21:26,248 [INFO] [819/1685] Processing 5GRG chain A
+2026-02-05 16:21:29,110 [INFO] [820/1685] Processing 2HJK chain A
+2026-02-05 16:21:31,256 [INFO] [821/1685] Processing 3VFO chain A
+2026-02-05 16:21:31,314 [INFO] [822/1685] Processing 7SSH chain A
+2026-02-05 16:21:31,451 [INFO] [823/1685] Processing 3L3I chain A
+2026-02-05 16:21:31,526 [WARNING] [UniProt:A0A6B7HFJ9] recommendedName missing
+2026-02-05 16:21:31,527 [WARNING] [UniProt:A0A6B7HFJ9] used submissionNames
+2026-02-05 16:21:31,527 [INFO] [824/1685] Processing 6PA1 chain A
+2026-02-05 16:21:32,677 [INFO] [825/1685] Processing 3HLA chain A
+2026-02-05 16:21:33,029 [INFO] [826/1685] Processing 2X4O chain D
+2026-02-05 16:21:33,527 [INFO] [827/1685] Processing 9C6X chain A
+2026-02-05 16:21:33,987 [WARNING] [UniProt:I3ZN84] recommendedName missing
+2026-02-05 16:21:33,988 [WARNING] [UniProt:I3ZN84] used submissionNames
+2026-02-05 16:21:33,988 [INFO] [828/1685] Processing 1HHJ chain A
+2026-02-05 16:21:34,384 [INFO] [829/1685] Processing 7ALO chain A
+2026-02-05 16:21:34,984 [INFO] [830/1685] Processing 5B38 chain A
+2026-02-05 16:21:35,061 [INFO] [831/1685] Processing 7SQP chain A
+2026-02-05 16:21:37,065 [INFO] [832/1685] Processing 6ENY chain F
+2026-02-05 16:21:37,517 [INFO] [833/1685] Processing 2PYE chain A
+2026-02-05 16:21:37,683 [INFO] [834/1685] Processing 3KPS chain A
+2026-02-05 16:21:40,330 [WARNING] [UniProt:Q9MYI6] recommendedName missing
+2026-02-05 16:21:40,331 [WARNING] [UniProt:Q9MYI6] used submissionNames
+2026-02-05 16:21:40,331 [INFO] [835/1685] Processing 3LKR chain A
+2026-02-05 16:21:42,920 [INFO] [836/1685] Processing 6VQE chain A
+2026-02-05 16:21:42,978 [INFO] [837/1685] Processing 3B3I chain A
+2026-02-05 16:21:44,127 [INFO] [838/1685] Processing 5GRD chain A
+2026-02-05 16:21:44,484 [INFO] [839/1685] Processing 6G3K chain A
+2026-02-05 16:21:45,033 [WARNING] [UniProt:A0A678ZGP6] recommendedName missing
+2026-02-05 16:21:45,034 [WARNING] [UniProt:A0A678ZGP6] used submissionNames
+2026-02-05 16:21:45,034 [INFO] [840/1685] Processing 2X4R chain D
+2026-02-05 16:21:45,488 [INFO] [841/1685] Processing 8GVB chain H
+2026-02-05 16:21:45,609 [WARNING] [UniProt:A0A2R7Z5J3] recommendedName missing
+2026-02-05 16:21:45,610 [WARNING] [UniProt:A0A2R7Z5J3] used submissionNames
+2026-02-05 16:21:45,610 [INFO] [842/1685] Processing 8VJZ chain A
+2026-02-05 16:21:45,726 [WARNING] [UniProt:C5MK56] recommendedName missing
+2026-02-05 16:21:45,727 [WARNING] [UniProt:C5MK56] used submissionNames
+2026-02-05 16:21:45,727 [INFO] [843/1685] Processing 4PRD chain A
+2026-02-05 16:21:48,500 [INFO] [844/1685] Processing 4L3C chain A
+2026-02-05 16:21:49,416 [INFO] [845/1685] Processing 6D78 chain A
+2026-02-05 16:21:49,582 [INFO] [846/1685] Processing 8V4Z chain A
+2026-02-05 16:21:49,917 [INFO] [847/1685] Processing 6VRN chain A
+2026-02-05 16:21:51,777 [INFO] [848/1685] Processing 8TNJ chain A
+2026-02-05 16:21:54,098 [WARNING] [UniProt:O78189] recommendedName missing
+2026-02-05 16:21:54,099 [WARNING] [UniProt:O78189] used submissionNames
+2026-02-05 16:21:54,099 [INFO] [849/1685] Processing 5NMG chain A
+2026-02-05 16:21:54,462 [INFO] [850/1685] Processing 9BL9 chain A
+2026-02-05 16:21:54,715 [WARNING] [UniProt:A0A678ZGP6] recommendedName missing
+2026-02-05 16:21:54,716 [WARNING] [UniProt:A0A678ZGP6] used submissionNames
+2026-02-05 16:21:54,716 [INFO] [851/1685] Processing 4QRU chain A
+2026-02-05 16:21:55,585 [INFO] [852/1685] Processing 3KPR chain A
+2026-02-05 16:21:56,199 [WARNING] [UniProt:R5AK10] recommendedName missing
+2026-02-05 16:21:56,199 [WARNING] [UniProt:R5AK10] used submissionNames
+2026-02-05 16:21:56,199 [INFO] [853/1685] Processing 2CIK chain A
+2026-02-05 16:21:56,503 [INFO] [854/1685] Processing 4K7F chain A
+2026-02-05 16:21:56,682 [WARNING] [UniProt:F6IQZ4] recommendedName missing
+2026-02-05 16:21:56,683 [WARNING] [UniProt:F6IQZ4] used submissionNames
+2026-02-05 16:21:56,683 [INFO] [855/1685] Processing 7T0L chain A
+2026-02-05 16:21:56,984 [WARNING] [UniProt:C5MK56] recommendedName missing
+2026-02-05 16:21:56,985 [WARNING] [UniProt:C5MK56] used submissionNames
+2026-02-05 16:21:56,985 [INFO] [856/1685] Processing 3KWW chain A
+2026-02-05 16:21:57,108 [INFO] [857/1685] Processing 2BVQ chain A
+2026-02-05 16:21:57,629 [WARNING] [UniProt:A0A6S7XV52] recommendedName missing
+2026-02-05 16:21:57,629 [WARNING] [UniProt:A0A6S7XV52] used submissionNames
+2026-02-05 16:21:57,629 [INFO] [858/1685] Processing 3VFM chain A
+2026-02-05 16:21:59,947 [WARNING] [SIFTS:6g3k] attempt 1/3 failed: HTTPSConnectionPool(host='www.ebi.ac.uk', port=443): Read timed out. (read timeout=10)
+2026-02-05 16:22:00,770 [WARNING] [UniProt:F4NBT2] recommendedName missing
+2026-02-05 16:22:00,770 [WARNING] [UniProt:F4NBT2] used submissionNames
+2026-02-05 16:22:00,770 [INFO] [859/1685] Processing 2BSS chain A
+2026-02-05 16:22:00,883 [INFO] [860/1685] Processing 3L3D chain A
+2026-02-05 16:22:01,124 [WARNING] [UniProt:A0A140T913] recommendedName missing
+2026-02-05 16:22:01,125 [WARNING] [UniProt:A0A140T913] used submissionNames
+2026-02-05 16:22:01,125 [INFO] [861/1685] Processing 2NW3 chain A
+2026-02-05 16:22:05,564 [INFO] [862/1685] Processing 7X1B chain A
+2026-02-05 16:22:05,679 [WARNING] [UniProt:A0A411J078] recommendedName missing
+2026-02-05 16:22:05,680 [WARNING] [UniProt:A0A411J078] used submissionNames
+2026-02-05 16:22:05,680 [INFO] [863/1685] Processing 3QDG chain A
+2026-02-05 16:22:06,134 [INFO] [864/1685] Processing 4JQX chain A
+2026-02-05 16:22:07,026 [INFO] [865/1685] Processing 5MER chain A
+2026-02-05 16:22:07,485 [INFO] [866/1685] Processing 3DXA chain A
+2026-02-05 16:22:07,492 [WARNING] [UniProt:O19626] recommendedName missing
+2026-02-05 16:22:07,493 [WARNING] [UniProt:O19626] used submissionNames
+2026-02-05 16:22:07,493 [INFO] [867/1685] Processing 2BST chain A
+2026-02-05 16:22:08,004 [WARNING] [UniProt:A3F718] recommendedName missing
+2026-02-05 16:22:08,004 [WARNING] [UniProt:A3F718] used submissionNames
+2026-02-05 16:22:08,005 [INFO] [868/1685] Processing 4QRT chain A
+2026-02-05 16:22:08,094 [INFO] [869/1685] Processing 9BL4 chain A
+2026-02-05 16:22:08,418 [INFO] [870/1685] Processing 8RJ5 chain A
+2026-02-05 16:22:08,517 [INFO] [871/1685] Processing 6VB3 chain A
+2026-02-05 16:22:08,837 [WARNING] [UniProt:C5MK56] recommendedName missing
+2026-02-05 16:22:08,838 [WARNING] [UniProt:C5MK56] used submissionNames
+2026-02-05 16:22:08,838 [INFO] [872/1685] Processing 8FJB chain A
+2026-02-05 16:22:12,322 [INFO] [873/1685] Processing 5D2L chain A
+2026-02-05 16:22:12,566 [INFO] [874/1685] Processing 6EQB chain A
+2026-02-05 16:22:13,034 [WARNING] [UniProt:A0A858LJX3] recommendedName missing
+2026-02-05 16:22:13,035 [WARNING] [UniProt:A0A858LJX3] used submissionNames
+2026-02-05 16:22:13,035 [INFO] [875/1685] Processing 6PYW chain A
+2026-02-05 16:22:13,374 [INFO] [876/1685] Processing 3QEQ chain A
+2026-02-05 16:22:16,226 [WARNING] [SIFTS:2bss] attempt 1/3 failed: HTTPSConnectionPool(host='www.ebi.ac.uk', port=443): Read timed out. (read timeout=10)
+2026-02-05 16:22:16,763 [WARNING] [UniProt:A0A678ZMW1] recommendedName missing
+2026-02-05 16:22:16,764 [WARNING] [UniProt:A0A678ZMW1] used submissionNames
+2026-02-05 16:22:16,764 [INFO] [877/1685] Processing 7CIR chain A
+2026-02-05 16:22:17,140 [INFO] [878/1685] Processing 5IB5 chain A
+2026-02-05 16:22:17,569 [INFO] [879/1685] Processing 2P5W chain A
+2026-02-05 16:22:18,490 [INFO] [880/1685] Processing 3MV8 chain A
+2026-02-05 16:22:18,913 [INFO] [881/1685] Processing 3WUW chain A
+2026-02-05 16:22:18,931 [INFO] [882/1685] Processing 5B39 chain A
+2026-02-05 16:22:19,474 [INFO] [883/1685] Processing 3UPR chain A
+2026-02-05 16:22:19,708 [WARNING] [UniProt:F4NBQ1] recommendedName missing
+2026-02-05 16:22:19,709 [WARNING] [UniProt:F4NBQ1] used submissionNames
+2026-02-05 16:22:19,709 [INFO] [884/1685] Processing 3O3D chain A
+2026-02-05 16:22:20,039 [WARNING] [UniProt:Q861F7] recommendedName missing
+2026-02-05 16:22:20,039 [WARNING] [UniProt:Q861F7] used submissionNames
+2026-02-05 16:22:20,040 [INFO] [885/1685] Processing 8GVG chain H
+2026-02-05 16:22:23,576 [WARNING] [SIFTS:9bl4] attempt 1/3 failed: HTTPSConnectionPool(host='www.ebi.ac.uk', port=443): Read timed out. (read timeout=10)
+2026-02-05 16:22:23,863 [WARNING] [SIFTS:8rj5] attempt 1/3 failed: HTTPSConnectionPool(host='www.ebi.ac.uk', port=443): Read timed out. (read timeout=10)
+2026-02-05 16:22:24,024 [INFO] [886/1685] Processing 2C7U chain A
+2026-02-05 16:22:24,477 [INFO] [887/1685] Processing 4GKN chain A
+2026-02-05 16:22:29,186 [INFO] [888/1685] Processing 1KTL chain A
+2026-02-05 16:22:29,640 [INFO] [889/1685] Processing 6Y2B chain A
+2026-02-05 16:22:29,939 [INFO] [890/1685] Processing 2X4U chain D
+2026-02-05 16:22:30,359 [INFO] [891/1685] Processing 3SKM chain A
+2026-02-05 16:22:30,885 [INFO] [892/1685] Processing 8RCV chain A
+2026-02-05 16:22:30,931 [WARNING] [UniProt:O78189] recommendedName missing
+2026-02-05 16:22:30,932 [WARNING] [UniProt:O78189] used submissionNames
+2026-02-05 16:22:30,933 [INFO] [893/1685] Processing 6Y29 chain A
+2026-02-05 16:22:31,140 [INFO] [894/1685] Processing 4EUP chain D
+2026-02-05 16:22:31,168 [INFO] [895/1685] Processing 3LV3 chain A
+2026-02-05 16:22:31,688 [WARNING] [UniProt:F6IQZ4] recommendedName missing
+2026-02-05 16:22:31,689 [WARNING] [UniProt:F6IQZ4] used submissionNames
+2026-02-05 16:22:31,689 [INFO] [896/1685] Processing 2AXF chain A
+2026-02-05 16:22:31,915 [INFO] [897/1685] Processing 3BP7 chain A
+2026-02-05 16:22:33,481 [INFO] [898/1685] Processing 3KPN chain A
+2026-02-05 16:22:33,768 [INFO] [899/1685] Processing 1TMC chain A
+2026-02-05 16:22:35,472 [INFO] [900/1685] Processing 3QDJ chain A
+2026-02-05 16:22:35,910 [INFO] [901/1685] Processing 5WMR chain A
+2026-02-05 16:22:36,806 [WARNING] [UniProt:I3ZN84] recommendedName missing
+2026-02-05 16:22:36,807 [WARNING] [UniProt:I3ZN84] used submissionNames
+2026-02-05 16:22:36,807 [INFO] [902/1685] Processing 7RE7 chain D
+2026-02-05 16:22:40,772 [INFO] [903/1685] Processing 5DEG chain A
+2026-02-05 16:22:40,829 [WARNING] [UniProt:A0A2R7Z5J3] recommendedName missing
+2026-02-05 16:22:40,829 [WARNING] [UniProt:A0A2R7Z5J3] used submissionNames
+2026-02-05 16:22:40,830 [INFO] [904/1685] Processing 5IB1 chain A
+2026-02-05 16:22:40,944 [WARNING] [UniProt:A0A5H2UYS3] recommendedName missing
+2026-02-05 16:22:40,945 [WARNING] [UniProt:A0A5H2UYS3] used submissionNames
+2026-02-05 16:22:40,945 [INFO] [905/1685] Processing 4G9D chain A
+2026-02-05 16:22:41,376 [INFO] [906/1685] Processing 8VRA chain A
+2026-02-05 16:22:41,791 [INFO] [907/1685] Processing 2VLR chain A
+2026-02-05 16:22:42,108 [WARNING] [UniProt:C5IYE8] recommendedName missing
+2026-02-05 16:22:42,109 [WARNING] [UniProt:C5IYE8] used submissionNames
+2026-02-05 16:22:42,109 [INFO] [908/1685] Processing 3BP4 chain A
+2026-02-05 16:22:42,185 [WARNING] [UniProt:A0A2R7Z5J3] recommendedName missing
+2026-02-05 16:22:42,186 [WARNING] [UniProt:A0A2R7Z5J3] used submissionNames
+2026-02-05 16:22:42,186 [INFO] [909/1685] Processing 6VQD chain A
+2026-02-05 16:22:42,574 [INFO] [910/1685] Processing 8HN4 chain A
+2026-02-05 16:22:42,805 [INFO] [911/1685] Processing 1M05 chain A
+2026-02-05 16:22:43,148 [INFO] [912/1685] Processing 7DYN chain A
+2026-02-05 16:22:43,426 [INFO] [913/1685] Processing 6Y28 chain A
+2026-02-05 16:22:44,904 [INFO] [914/1685] Processing 7CIS chain A
+2026-02-05 16:22:45,203 [INFO] [915/1685] Processing 1KPR chain A
+2026-02-05 16:22:46,973 [INFO] [916/1685] Processing 4G9F chain A
+2026-02-05 16:22:47,383 [INFO] [917/1685] Processing 5D2N chain H
+2026-02-05 16:22:48,452 [WARNING] [UniProt:A0A140T913] recommendedName missing
+2026-02-05 16:22:48,452 [WARNING] [UniProt:A0A140T913] used submissionNames
+2026-02-05 16:22:48,453 [INFO] [918/1685] Processing 1A1M chain A
+2026-02-05 16:22:52,255 [INFO] [919/1685] Processing 3BO8 chain A
+2026-02-05 16:22:52,278 [INFO] [920/1685] Processing 9C6W chain A
+2026-02-05 16:22:52,380 [INFO] [921/1685] Processing 6EI2 chain A
+2026-02-05 16:22:52,878 [INFO] [922/1685] Processing 6Y27 chain A
+2026-02-05 16:22:53,289 [INFO] [923/1685] Processing 4G8I chain A
+2026-02-05 16:22:53,438 [WARNING] [UniProt:O78189] recommendedName missing
+2026-02-05 16:22:53,439 [WARNING] [UniProt:O78189] used submissionNames
+2026-02-05 16:22:53,439 [INFO] [924/1685] Processing 8ESB chain A
+2026-02-05 16:22:53,784 [WARNING] [UniProt:F6IR24] recommendedName missing
+2026-02-05 16:22:53,785 [WARNING] [UniProt:F6IR24] used submissionNames
+2026-02-05 16:22:53,785 [INFO] [925/1685] Processing 8RRO chain C
+2026-02-05 16:22:54,283 [INFO] [926/1685] Processing 6VPZ chain A
+2026-02-05 16:22:54,337 [WARNING] [UniProt:O78189] recommendedName missing
+2026-02-05 16:22:54,338 [WARNING] [UniProt:O78189] used submissionNames
+2026-02-05 16:22:54,338 [INFO] [927/1685] Processing 6APN chain A
+2026-02-05 16:22:54,820 [WARNING] [UniProt:A0A6B7HFJ9] recommendedName missing
+2026-02-05 16:22:54,820 [WARNING] [UniProt:A0A6B7HFJ9] used submissionNames
+2026-02-05 16:22:54,821 [INFO] [928/1685] Processing 1UXW chain A
+2026-02-05 16:22:56,102 [WARNING] [UniProt:O78189] recommendedName missing
+2026-02-05 16:22:56,103 [WARNING] [UniProt:O78189] used submissionNames
+2026-02-05 16:22:56,103 [INFO] [929/1685] Processing 8YIV chain A
+2026-02-05 16:22:56,537 [INFO] [930/1685] Processing 9C6V chain A
+2026-02-05 16:22:57,558 [WARNING] [SIFTS:3bp4] attempt 1/3 failed: HTTPSConnectionPool(host='www.ebi.ac.uk', port=443): Read timed out. (read timeout=10)
+2026-02-05 16:22:58,395 [INFO] [931/1685] Processing 3CZF chain A
+2026-02-05 16:22:58,822 [INFO] [932/1685] Processing 1HSA chain A
+2026-02-05 16:22:59,973 [INFO] [933/1685] Processing 5IB4 chain A
+2026-02-05 16:23:03,771 [INFO] [934/1685] Processing 2A83 chain A
+2026-02-05 16:23:03,820 [INFO] [935/1685] Processing 2BSR chain A
+2026-02-05 16:23:04,637 [WARNING] [UniProt:Q53Z42] recommendedName missing
+2026-02-05 16:23:04,638 [WARNING] [UniProt:Q53Z42] used submissionNames
+2026-02-05 16:23:04,638 [INFO] [936/1685] Processing 8T7R chain i
+2026-02-05 16:23:05,258 [INFO] [937/1685] Processing 1OF2 chain A
+2026-02-05 16:23:05,439 [INFO] [938/1685] Processing 8VR9 chain A
+2026-02-05 16:23:05,463 [WARNING] [UniProt:O78189] recommendedName missing
+2026-02-05 16:23:05,463 [WARNING] [UniProt:O78189] used submissionNames
+2026-02-05 16:23:05,464 [INFO] [939/1685] Processing 8T6M chain E
+2026-02-05 16:23:05,752 [WARNING] [UniProt:A0A2R7Z5J3] recommendedName missing
+2026-02-05 16:23:05,753 [WARNING] [UniProt:A0A2R7Z5J3] used submissionNames
+2026-02-05 16:23:05,753 [INFO] [940/1685] Processing 7CIQ chain A
+2026-02-05 16:23:06,251 [INFO] [941/1685] Processing 5VGE chain A
+2026-02-05 16:23:07,310 [WARNING] [UniProt:F6IQR9] recommendedName missing
+2026-02-05 16:23:07,310 [WARNING] [UniProt:F6IQR9] used submissionNames
+2026-02-05 16:23:07,310 [INFO] [942/1685] Processing 6UON chain D
+2026-02-05 16:23:09,815 [INFO] [943/1685] Processing 8YJ2 chain A
+2026-02-05 16:23:10,253 [INFO] [944/1685] Processing 5IB2 chain A
+2026-02-05 16:23:10,965 [INFO] [945/1685] Processing 3B6S chain A
+2026-02-05 16:23:11,452 [INFO] [946/1685] Processing 1OGT chain A
+2026-02-05 16:23:14,916 [WARNING] [UniProt:I3ZN83] recommendedName missing
+2026-02-05 16:23:14,917 [WARNING] [UniProt:I3ZN83] used submissionNames
+2026-02-05 16:23:14,917 [INFO] [947/1685] Processing 7N2Q chain A
+2026-02-05 16:23:15,226 [INFO] [948/1685] Processing 6Y2A chain A
+2026-02-05 16:23:15,262 [INFO] [949/1685] Processing 8V50 chain A
+2026-02-05 16:23:15,872 [WARNING] [UniProt:F6IQR9] recommendedName missing
+2026-02-05 16:23:15,872 [WARNING] [UniProt:F6IQR9] used submissionNames
+2026-02-05 16:23:15,872 [INFO] [950/1685] Processing 8GVI chain H
+2026-02-05 16:23:16,685 [WARNING] [UniProt:I3QHR3] recommendedName missing
+2026-02-05 16:23:16,686 [WARNING] [UniProt:I3QHR3] used submissionNames
+2026-02-05 16:23:16,686 [INFO] [951/1685] Processing 3CII chain A
+2026-02-05 16:23:16,884 [INFO] [952/1685] Processing 7QPD chain M
+2026-02-05 16:23:16,886 [INFO] [953/1685] Processing 4U1K chain A
+2026-02-05 16:23:17,026 [WARNING] [UniProt:O78189] recommendedName missing
+2026-02-05 16:23:17,026 [WARNING] [UniProt:O78189] used submissionNames
+2026-02-05 16:23:17,027 [INFO] [954/1685] Processing 1JGE chain A
+2026-02-05 16:23:17,925 [INFO] [955/1685] Processing 8ESA chain A
+2026-02-05 16:23:18,700 [WARNING] [UniProt:C1K0Y1] recommendedName missing
+2026-02-05 16:23:18,701 [WARNING] [UniProt:C1K0Y1] used submissionNames
+2026-02-05 16:23:18,701 [INFO] [956/1685] Processing 5IB3 chain A
+2026-02-05 16:23:19,142 [WARNING] [UniProt:I3ZN83] recommendedName missing
+2026-02-05 16:23:19,142 [WARNING] [UniProt:I3ZN83] used submissionNames
+2026-02-05 16:23:19,143 [INFO] [957/1685] Processing 1UXS chain A
+2026-02-05 16:23:21,710 [INFO] [958/1685] Processing 2HLA chain A
+2026-02-05 16:23:21,729 [WARNING] [UniProt:F6IQR9] recommendedName missing
+2026-02-05 16:23:21,729 [WARNING] [UniProt:F6IQR9] used submissionNames
+2026-02-05 16:23:21,730 [INFO] [959/1685] Processing 8EC5 chain A
+2026-02-05 16:23:22,372 [INFO] [960/1685] Processing 8VRB chain A
+2026-02-05 16:23:22,857 [INFO] [961/1685] Processing 1QQD chain A
+2026-02-05 16:23:24,248 [INFO] [962/1685] Processing 7DUU chain A
+2026-02-05 16:23:26,141 [WARNING] [UniProt:A3F718] recommendedName missing
+2026-02-05 16:23:26,141 [WARNING] [UniProt:A3F718] used submissionNames
+2026-02-05 16:23:26,141 [INFO] [963/1685] Processing 1EFX chain A
+2026-02-05 16:23:26,450 [WARNING] [UniProt:A0A6B7HFJ9] recommendedName missing
+2026-02-05 16:23:26,450 [WARNING] [UniProt:A0A6B7HFJ9] used submissionNames
+2026-02-05 16:23:26,451 [INFO] [964/1685] Processing 8TMU chain A
+2026-02-05 16:23:26,454 [WARNING] [UniProt:O19626] recommendedName missing
+2026-02-05 16:23:26,454 [WARNING] [UniProt:O19626] used submissionNames
+2026-02-05 16:23:26,454 [INFO] [965/1685] Processing 3RWC chain A
+2026-02-05 16:23:27,050 [WARNING] [UniProt:F6IQZ4] recommendedName missing
+2026-02-05 16:23:27,051 [WARNING] [UniProt:F6IQZ4] used submissionNames
+2026-02-05 16:23:27,052 [INFO] [966/1685] Processing 4ZUS chain A
+2026-02-05 16:23:28,242 [INFO] [967/1685] Processing 5XS3 chain A
+2026-02-05 16:23:28,326 [INFO] [968/1685] Processing 1IM9 chain A
+2026-02-05 16:23:28,381 [INFO] [969/1685] Processing 3RWI chain A
+2026-02-05 16:23:30,568 [INFO] [970/1685] Processing 3RWH chain A
+2026-02-05 16:23:30,721 [INFO] [971/1685] Processing 3RWD chain A
+2026-02-05 16:23:32,951 [WARNING] [UniProt:Q5SS57] recommendedName missing
+2026-02-05 16:23:32,951 [WARNING] [UniProt:Q5SS57] used submissionNames
+2026-02-05 16:23:32,952 [INFO] [972/1685] Processing 1ZVS chain A
+2026-02-05 16:23:33,582 [WARNING] [UniProt:A0A3G8GE10] recommendedName missing
+2026-02-05 16:23:33,583 [WARNING] [UniProt:A0A3G8GE10] used submissionNames
+2026-02-05 16:23:33,583 [WARNING] [UniProt:A0A3G8GE10] gene name missing
+2026-02-05 16:23:33,583 [INFO] [973/1685] Processing 3RWE chain A
+2026-02-05 16:23:33,848 [WARNING] [SIFTS:5xs3] attempt 1/3 failed: 404 Client Error: Not Found for url: https://www.ebi.ac.uk/pdbe/api/mappings/uniprot/5xs3
+2026-02-05 16:23:34,164 [WARNING] [SIFTS:5ib3] attempt 1/3 failed: HTTPSConnectionPool(host='www.ebi.ac.uk', port=443): Read timed out. (read timeout=10)
+2026-02-05 16:23:34,250 [INFO] [974/1685] Processing 4ZUW chain A
+2026-02-05 16:23:34,940 [WARNING] [UniProt:Q53Z42] recommendedName missing
+2026-02-05 16:23:34,941 [WARNING] [UniProt:Q53Z42] used submissionNames
+2026-02-05 16:23:34,941 [INFO] [975/1685] Processing 3RWF chain A
+2026-02-05 16:23:35,449 [WARNING] [UniProt:F6IQA6] recommendedName missing
+2026-02-05 16:23:35,450 [WARNING] [UniProt:F6IQA6] used submissionNames
+2026-02-05 16:23:35,451 [INFO] [976/1685] Processing 5E6I chain I
+2026-02-05 16:23:37,172 [WARNING] [SIFTS:2hla] attempt 1/3 failed: HTTPSConnectionPool(host='www.ebi.ac.uk', port=443): Read timed out. (read timeout=10)
+2026-02-05 16:23:37,494 [INFO] [977/1685] Processing 4ZUU chain A
+2026-02-05 16:23:37,652 [WARNING] [UniProt:Q9GJ77] recommendedName missing
+2026-02-05 16:23:37,655 [WARNING] [UniProt:Q9GJ77] used submissionNames
+2026-02-05 16:23:37,655 [INFO] [978/1685] Processing 3RWJ chain A
+2026-02-05 16:23:38,235 [WARNING] [UniProt:Q860N6] recommendedName missing
+2026-02-05 16:23:38,236 [WARNING] [UniProt:Q860N6] used submissionNames
+2026-02-05 16:23:38,237 [WARNING] [UniProt:Q860N6] gene name missing
+2026-02-05 16:23:38,237 [INFO] [979/1685] Processing 6IWG chain A
+2026-02-05 16:23:38,576 [ERROR] [ERROR] [1ZVS:A] no compatible UniProt mapping
+2026-02-05 16:23:38,577 [INFO] [980/1685] Processing 5XMF chain A
+2026-02-05 16:23:39,561 [WARNING] [UniProt:Q9GJ77] recommendedName missing
+2026-02-05 16:23:39,563 [WARNING] [UniProt:Q9GJ77] used submissionNames
+2026-02-05 16:23:39,563 [INFO] [981/1685] Processing 4ZUV chain A
+2026-02-05 16:23:39,699 [INFO] [982/1685] Processing 3JTS chain A
+2026-02-05 16:23:41,443 [WARNING] [SIFTS:5xs3] attempt 2/3 failed: 404 Client Error: Not Found for url: https://www.ebi.ac.uk/pdbe/api/mappings/uniprot/5xs3
+2026-02-05 16:23:41,768 [WARNING] [UniProt:Q9GJ77] recommendedName missing
+2026-02-05 16:23:41,769 [WARNING] [UniProt:Q9GJ77] used submissionNames
+2026-02-05 16:23:41,769 [INFO] [983/1685] Processing 8HT1 chain A
+2026-02-05 16:23:41,923 [WARNING] [SIFTS:8tmu] attempt 1/3 failed: HTTPSConnectionPool(host='www.ebi.ac.uk', port=443): Read timed out. (read timeout=10)
+2026-02-05 16:23:41,946 [WARNING] [UniProt:Q9GJ77] recommendedName missing
+2026-02-05 16:23:41,947 [WARNING] [UniProt:Q9GJ77] used submissionNames
+2026-02-05 16:23:41,947 [INFO] [984/1685] Processing 7CJQ chain A
+2026-02-05 16:23:44,769 [WARNING] [UniProt:Q9GJ77] recommendedName missing
+2026-02-05 16:23:44,769 [WARNING] [UniProt:Q9GJ77] used submissionNames
+2026-02-05 16:23:44,770 [INFO] [985/1685] Processing 6L9K chain A
+2026-02-05 16:23:46,132 [WARNING] [UniProt:Q9GJ77] recommendedName missing
+2026-02-05 16:23:46,132 [WARNING] [UniProt:Q9GJ77] used submissionNames
+2026-02-05 16:23:46,133 [INFO] [986/1685] Processing 6JQ2 chain A
+2026-02-05 16:23:46,900 [INFO] [987/1685] Processing 5XMM chain A
+2026-02-05 16:23:47,594 [INFO] [988/1685] Processing 6L9N chain A
+2026-02-05 16:23:48,577 [WARNING] [UniProt:Q860N6] recommendedName missing
+2026-02-05 16:23:48,578 [WARNING] [UniProt:Q860N6] used submissionNames
+2026-02-05 16:23:48,578 [WARNING] [UniProt:Q860N6] gene name missing
+2026-02-05 16:23:48,578 [INFO] [989/1685] Processing 4ZUT chain A
+2026-02-05 16:23:48,864 [WARNING] [UniProt:Q9GJ77] recommendedName missing
+2026-02-05 16:23:48,865 [WARNING] [UniProt:Q9GJ77] used submissionNames
+2026-02-05 16:23:48,865 [INFO] [990/1685] Processing 6LT6 chain A
+2026-02-05 16:23:49,780 [WARNING] [UniProt:Q860N6] recommendedName missing
+2026-02-05 16:23:49,781 [WARNING] [UniProt:Q860N6] used submissionNames
+2026-02-05 16:23:49,781 [WARNING] [UniProt:Q860N6] gene name missing
+2026-02-05 16:23:49,781 [INFO] [991/1685] Processing 4ZFZ chain A
+2026-02-05 16:23:49,823 [WARNING] [UniProt:C6ZK72] recommendedName missing
+2026-02-05 16:23:49,824 [WARNING] [UniProt:C6ZK72] used submissionNames
+2026-02-05 16:23:49,824 [INFO] [992/1685] Processing 3JTT chain A
+2026-02-05 16:23:50,665 [INFO] [993/1685] Processing 8HSO chain A
+2026-02-05 16:23:50,701 [WARNING] [UniProt:B2ZHY7] recommendedName missing
+2026-02-05 16:23:50,701 [WARNING] [UniProt:B2ZHY7] used submissionNames
+2026-02-05 16:23:50,701 [INFO] [994/1685] Processing 3RWG chain A
+2026-02-05 16:23:50,822 [WARNING] [UniProt:Q860N6] recommendedName missing
+2026-02-05 16:23:50,822 [WARNING] [UniProt:Q860N6] used submissionNames
+2026-02-05 16:23:50,823 [WARNING] [UniProt:Q860N6] gene name missing
+2026-02-05 16:23:50,823 [INFO] [995/1685] Processing 2E7L chain E
+2026-02-05 16:23:50,997 [WARNING] [UniProt:Q30597] recommendedName missing
+2026-02-05 16:23:50,997 [WARNING] [UniProt:Q30597] used submissionNames
+2026-02-05 16:23:50,997 [WARNING] [UniProt:Q30597] gene name missing
+2026-02-05 16:23:50,998 [INFO] [996/1685] Processing 6LB2 chain A
+2026-02-05 16:23:52,948 [WARNING] [SIFTS:5xs3] attempt 3/3 failed: 404 Client Error: Not Found for url: https://www.ebi.ac.uk/pdbe/api/mappings/uniprot/5xs3
+2026-02-05 16:23:53,152 [WARNING] [UniProt:O46882] recommendedName missing
+2026-02-05 16:23:53,152 [WARNING] [UniProt:O46882] used submissionNames
+2026-02-05 16:23:53,152 [WARNING] [UniProt:O46882] gene name missing
+2026-02-05 16:23:53,153 [INFO] [997/1685] Processing 5F1N chain A
+2026-02-05 16:23:53,758 [INFO] [998/1685] Processing 1KPV chain A
+2026-02-05 16:23:55,136 [WARNING] [UniProt:A0A583ZBV1] recommendedName missing
+2026-02-05 16:23:55,136 [WARNING] [UniProt:A0A583ZBV1] used submissionNames
+2026-02-05 16:23:55,137 [INFO] [999/1685] Processing 6IWH chain A
+2026-02-05 16:23:57,348 [INFO] [1000/1685] Processing 4HUV chain A
+2026-02-05 16:23:58,141 [WARNING] [UniProt:C6ZK72] recommendedName missing
+2026-02-05 16:23:58,141 [WARNING] [UniProt:C6ZK72] used submissionNames
+2026-02-05 16:23:58,142 [INFO] [1001/1685] Processing 7BYD chain A
+2026-02-05 16:23:58,805 [INFO] [1002/1685] Processing 5J6H chain A
+2026-02-05 16:23:59,762 [WARNING] [UniProt:Q860N6] recommendedName missing
+2026-02-05 16:23:59,763 [WARNING] [UniProt:Q860N6] used submissionNames
+2026-02-05 16:23:59,763 [WARNING] [UniProt:Q860N6] gene name missing
+2026-02-05 16:23:59,763 [INFO] [1003/1685] Processing 1S7Q chain A
+2026-02-05 16:24:00,094 [WARNING] [UniProt:B2ZHY7] recommendedName missing
+2026-02-05 16:24:00,095 [WARNING] [UniProt:B2ZHY7] used submissionNames
+2026-02-05 16:24:00,095 [INFO] [1004/1685] Processing 1S7S chain A
+2026-02-05 16:24:00,228 [WARNING] [SIFTS:6l9k] attempt 1/3 failed: HTTPSConnectionPool(host='www.ebi.ac.uk', port=443): Read timed out. (read timeout=10)
+2026-02-05 16:24:00,949 [ERROR] [ERROR] [SIFTS:5xs3] failed after 3 attempts
+2026-02-05 16:24:00,951 [ERROR] [SIFTS:5xs3] no valid UniProt mapping
+2026-02-05 16:24:00,951 [ERROR] [ERROR] [5XS3:A] no SIFTS UniProt mappings available
+2026-02-05 16:24:00,951 [INFO] [1005/1685] Processing 4PGD chain A
+2026-02-05 16:24:01,037 [WARNING] [UniProt:K4MU32] recommendedName missing
+2026-02-05 16:24:01,038 [WARNING] [UniProt:K4MU32] used submissionNames
+2026-02-05 16:24:01,038 [INFO] [1006/1685] Processing 5GR7 chain A
+2026-02-05 16:24:01,356 [WARNING] [UniProt:Q30597] recommendedName missing
+2026-02-05 16:24:01,357 [WARNING] [UniProt:Q30597] used submissionNames
+2026-02-05 16:24:01,357 [WARNING] [UniProt:Q30597] gene name missing
+2026-02-05 16:24:01,357 [INFO] [1007/1685] Processing 7WCY chain A
+2026-02-05 16:24:01,933 [WARNING] [UniProt:Q9GJ77] recommendedName missing
+2026-02-05 16:24:01,933 [WARNING] [UniProt:Q9GJ77] used submissionNames
+2026-02-05 16:24:01,933 [INFO] [1008/1685] Processing 1S7R chain A
+2026-02-05 16:24:02,332 [WARNING] [UniProt:A0A1E1GJG5] recommendedName missing
+2026-02-05 16:24:02,332 [WARNING] [UniProt:A0A1E1GJG5] used submissionNames
+2026-02-05 16:24:02,333 [INFO] [1009/1685] Processing 1RJY chain A
+2026-02-05 16:24:04,991 [INFO] [1010/1685] Processing 7DC6 chain A
+2026-02-05 16:24:06,330 [WARNING] [UniProt:B2ZHY7] recommendedName missing
+2026-02-05 16:24:06,331 [WARNING] [UniProt:B2ZHY7] used submissionNames
+2026-02-05 16:24:06,331 [INFO] [1011/1685] Processing 7XQU chain A
+2026-02-05 16:24:08,573 [INFO] [1012/1685] Processing 6J2G chain A
+2026-02-05 16:24:08,613 [WARNING] [SIFTS:5f1n] attempt 1/3 failed: HTTPSConnectionPool(host='www.ebi.ac.uk', port=443): Read timed out. (read timeout=10)
+2026-02-05 16:24:09,337 [WARNING] [UniProt:B2ZHY7] recommendedName missing
+2026-02-05 16:24:09,337 [WARNING] [UniProt:B2ZHY7] used submissionNames
+2026-02-05 16:24:09,337 [INFO] [1013/1685] Processing 2CLV chain A
+2026-02-05 16:24:09,405 [INFO] [1014/1685] Processing 5J6G chain A
+2026-02-05 16:24:09,414 [INFO] [1015/1685] Processing 5F1I chain A
+2026-02-05 16:24:10,038 [INFO] [1016/1685] Processing 3PWU chain A
+2026-02-05 16:24:10,999 [INFO] [1017/1685] Processing 6M24 chain A
+2026-02-05 16:24:11,338 [INFO] [1018/1685] Processing 1FZJ chain A
+2026-02-05 16:24:12,222 [INFO] [1019/1685] Processing 2OI9 chain A
+2026-02-05 16:24:12,619 [INFO] [1020/1685] Processing 7XQS chain A
+2026-02-05 16:24:13,160 [INFO] [1021/1685] Processing 1VGK chain A
+2026-02-05 16:24:13,423 [INFO] [1022/1685] Processing 6J2H chain A
+2026-02-05 16:24:13,561 [INFO] [1023/1685] Processing 2FWO chain A
+2026-02-05 16:24:15,964 [INFO] [1024/1685] Processing 1RK0 chain A
+2026-02-05 16:24:17,227 [WARNING] [UniProt:B2KT53] recommendedName missing
+2026-02-05 16:24:17,227 [WARNING] [UniProt:B2KT53] used submissionNames
+2026-02-05 16:24:17,227 [INFO] [1025/1685] Processing 1ED3 chain A
+2026-02-05 16:24:17,861 [WARNING] [UniProt:Q95482] recommendedName missing
+2026-02-05 16:24:17,862 [WARNING] [UniProt:Q95482] used submissionNames
+2026-02-05 16:24:17,862 [INFO] [1026/1685] Processing 6J2J chain A
+2026-02-05 16:24:19,833 [WARNING] [UniProt:A0A125R585] recommendedName missing
+2026-02-05 16:24:19,833 [WARNING] [UniProt:A0A125R585] used submissionNames
+2026-02-05 16:24:19,833 [INFO] [1027/1685] Processing 4HKJ chain A
+2026-02-05 16:24:20,534 [INFO] [1028/1685] Processing 5IVX chain A
+2026-02-05 16:24:20,623 [WARNING] [UniProt:J9UGS3] recommendedName missing
+2026-02-05 16:24:20,623 [WARNING] [UniProt:J9UGS3] used submissionNames
+2026-02-05 16:24:20,624 [INFO] [1029/1685] Processing 2XFX chain A
+2026-02-05 16:24:21,214 [WARNING] [UniProt:Q95477] recommendedName missing
+2026-02-05 16:24:21,214 [WARNING] [UniProt:Q95477] used submissionNames
+2026-02-05 16:24:21,215 [INFO] [1030/1685] Processing 6LAH chain A
+2026-02-05 16:24:21,823 [WARNING] [UniProt:J9UGS3] recommendedName missing
+2026-02-05 16:24:21,824 [WARNING] [UniProt:J9UGS3] used submissionNames
+2026-02-05 16:24:21,824 [INFO] [1031/1685] Processing 3E3Q chain A
+2026-02-05 16:24:21,840 [INFO] [1032/1685] Processing 1FZO chain A
+2026-02-05 16:24:22,187 [WARNING] [UniProt:P06140] gene name missing
+2026-02-05 16:24:22,189 [INFO] [1033/1685] Processing 6L9L chain A
+2026-02-05 16:24:22,550 [INFO] [1034/1685] Processing 3ERY chain A
+2026-02-05 16:24:23,443 [INFO] [1035/1685] Processing 1BII chain A
+2026-02-05 16:24:23,844 [WARNING] [UniProt:C6ZK69] recommendedName missing
+2026-02-05 16:24:23,844 [WARNING] [UniProt:C6ZK69] used submissionNames
+2026-02-05 16:24:23,844 [INFO] [1036/1685] Processing 8HSM chain A
+2026-02-05 16:24:24,351 [INFO] [1037/1685] Processing 1G7P chain A
+2026-02-05 16:24:24,623 [WARNING] [UniProt:A0A125R585] recommendedName missing
+2026-02-05 16:24:24,623 [WARNING] [UniProt:A0A125R585] used submissionNames
+2026-02-05 16:24:24,623 [INFO] [1038/1685] Processing 5M00 chain A
+2026-02-05 16:24:24,779 [INFO] [1039/1685] Processing 3TJH chain A
+2026-02-05 16:24:28,158 [INFO] [1040/1685] Processing 7JWI chain A
+2026-02-05 16:24:28,479 [WARNING] [UniProt:P16391] gene name missing
+2026-02-05 16:24:28,479 [INFO] [1041/1685] Processing 4L8D chain A
+2026-02-05 16:24:29,109 [WARNING] [UniProt:A0A125R585] recommendedName missing
+2026-02-05 16:24:29,110 [WARNING] [UniProt:A0A125R585] used submissionNames
+2026-02-05 16:24:29,110 [INFO] [1042/1685] Processing 8D5E chain A
+2026-02-05 16:24:31,713 [INFO] [1043/1685] Processing 5GSX chain A
+2026-02-05 16:24:31,812 [WARNING] [UniProt:Q30291] recommendedName missing
+2026-02-05 16:24:31,812 [WARNING] [UniProt:Q30291] used submissionNames
+2026-02-05 16:24:31,812 [INFO] [1044/1685] Processing 6LAM chain A
+2026-02-05 16:24:32,988 [WARNING] [UniProt:A0A1E1GJG5] recommendedName missing
+2026-02-05 16:24:32,989 [WARNING] [UniProt:A0A1E1GJG5] used submissionNames
+2026-02-05 16:24:32,989 [INFO] [1045/1685] Processing 6ILG chain A
+2026-02-05 16:24:33,014 [INFO] [1046/1685] Processing 3PWV chain A
+2026-02-05 16:24:33,094 [INFO] [1047/1685] Processing 1KJM chain A
+2026-02-05 16:24:33,437 [INFO] [1048/1685] Processing 2CLZ chain A
+2026-02-05 16:24:33,766 [INFO] [1049/1685] Processing 4PGB chain A
+2026-02-05 16:24:34,628 [INFO] [1050/1685] Processing 5JWD chain A
+2026-02-05 16:24:35,025 [INFO] [1051/1685] Processing 5M02 chain A
+2026-02-05 16:24:35,559 [INFO] [1052/1685] Processing 5GSR chain C
+2026-02-05 16:24:35,880 [INFO] [1053/1685] Processing 4NHU chain G
+2026-02-05 16:24:36,057 [INFO] [1054/1685] Processing 1T0M chain A
+2026-02-05 16:24:37,417 [INFO] [1055/1685] Processing 1OSZ chain A
+2026-02-05 16:24:39,386 [INFO] [1056/1685] Processing 6JQ3 chain A
+2026-02-05 16:24:39,860 [INFO] [1057/1685] Processing 1N59 chain A
+2026-02-05 16:24:40,437 [INFO] [1058/1685] Processing 2VAA chain A
+2026-02-05 16:24:43,009 [WARNING] [UniProt:A0A1E1GJG5] recommendedName missing
+2026-02-05 16:24:43,009 [WARNING] [UniProt:A0A1E1GJG5] used submissionNames
+2026-02-05 16:24:43,009 [INFO] [1059/1685] Processing 1S7T chain A
+2026-02-05 16:24:44,165 [WARNING] [UniProt:A0A125R585] recommendedName missing
+2026-02-05 16:24:44,165 [WARNING] [UniProt:A0A125R585] used submissionNames
+2026-02-05 16:24:44,165 [INFO] [1060/1685] Processing 6G9Q chain A
+2026-02-05 16:24:44,233 [WARNING] [UniProt:Q95477] recommendedName missing
+2026-02-05 16:24:44,233 [WARNING] [UniProt:Q95477] used submissionNames
+2026-02-05 16:24:44,233 [INFO] [1061/1685] Processing 8D5K chain A
+2026-02-05 16:24:44,368 [INFO] [1062/1685] Processing 1FZM chain A
+2026-02-05 16:24:44,522 [WARNING] [UniProt:P16391] gene name missing
+2026-02-05 16:24:44,522 [INFO] [1063/1685] Processing 1T0N chain A
+2026-02-05 16:24:45,025 [INFO] [1064/1685] Processing 1RK1 chain A
+2026-02-05 16:24:45,302 [INFO] [1065/1685] Processing 5TRZ chain C
+2026-02-05 16:24:45,864 [INFO] [1066/1685] Processing 4PG9 chain A
+2026-02-05 16:24:46,262 [INFO] [1067/1685] Processing 3FOM chain A
+2026-02-05 16:24:46,739 [INFO] [1068/1685] Processing 6M2K chain A
+2026-02-05 16:24:47,241 [INFO] [1069/1685] Processing 4N5E chain A
+2026-02-05 16:24:50,601 [INFO] [1070/1685] Processing 1LEG chain A
+2026-02-05 16:24:51,048 [INFO] [1071/1685] Processing 5MZM chain A
+2026-02-05 16:24:54,103 [INFO] [1072/1685] Processing 5TIL chain A
+2026-02-05 16:24:54,107 [INFO] [1073/1685] Processing 4HUW chain A
+2026-02-05 16:24:55,434 [INFO] [1074/1685] Processing 5M01 chain A
+2026-02-05 16:24:55,761 [INFO] [1075/1685] Processing 3TID chain A
+2026-02-05 16:24:55,894 [WARNING] [SIFTS:2vaa] attempt 1/3 failed: HTTPSConnectionPool(host='www.ebi.ac.uk', port=443): Read timed out. (read timeout=10)
+2026-02-05 16:24:57,127 [INFO] [1076/1685] Processing 8HT9 chain A
+2026-02-05 16:24:57,522 [WARNING] [UniProt:D2YW38] recommendedName missing
+2026-02-05 16:24:57,523 [WARNING] [UniProt:D2YW38] used submissionNames
+2026-02-05 16:24:57,523 [WARNING] [UniProt:D2YW38] gene name missing
+2026-02-05 16:24:57,523 [INFO] [1077/1685] Processing 1JUF chain A
+2026-02-05 16:24:58,459 [WARNING] [SIFTS:1s7t] attempt 1/3 failed: HTTPSConnectionPool(host='www.ebi.ac.uk', port=443): Read timed out. (read timeout=10)
+2026-02-05 16:24:58,463 [INFO] [1078/1685] Processing 4Z77 chain A
+2026-02-05 16:25:00,755 [WARNING] [SIFTS:5trz] attempt 1/3 failed: HTTPSConnectionPool(host='www.ebi.ac.uk', port=443): Read timed out. (read timeout=10)
+2026-02-05 16:25:01,810 [INFO] [1079/1685] Processing 7JI2 chain A
+2026-02-05 16:25:02,256 [INFO] [1080/1685] Processing 1G6R chain H
+2026-02-05 16:25:03,667 [WARNING] [UniProt:P06140] gene name missing
+2026-02-05 16:25:03,668 [INFO] [1081/1685] Processing 8D5J chain A
+2026-02-05 16:25:03,682 [INFO] [1082/1685] Processing 1KPU chain A
+2026-02-05 16:25:03,687 [INFO] [1083/1685] Processing 6M2J chain A
+2026-02-05 16:25:03,693 [INFO] [1084/1685] Processing 5GSB chain A
+2026-02-05 16:25:05,373 [INFO] [1085/1685] Processing 4PV8 chain A
+2026-02-05 16:25:05,376 [INFO] [1086/1685] Processing 4PGE chain A
+2026-02-05 16:25:06,681 [INFO] [1087/1685] Processing 6NF7 chain A
+2026-02-05 16:25:07,025 [INFO] [1088/1685] Processing 7XQT chain A
+2026-02-05 16:25:08,337 [INFO] [1089/1685] Processing 1WBX chain A
+2026-02-05 16:25:09,716 [INFO] [1090/1685] Processing 3TIE chain A
+2026-02-05 16:25:11,667 [INFO] [1091/1685] Processing 1WBZ chain A
+2026-02-05 16:25:12,972 [WARNING] [SIFTS:1juf] attempt 1/3 failed: HTTPSConnectionPool(host='www.ebi.ac.uk', port=443): Read timed out. (read timeout=10)
+2026-02-05 16:25:13,046 [INFO] [1092/1685] Processing 1LK2 chain A
+2026-02-05 16:25:13,357 [WARNING] [SIFTS:2vaa] attempt 2/3 failed: HTTPSConnectionPool(host='www.ebi.ac.uk', port=443): Read timed out. (read timeout=10)
+2026-02-05 16:25:13,448 [INFO] [1093/1685] Processing 4PG2 chain A
+2026-02-05 16:25:13,963 [INFO] [1094/1685] Processing 1RJZ chain A
+2026-02-05 16:25:14,906 [INFO] [1095/1685] Processing 1INQ chain A
+2026-02-05 16:25:14,919 [WARNING] [UniProt:P06140] gene name missing
+2026-02-05 16:25:14,920 [INFO] [1096/1685] Processing 1VAD chain A
+2026-02-05 16:25:14,922 [INFO] [1097/1685] Processing 5VCL chain A
+2026-02-05 16:25:14,925 [INFO] [1098/1685] Processing 1QO3 chain A
+2026-02-05 16:25:16,597 [INFO] [1099/1685] Processing 4NSK chain A
+2026-02-05 16:25:16,641 [INFO] [1100/1685] Processing 4MXQ chain A
+2026-02-05 16:25:17,654 [WARNING] [SIFTS:1wbx] attempt 1/3 failed: 502 Server Error: Bad Gateway for url: https://www.ebi.ac.uk/pdbe/api/mappings/uniprot/1wbx
+2026-02-05 16:25:17,937 [WARNING] [UniProt:P16391] gene name missing
+2026-02-05 16:25:17,938 [INFO] [1101/1685] Processing 1G7Q chain A
+2026-02-05 16:25:18,235 [WARNING] [UniProt:C6ZK69] recommendedName missing
+2026-02-05 16:25:18,235 [WARNING] [UniProt:C6ZK69] used submissionNames
+2026-02-05 16:25:18,236 [INFO] [1102/1685] Processing 7P0T chain A
+2026-02-05 16:25:20,911 [INFO] [1103/1685] Processing 1FZK chain A
+2026-02-05 16:25:22,887 [INFO] [1104/1685] Processing 8JHW chain A
+2026-02-05 16:25:24,232 [INFO] [1105/1685] Processing 6ILC chain A
+2026-02-05 16:25:25,159 [INFO] [1106/1685] Processing 8HSW chain A
+2026-02-05 16:25:25,169 [INFO] [1107/1685] Processing 3TBT chain A
+2026-02-05 16:25:26,152 [INFO] [1108/1685] Processing 3ECB chain A
+2026-02-05 16:25:26,161 [WARNING] [UniProt:Q31153] recommendedName missing
+2026-02-05 16:25:26,162 [WARNING] [UniProt:Q31153] used submissionNames
+2026-02-05 16:25:26,162 [INFO] [1109/1685] Processing 7EMB chain A
+2026-02-05 16:25:26,258 [INFO] [1110/1685] Processing 1NAN chain H
+2026-02-05 16:25:26,262 [INFO] [1111/1685] Processing 1K8D chain A
+2026-02-05 16:25:27,276 [INFO] [1112/1685] Processing 3TBV chain A
+2026-02-05 16:25:27,852 [INFO] [1113/1685] Processing 3C8K chain A
+2026-02-05 16:25:27,864 [INFO] [1114/1685] Processing 4Z76 chain A
+2026-02-05 16:25:28,625 [INFO] [1115/1685] Processing 8TQ9 chain A
+2026-02-05 16:25:29,173 [INFO] [1116/1685] Processing 3ROO chain A
+2026-02-05 16:25:29,477 [INFO] [1117/1685] Processing 5NPZ chain A
+2026-02-05 16:25:30,880 [INFO] [1118/1685] Processing 8D5Q chain C
+2026-02-05 16:25:32,177 [INFO] [1119/1685] Processing 6WL2 chain A
+2026-02-05 16:25:34,282 [INFO] [1120/1685] Processing 3P9M chain A
+2026-02-05 16:25:36,333 [INFO] [1121/1685] Processing 2OL3 chain H
+2026-02-05 16:25:36,495 [INFO] [1122/1685] Processing 1KBG chain H
+2026-02-05 16:25:37,170 [WARNING] [UniProt:A0A125R585] recommendedName missing
+2026-02-05 16:25:37,171 [WARNING] [UniProt:A0A125R585] used submissionNames
+2026-02-05 16:25:37,171 [INFO] [1123/1685] Processing 6L9M chain A
+2026-02-05 16:25:37,370 [WARNING] [UniProt:O19075] recommendedName missing
+2026-02-05 16:25:37,370 [WARNING] [UniProt:O19075] used submissionNames
+2026-02-05 16:25:37,371 [INFO] [1124/1685] Processing 6J2F chain A
+2026-02-05 16:25:38,772 [INFO] [1125/1685] Processing 2ZOK chain A
+2026-02-05 16:25:39,446 [INFO] [1126/1685] Processing 7P0A chain A
+2026-02-05 16:25:39,818 [INFO] [1127/1685] Processing 2VAB chain A
+2026-02-05 16:25:40,208 [INFO] [1128/1685] Processing 1VAC chain A
+2026-02-05 16:25:40,690 [INFO] [1129/1685] Processing 3CPL chain A
+2026-02-05 16:25:40,697 [WARNING] [UniProt:B1PJV3] recommendedName missing
+2026-02-05 16:25:40,698 [WARNING] [UniProt:B1PJV3] used submissionNames
+2026-02-05 16:25:40,698 [INFO] [1130/1685] Processing 3TFK chain A
+2026-02-05 16:25:40,702 [INFO] [1131/1685] Processing 3TBY chain A
+2026-02-05 16:25:41,183 [INFO] [1132/1685] Processing 6LF9 chain D
+2026-02-05 16:25:41,621 [INFO] [1133/1685] Processing 1LEK chain A
+2026-02-05 16:25:42,247 [INFO] [1134/1685] Processing 6A6H chain A
+2026-02-05 16:25:43,427 [INFO] [1135/1685] Processing 8D5N chain C
+2026-02-05 16:25:45,564 [INFO] [1136/1685] Processing 5WEU chain A
+2026-02-05 16:25:47,651 [INFO] [1137/1685] Processing 6X00 chain A
+2026-02-05 16:25:47,859 [INFO] [1138/1685] Processing 2FO4 chain A
+2026-02-05 16:25:48,372 [INFO] [1139/1685] Processing 5E8N chain A
+2026-02-05 16:25:48,618 [WARNING] [UniProt:A0A125R585] recommendedName missing
+2026-02-05 16:25:48,618 [WARNING] [UniProt:A0A125R585] used submissionNames
+2026-02-05 16:25:48,618 [INFO] [1140/1685] Processing 4WDI chain A
+2026-02-05 16:25:50,063 [INFO] [1141/1685] Processing 1N5A chain A
+2026-02-05 16:25:50,669 [INFO] [1142/1685] Processing 1ZT7 chain A
+2026-02-05 16:25:51,024 [INFO] [1143/1685] Processing 6G9R chain A
+2026-02-05 16:25:51,888 [INFO] [1144/1685] Processing 5TS1 chain A
+2026-02-05 16:25:51,923 [INFO] [1145/1685] Processing 2CKB chain H
+2026-02-05 16:25:51,935 [INFO] [1146/1685] Processing 3E6F chain A
+2026-02-05 16:25:51,970 [INFO] [1147/1685] Processing 8TQ8 chain A
+2026-02-05 16:25:52,881 [INFO] [1148/1685] Processing 5JWE chain A
+2026-02-05 16:25:53,453 [WARNING] [UniProt:Q8MHU4] recommendedName missing
+2026-02-05 16:25:53,454 [WARNING] [UniProt:Q8MHU4] used submissionNames
+2026-02-05 16:25:53,454 [INFO] [1149/1685] Processing 4HUX chain A
+2026-02-05 16:25:53,609 [WARNING] [UniProt:B1PJU7] recommendedName missing
+2026-02-05 16:25:53,610 [WARNING] [UniProt:B1PJU7] used submissionNames
+2026-02-05 16:25:53,610 [INFO] [1150/1685] Processing 3CVH chain A
+2026-02-05 16:25:56,507 [INFO] [1151/1685] Processing 3TBW chain A
+2026-02-05 16:25:56,741 [INFO] [1152/1685] Processing 1QLF chain A
+2026-02-05 16:25:58,920 [INFO] [1153/1685] Processing 3TBS chain A
+2026-02-05 16:25:59,595 [INFO] [1154/1685] Processing 6NPR chain A
+2026-02-05 16:25:59,852 [INFO] [1155/1685] Processing 3QUK chain A
+2026-02-05 16:26:01,279 [INFO] [1156/1685] Processing 3ROL chain A
+2026-02-05 16:26:01,929 [INFO] [1157/1685] Processing 3QQ3 chain A
+2026-02-05 16:26:03,104 [INFO] [1158/1685] Processing 5NQ2 chain A
+2026-02-05 16:26:03,133 [INFO] [1159/1685] Processing 8UMO chain A
+2026-02-05 16:26:03,138 [INFO] [1160/1685] Processing 5SWZ chain A
+2026-02-05 16:26:03,146 [INFO] [1161/1685] Processing 5GSV chain A
+2026-02-05 16:26:04,104 [INFO] [1162/1685] Processing 3BUY chain A
+2026-02-05 16:26:04,684 [INFO] [1163/1685] Processing 3DMM chain A
+2026-02-05 16:26:04,830 [INFO] [1164/1685] Processing 8P43 chain A
+2026-02-05 16:26:06,004 [INFO] [1165/1685] Processing 1S7X chain A
+2026-02-05 16:26:07,763 [INFO] [1166/1685] Processing 5NQ3 chain A
+2026-02-05 16:26:07,907 [INFO] [1167/1685] Processing 1NAM chain H
+2026-02-05 16:26:08,019 [INFO] [1168/1685] Processing 5KD7 chain A
+2026-02-05 16:26:10,151 [INFO] [1169/1685] Processing 5YLX chain A
+2026-02-05 16:26:10,441 [ERROR] [ERROR] [8P43:A] no compatible UniProt mapping
+2026-02-05 16:26:10,442 [INFO] [1170/1685] Processing 3TF7 chain A
+2026-02-05 16:26:11,066 [INFO] [1171/1685] Processing 6ILE chain A
+2026-02-05 16:26:12,433 [INFO] [1172/1685] Processing 1MWA chain H
+2026-02-05 16:26:12,491 [INFO] [1173/1685] Processing 5SWS chain A
+2026-02-05 16:26:13,119 [WARNING] [UniProt:O19244] recommendedName missing
+2026-02-05 16:26:13,120 [WARNING] [UniProt:O19244] used submissionNames
+2026-02-05 16:26:13,120 [INFO] [1174/1685] Processing 1S7W chain A
+2026-02-05 16:26:14,292 [WARNING] [UniProt:B1A9P6] recommendedName missing
+2026-02-05 16:26:14,293 [WARNING] [UniProt:B1A9P6] used submissionNames
+2026-02-05 16:26:14,293 [INFO] [1175/1685] Processing 3FON chain A
+2026-02-05 16:26:14,333 [INFO] [1176/1685] Processing 2CII chain A
+2026-02-05 16:26:14,363 [INFO] [1177/1685] Processing 5T7G chain A
+2026-02-05 16:26:15,323 [INFO] [1178/1685] Processing 3CC5 chain A
+2026-02-05 16:26:15,770 [INFO] [1179/1685] Processing 3CH1 chain D
+2026-02-05 16:26:15,914 [INFO] [1180/1685] Processing 6J2D chain A
+2026-02-05 16:26:19,164 [WARNING] [UniProt:B1PJV3] recommendedName missing
+2026-02-05 16:26:19,165 [WARNING] [UniProt:B1PJV3] used submissionNames
+2026-02-05 16:26:19,165 [INFO] [1181/1685] Processing 6H6D chain A
+2026-02-05 16:26:19,176 [INFO] [1182/1685] Processing 8D5F chain A
+2026-02-05 16:26:19,235 [INFO] [1183/1685] Processing 2ZSW chain A
+2026-02-05 16:26:19,261 [INFO] [1184/1685] Processing 6J2E chain A
+2026-02-05 16:26:21,352 [WARNING] [UniProt:H6TIB1] recommendedName missing
+2026-02-05 16:26:21,353 [WARNING] [UniProt:H6TIB1] used submissionNames
+2026-02-05 16:26:21,353 [INFO] [1185/1685] Processing 4HUU chain A
+2026-02-05 16:26:21,703 [INFO] [1186/1685] Processing 1FFO chain A
+2026-02-05 16:26:22,649 [WARNING] [UniProt:A0A125R585] recommendedName missing
+2026-02-05 16:26:22,650 [WARNING] [UniProt:A0A125R585] used submissionNames
+2026-02-05 16:26:22,650 [INFO] [1187/1685] Processing 4L8B chain A
+2026-02-05 16:26:24,712 [INFO] [1188/1685] Processing 4PV9 chain A
+2026-02-05 16:26:24,722 [INFO] [1189/1685] Processing 1ZT1 chain A
+2026-02-05 16:26:25,482 [WARNING] [UniProt:D2YW38] recommendedName missing
+2026-02-05 16:26:25,483 [WARNING] [UniProt:D2YW38] used submissionNames
+2026-02-05 16:26:25,483 [WARNING] [UniProt:D2YW38] gene name missing
+2026-02-05 16:26:25,483 [INFO] [1190/1685] Processing 7N9J chain A
+2026-02-05 16:26:25,577 [INFO] [1191/1685] Processing 4PGC chain A
+2026-02-05 16:26:25,598 [INFO] [1192/1685] Processing 1BZ9 chain A
+2026-02-05 16:26:26,523 [INFO] [1193/1685] Processing 4HS3 chain A
+2026-02-05 16:26:27,120 [WARNING] [UniProt:A0A125R585] recommendedName missing
+2026-02-05 16:26:27,121 [WARNING] [UniProt:A0A125R585] used submissionNames
+2026-02-05 16:26:27,122 [INFO] [1194/1685] Processing 4L8C chain A
+2026-02-05 16:26:27,376 [INFO] [1195/1685] Processing 3CCH chain A
+2026-02-05 16:26:28,707 [INFO] [1196/1685] Processing 1JPF chain A
+2026-02-05 16:26:30,590 [INFO] [1197/1685] Processing 6WZY chain A
+2026-02-05 16:26:30,602 [INFO] [1198/1685] Processing 7N5C chain A
+2026-02-05 16:26:30,614 [INFO] [1199/1685] Processing 5WLI chain A
+2026-02-05 16:26:32,583 [INFO] [1200/1685] Processing 1S7V chain A
+2026-02-05 16:26:32,934 [INFO] [1201/1685] Processing 3WS6 chain A
+2026-02-05 16:26:33,860 [INFO] [1202/1685] Processing 3P4O chain A
+2026-02-05 16:26:36,798 [INFO] [1203/1685] Processing 6H6H chain A
+2026-02-05 16:26:36,815 [INFO] [1204/1685] Processing 1YN7 chain A
+2026-02-05 16:26:36,985 [INFO] [1205/1685] Processing 6K7T chain A
+2026-02-05 16:26:38,045 [INFO] [1206/1685] Processing 6GB5 chain A
+2026-02-05 16:26:38,139 [INFO] [1207/1685] Processing 7EMC chain A
+2026-02-05 16:26:38,322 [INFO] [1208/1685] Processing 7EM9 chain A
+2026-02-05 16:26:38,839 [INFO] [1209/1685] Processing 3QQ4 chain A
+2026-02-05 16:26:39,155 [INFO] [1210/1685] Processing 3QUL chain A
+2026-02-05 16:26:39,677 [WARNING] [UniProt:A0A125R585] recommendedName missing
+2026-02-05 16:26:39,678 [WARNING] [UniProt:A0A125R585] used submissionNames
+2026-02-05 16:26:39,678 [INFO] [1211/1685] Processing 1FG2 chain A
+2026-02-05 16:26:39,910 [INFO] [1212/1685] Processing 5NQ0 chain A
+2026-02-05 16:26:41,858 [INFO] [1213/1685] Processing 5WET chain A
+2026-02-05 16:26:41,965 [INFO] [1214/1685] Processing 5WES chain A
+2026-02-05 16:26:41,967 [INFO] [1215/1685] Processing 5WLG chain A
+2026-02-05 16:26:43,851 [INFO] [1216/1685] Processing 4IHO chain A
+2026-02-05 16:26:44,168 [INFO] [1217/1685] Processing 3E6H chain A
+2026-02-05 16:26:45,056 [INFO] [1218/1685] Processing 5OQI chain A
+2026-02-05 16:26:48,164 [WARNING] [UniProt:A0A125R585] recommendedName missing
+2026-02-05 16:26:48,165 [WARNING] [UniProt:A0A125R585] used submissionNames
+2026-02-05 16:26:48,165 [INFO] [1219/1685] Processing 5H94 chain A
+2026-02-05 16:26:49,270 [INFO] [1220/1685] Processing 7N5P chain A
+2026-02-05 16:26:49,353 [WARNING] [UniProt:O19075] recommendedName missing
+2026-02-05 16:26:49,354 [WARNING] [UniProt:O19075] used submissionNames
+2026-02-05 16:26:49,354 [INFO] [1221/1685] Processing 6GB7 chain A
+2026-02-05 16:26:50,016 [WARNING] [UniProt:O19244] recommendedName missing
+2026-02-05 16:26:50,016 [WARNING] [UniProt:O19244] used submissionNames
+2026-02-05 16:26:50,017 [INFO] [1222/1685] Processing 6ILF chain A
+2026-02-05 16:26:50,392 [INFO] [1223/1685] Processing 6WL4 chain A
+2026-02-05 16:26:50,768 [WARNING] [UniProt:O19075] recommendedName missing
+2026-02-05 16:26:50,770 [WARNING] [UniProt:O19075] used submissionNames
+2026-02-05 16:26:50,771 [INFO] [1224/1685] Processing 1KJ3 chain H
+2026-02-05 16:26:50,772 [WARNING] [UniProt:Q31167] recommendedName missing
+2026-02-05 16:26:50,773 [WARNING] [UniProt:Q31167] used submissionNames
+2026-02-05 16:26:50,773 [INFO] [1225/1685] Processing 4HV8 chain A
+2026-02-05 16:26:50,791 [INFO] [1226/1685] Processing 1BQH chain A
+2026-02-05 16:26:50,962 [INFO] [1227/1685] Processing 1S7U chain A
+2026-02-05 16:26:51,722 [WARNING] [UniProt:B1PJV3] recommendedName missing
+2026-02-05 16:26:51,723 [WARNING] [UniProt:B1PJV3] used submissionNames
+2026-02-05 16:26:51,723 [INFO] [1228/1685] Processing 6J2I chain A
+2026-02-05 16:26:53,058 [INFO] [1229/1685] Processing 6GB6 chain A
+2026-02-05 16:26:53,182 [INFO] [1230/1685] Processing 3L3H chain A
+2026-02-05 16:26:53,693 [INFO] [1231/1685] Processing 7EMD chain A
+2026-02-05 16:26:55,088 [INFO] [1232/1685] Processing 3FTG chain A
+2026-02-05 16:26:55,353 [INFO] [1233/1685] Processing 7EMA chain A
+2026-02-05 16:26:59,378 [WARNING] [UniProt:A0A0N9JT91] recommendedName missing
+2026-02-05 16:26:59,379 [WARNING] [UniProt:A0A0N9JT91] used submissionNames
+2026-02-05 16:26:59,379 [INFO] [1234/1685] Processing 3VJ6 chain A
+2026-02-05 16:27:00,707 [INFO] [1235/1685] Processing 1P4L chain A
+2026-02-05 16:27:01,156 [INFO] [1236/1685] Processing 2VE6 chain A
+2026-02-05 16:27:01,218 [WARNING] [UniProt:A0A125R585] recommendedName missing
+2026-02-05 16:27:01,218 [WARNING] [UniProt:A0A125R585] used submissionNames
+2026-02-05 16:27:01,218 [INFO] [1237/1685] Processing 1FFN chain A
+2026-02-05 16:27:01,661 [INFO] [1238/1685] Processing 1N3N chain A
+2026-02-05 16:27:01,891 [INFO] [1239/1685] Processing 7QNG chain C
+2026-02-05 16:27:01,990 [INFO] [1240/1685] Processing 1KJ2 chain H
+2026-02-05 16:27:02,055 [INFO] [1241/1685] Processing 6WL3 chain A
+2026-02-05 16:27:02,641 [INFO] [1242/1685] Processing 7JWJ chain A
+2026-02-05 16:27:02,735 [INFO] [1243/1685] Processing 5TJE chain A
+2026-02-05 16:27:04,491 [INFO] [1244/1685] Processing 8W6L chain A
+2026-02-05 16:27:04,492 [INFO] [1245/1685] Processing 6MP0 chain A
+2026-02-05 16:27:04,937 [WARNING] [UniProt:O19075] recommendedName missing
+2026-02-05 16:27:04,938 [WARNING] [UniProt:O19075] used submissionNames
+2026-02-05 16:27:04,938 [INFO] [1246/1685] Processing 8TQ7 chain A
+2026-02-05 16:27:05,665 [WARNING] [UniProt:A0A125R585] recommendedName missing
+2026-02-05 16:27:05,665 [WARNING] [UniProt:A0A125R585] used submissionNames
+2026-02-05 16:27:05,666 [INFO] [1247/1685] Processing 7NA5 chain A
+2026-02-05 16:27:06,549 [WARNING] [UniProt:O19075] recommendedName missing
+2026-02-05 16:27:06,550 [WARNING] [UniProt:O19075] used submissionNames
+2026-02-05 16:27:06,550 [INFO] [1248/1685] Processing 3TPU chain I
+2026-02-05 16:27:08,350 [INFO] [1249/1685] Processing 6KWL chain A
+2026-02-05 16:27:10,564 [INFO] [1250/1685] Processing 3P4N chain A
+2026-02-05 16:27:11,933 [INFO] [1251/1685] Processing 2ZOL chain A
+2026-02-05 16:27:12,395 [INFO] [1252/1685] Processing 5OPI chain A
+2026-02-05 16:27:12,439 [INFO] [1253/1685] Processing 1JPG chain A
+2026-02-05 16:27:12,885 [INFO] [1254/1685] Processing 1LDP chain H
+2026-02-05 16:27:13,110 [INFO] [1255/1685] Processing 6KWK chain A
+2026-02-05 16:27:13,196 [INFO] [1256/1685] Processing 5E8O chain A
+2026-02-05 16:27:13,288 [INFO] [1257/1685] Processing 2QRI chain A
+2026-02-05 16:27:13,853 [INFO] [1258/1685] Processing 3P9L chain A
+2026-02-05 16:27:13,972 [INFO] [1259/1685] Processing 1WBY chain A
+2026-02-05 16:27:15,928 [WARNING] [UniProt:B1A9P1] recommendedName missing
+2026-02-05 16:27:15,929 [WARNING] [UniProt:B1A9P1] used submissionNames
+2026-02-05 16:27:15,929 [INFO] [1260/1685] Processing 5E8P chain A
+2026-02-05 16:27:16,627 [INFO] [1261/1685] Processing 8FHU chain A
+2026-02-05 16:27:16,876 [INFO] [1262/1685] Processing 3P4M chain A
+2026-02-05 16:27:18,051 [INFO] [1263/1685] Processing 1YN6 chain A
+2026-02-05 16:27:19,552 [WARNING] [UniProt:A0A0F6N4U7] recommendedName missing
+2026-02-05 16:27:19,553 [WARNING] [UniProt:A0A0F6N4U7] used submissionNames
+2026-02-05 16:27:19,553 [WARNING] [UniProt:A0A0F6N4U7] gene name missing
+2026-02-05 16:27:19,553 [INFO] [1264/1685] Processing 4Z78 chain A
+2026-02-05 16:27:21,789 [INFO] [1265/1685] Processing 2ZSV chain A
+2026-02-05 16:27:23,137 [INFO] [1266/1685] Processing 8FHL chain A
+2026-02-05 16:27:23,604 [INFO] [1267/1685] Processing 2F74 chain A
+2026-02-05 16:27:23,697 [INFO] [1268/1685] Processing 1ZHB chain A
+2026-02-05 16:27:24,099 [INFO] [1269/1685] Processing 3FOL chain A
+2026-02-05 16:27:24,630 [INFO] [1270/1685] Processing 6LF8 chain A
+2026-02-05 16:27:24,636 [WARNING] [UniProt:A0A0F6N4U7] recommendedName missing
+2026-02-05 16:27:24,636 [WARNING] [UniProt:A0A0F6N4U7] used submissionNames
+2026-02-05 16:27:24,636 [WARNING] [UniProt:A0A0F6N4U7] gene name missing
+2026-02-05 16:27:24,636 [INFO] [1271/1685] Processing 1CE6 chain A
+2026-02-05 16:27:25,152 [INFO] [1272/1685] Processing 8JV0 chain A
+2026-02-05 16:27:25,648 [INFO] [1273/1685] Processing 1FO0 chain H
+2026-02-05 16:27:27,002 [INFO] [1274/1685] Processing 4MVB chain A
+2026-02-05 16:27:27,153 [INFO] [1275/1685] Processing 5OQH chain A
+2026-02-05 16:27:29,270 [INFO] [1276/1685] Processing 3RGV chain C
+2026-02-05 16:27:30,269 [INFO] [1277/1685] Processing 6KWO chain A
+2026-02-05 16:27:30,777 [INFO] [1278/1685] Processing 7N4K chain A
+2026-02-05 16:27:30,962 [INFO] [1279/1685] Processing 8GQV chain A
+2026-02-05 16:27:30,987 [INFO] [1280/1685] Processing 1FFP chain A
+2026-02-05 16:27:32,990 [INFO] [1281/1685] Processing 5NQ1 chain A
+2026-02-05 16:27:34,357 [INFO] [1282/1685] Processing 3PQY chain A
+2026-02-05 16:27:35,083 [INFO] [1283/1685] Processing 3E2H chain A
+2026-02-05 16:27:35,283 [WARNING] [UniProt:D2YW38] recommendedName missing
+2026-02-05 16:27:35,284 [WARNING] [UniProt:D2YW38] used submissionNames
+2026-02-05 16:27:35,284 [WARNING] [UniProt:D2YW38] gene name missing
+2026-02-05 16:27:35,284 [INFO] [1284/1685] Processing 1DDH chain A
+2026-02-05 16:27:35,847 [INFO] [1285/1685] Processing 5OQF chain A
+2026-02-05 16:27:35,852 [WARNING] [UniProt:O19244] recommendedName missing
+2026-02-05 16:27:35,852 [WARNING] [UniProt:O19244] used submissionNames
+2026-02-05 16:27:35,852 [INFO] [1286/1685] Processing 5OQG chain A
+2026-02-05 16:27:36,369 [WARNING] [UniProt:B1A9P1] recommendedName missing
+2026-02-05 16:27:36,370 [WARNING] [UniProt:B1A9P1] used submissionNames
+2026-02-05 16:27:36,370 [INFO] [1287/1685] Processing 6KWN chain A
+2026-02-05 16:27:36,853 [INFO] [1288/1685] Processing 2QRT chain A
+2026-02-05 16:27:38,689 [INFO] [1289/1685] Processing 5KD4 chain A
+2026-02-05 16:27:39,048 [WARNING] [SIFTS:2f74] attempt 1/3 failed: HTTPSConnectionPool(host='www.ebi.ac.uk', port=443): Read timed out. (read timeout=10)
+2026-02-05 16:27:40,483 [INFO] [1290/1685] Processing 4N0C chain A
+2026-02-05 16:27:41,520 [WARNING] [UniProt:B1PJU7] recommendedName missing
+2026-02-05 16:27:41,520 [WARNING] [UniProt:B1PJU7] used submissionNames
+2026-02-05 16:27:41,520 [INFO] [1291/1685] Processing 8GQW chain A
+2026-02-05 16:27:41,997 [INFO] [1292/1685] Processing 3PAB chain A
+2026-02-05 16:27:42,189 [INFO] [1293/1685] Processing 7N5Q chain A
+2026-02-05 16:27:43,981 [INFO] [1294/1685] Processing 2QRS chain A
+2026-02-05 16:27:44,625 [WARNING] [UniProt:B1PJV3] recommendedName missing
+2026-02-05 16:27:44,626 [WARNING] [UniProt:B1PJV3] used submissionNames
+2026-02-05 16:27:44,626 [INFO] [1295/1685] Processing 8TQA chain A
+2026-02-05 16:27:45,596 [INFO] [1296/1685] Processing 1HOC chain A
+2026-02-05 16:27:46,288 [INFO] [1297/1685] Processing 3WS3 chain A
+2026-02-05 16:27:46,422 [WARNING] [SIFTS:8gqv] attempt 1/3 failed: HTTPSConnectionPool(host='www.ebi.ac.uk', port=443): Read timed out. (read timeout=10)
+2026-02-05 16:27:46,452 [INFO] [1298/1685] Processing 5WER chain A
+2026-02-05 16:27:49,965 [INFO] [1299/1685] Processing 2MHA chain A
+2026-02-05 16:27:51,683 [INFO] [1300/1685] Processing 9C3E chain H
+2026-02-05 16:27:52,284 [INFO] [1301/1685] Processing 6MP1 chain A
+2026-02-05 16:27:52,673 [INFO] [1302/1685] Processing 3NWM chain A
+2026-02-05 16:27:52,680 [INFO] [1303/1685] Processing 1KJV chain A
+2026-02-05 16:27:52,710 [WARNING] [UniProt:E3WHS2] recommendedName missing
+2026-02-05 16:27:52,711 [WARNING] [UniProt:E3WHS2] used submissionNames
+2026-02-05 16:27:52,711 [INFO] [1304/1685] Processing 1LD9 chain A
+2026-02-05 16:27:53,185 [INFO] [1305/1685] Processing 7LFM chain A
+2026-02-05 16:27:53,715 [INFO] [1306/1685] Processing 7LFI chain A
+2026-02-05 16:27:53,727 [INFO] [1307/1685] Processing 7LFL chain A
+2026-02-05 16:27:55,853 [INFO] [1308/1685] Processing 7EDO chain A
+2026-02-05 16:27:56,767 [WARNING] [UniProt:B1PJU7] recommendedName missing
+2026-02-05 16:27:56,768 [WARNING] [UniProt:B1PJU7] used submissionNames
+2026-02-05 16:27:56,768 [INFO] [1309/1685] Processing 7LFK chain A
+2026-02-05 16:27:56,792 [INFO] [1310/1685] Processing 4MS8 chain A
+2026-02-05 16:27:59,140 [INFO] [1311/1685] Processing 7LFJ chain A
+2026-02-05 16:27:59,569 [INFO] [1312/1685] Processing 1MHC chain A
+2026-02-05 16:27:59,751 [WARNING] [UniProt:E3WHS2] recommendedName missing
+2026-02-05 16:27:59,752 [WARNING] [UniProt:E3WHS2] used submissionNames
+2026-02-05 16:27:59,752 [INFO] [1313/1685] Processing 1NEZ chain A
+2026-02-05 16:28:00,791 [INFO] [1314/1685] Processing 4G43 chain A
+2026-02-05 16:28:01,175 [INFO] [1315/1685] Processing 5YMW chain A
+2026-02-05 16:28:03,870 [WARNING] [UniProt:Q95565] recommendedName missing
+2026-02-05 16:28:03,871 [WARNING] [UniProt:Q95565] used submissionNames
+2026-02-05 16:28:03,871 [INFO] [1316/1685] Processing 5GJY chain A
+2026-02-05 16:28:03,958 [INFO] [1317/1685] Processing 8Y74 chain A
+2026-02-05 16:28:04,436 [WARNING] [UniProt:Q31093] recommendedName missing
+2026-02-05 16:28:04,436 [WARNING] [UniProt:Q31093] used submissionNames
+2026-02-05 16:28:04,437 [INFO] [1318/1685] Processing 5YMV chain A
+2026-02-05 16:28:04,922 [WARNING] [UniProt:Q31093] recommendedName missing
+2026-02-05 16:28:04,922 [WARNING] [UniProt:Q31093] used submissionNames
+2026-02-05 16:28:04,922 [INFO] [1319/1685] Processing 8J4G chain A
+2026-02-05 16:28:05,671 [WARNING] [UniProt:Q31093] recommendedName missing
+2026-02-05 16:28:05,671 [WARNING] [UniProt:Q31093] used submissionNames
+2026-02-05 16:28:05,671 [INFO] [1320/1685] Processing 4CVX chain D
+2026-02-05 16:28:07,077 [WARNING] [UniProt:Q95IT0] recommendedName missing
+2026-02-05 16:28:07,077 [WARNING] [UniProt:Q95IT0] used submissionNames
+2026-02-05 16:28:07,078 [INFO] [1321/1685] Processing 8KB0 chain A
+2026-02-05 16:28:07,974 [WARNING] [UniProt:Q31093] recommendedName missing
+2026-02-05 16:28:07,974 [WARNING] [UniProt:Q31093] used submissionNames
+2026-02-05 16:28:07,975 [INFO] [1322/1685] Processing 6LHG chain A
+2026-02-05 16:28:08,554 [INFO] [1323/1685] Processing 1P1Z chain A
+2026-02-05 16:28:09,486 [INFO] [1324/1685] Processing 5GJX chain A
+2026-02-05 16:28:10,774 [WARNING] [UniProt:Q31093] recommendedName missing
+2026-02-05 16:28:10,775 [WARNING] [UniProt:Q31093] used submissionNames
+2026-02-05 16:28:10,775 [INFO] [1325/1685] Processing 4E0R chain A
+2026-02-05 16:28:10,944 [INFO] [1326/1685] Processing 7WBG chain A
+2026-02-05 16:28:12,365 [WARNING] [UniProt:Q31093] recommendedName missing
+2026-02-05 16:28:12,366 [WARNING] [UniProt:Q31093] used submissionNames
+2026-02-05 16:28:12,366 [INFO] [1327/1685] Processing 3BEW chain A
+2026-02-05 16:28:12,654 [WARNING] [UniProt:P15979] gene name missing
+2026-02-05 16:28:12,655 [INFO] [1328/1685] Processing 8KCV chain A
+2026-02-05 16:28:14,265 [WARNING] [UniProt:H9BNV4] recommendedName missing
+2026-02-05 16:28:14,265 [WARNING] [UniProt:H9BNV4] used submissionNames
+2026-02-05 16:28:14,266 [INFO] [1329/1685] Processing 6PUI chain A
+2026-02-05 16:28:14,710 [INFO] [1330/1685] Processing 5U1R chain C
+2026-02-05 16:28:15,064 [WARNING] [UniProt:Q6I7L2] recommendedName missing
+2026-02-05 16:28:15,064 [WARNING] [UniProt:Q6I7L2] used submissionNames
+2026-02-05 16:28:15,065 [INFO] [1331/1685] Processing 5U72 chain A
+2026-02-05 16:28:15,163 [WARNING] [UniProt:O46789] recommendedName missing
+2026-02-05 16:28:15,163 [WARNING] [UniProt:O46789] used submissionNames
+2026-02-05 16:28:15,164 [INFO] [1332/1685] Processing 6PUL chain A
+2026-02-05 16:28:15,927 [WARNING] [UniProt:O46790] recommendedName missing
+2026-02-05 16:28:15,927 [WARNING] [UniProt:O46790] used submissionNames
+2026-02-05 16:28:15,927 [INFO] [1333/1685] Processing 3BEV chain A
+2026-02-05 16:28:16,094 [WARNING] [UniProt:A0A1L5SLS9] recommendedName missing
+2026-02-05 16:28:16,094 [WARNING] [UniProt:A0A1L5SLS9] used submissionNames
+2026-02-05 16:28:16,094 [INFO] [1334/1685] Processing 5U16 chain A
+2026-02-05 16:28:16,870 [WARNING] [UniProt:O46789] recommendedName missing
+2026-02-05 16:28:16,871 [WARNING] [UniProt:O46789] used submissionNames
+2026-02-05 16:28:16,871 [INFO] [1335/1685] Processing 6PUD chain A
+2026-02-05 16:28:18,305 [WARNING] [UniProt:A0A2Z4U0A8] recommendedName missing
+2026-02-05 16:28:18,306 [WARNING] [UniProt:A0A2Z4U0A8] used submissionNames
+2026-02-05 16:28:18,306 [INFO] [1336/1685] Processing 5H5Z chain A
+2026-02-05 16:28:19,171 [WARNING] [UniProt:O46790] recommendedName missing
+2026-02-05 16:28:19,172 [WARNING] [UniProt:O46790] used submissionNames
+2026-02-05 16:28:19,172 [INFO] [1337/1685] Processing 8KB1 chain A
+2026-02-05 16:28:19,895 [WARNING] [SIFTS:5ymv] attempt 1/3 failed: HTTPSConnectionPool(host='www.ebi.ac.uk', port=443): Read timed out. (read timeout=10)
+2026-02-05 16:28:20,656 [WARNING] [UniProt:Q6I7L2] recommendedName missing
+2026-02-05 16:28:20,657 [WARNING] [UniProt:Q6I7L2] used submissionNames
+2026-02-05 16:28:20,657 [INFO] [1338/1685] Processing 6XQP chain A
+2026-02-05 16:28:22,035 [WARNING] [UniProt:O46790] recommendedName missing
+2026-02-05 16:28:22,035 [WARNING] [UniProt:O46790] used submissionNames
+2026-02-05 16:28:22,035 [INFO] [1339/1685] Processing 6KYU chain A
+2026-02-05 16:28:22,170 [WARNING] [UniProt:A0ZXM5] recommendedName missing
+2026-02-05 16:28:22,170 [WARNING] [UniProt:A0ZXM5] used submissionNames
+2026-02-05 16:28:22,171 [INFO] [1340/1685] Processing 7ZT8 chain A
+2026-02-05 16:28:24,026 [WARNING] [SIFTS:1p1z] attempt 1/3 failed: HTTPSConnectionPool(host='www.ebi.ac.uk', port=443): Read timed out. (read timeout=10)
+2026-02-05 16:28:25,612 [INFO] [1341/1685] Processing 9BTX chain A
+2026-02-05 16:28:26,073 [INFO] [1342/1685] Processing 4G42 chain A
+2026-02-05 16:28:26,416 [INFO] [1343/1685] Processing 8WO9 chain A
+2026-02-05 16:28:26,518 [INFO] [1344/1685] Processing 5Y91 chain A
+2026-02-05 16:28:27,437 [INFO] [1345/1685] Processing 5U6Q chain C
+2026-02-05 16:28:27,822 [WARNING] [SIFTS:3bew] attempt 1/3 failed: HTTPSConnectionPool(host='www.ebi.ac.uk', port=443): Read timed out. (read timeout=10)
+2026-02-05 16:28:28,110 [WARNING] [SIFTS:8kcv] attempt 1/3 failed: HTTPSConnectionPool(host='www.ebi.ac.uk', port=443): Read timed out. (read timeout=10)
+2026-02-05 16:28:28,243 [INFO] [1346/1685] Processing 4NQD chain A
+2026-02-05 16:28:30,371 [WARNING] [UniProt:A0A2Z4U0D0] recommendedName missing
+2026-02-05 16:28:30,372 [WARNING] [UniProt:A0A2Z4U0D0] used submissionNames
+2026-02-05 16:28:30,372 [INFO] [1347/1685] Processing 6PUM chain A
+2026-02-05 16:28:32,018 [INFO] [1348/1685] Processing 4L4V chain A
+2026-02-05 16:28:33,081 [WARNING] [UniProt:P15979] gene name missing
+2026-02-05 16:28:33,082 [INFO] [1349/1685] Processing 6PUC chain A
+2026-02-05 16:28:33,239 [WARNING] [UniProt:A0A2Z4U0R6] recommendedName missing
+2026-02-05 16:28:33,240 [WARNING] [UniProt:A0A2Z4U0R6] used submissionNames
+2026-02-05 16:28:33,240 [INFO] [1350/1685] Processing 6PUJ chain A
+2026-02-05 16:28:33,546 [INFO] [1351/1685] Processing 9CGS chain A
+2026-02-05 16:28:33,757 [WARNING] [SIFTS:5h5z] attempt 1/3 failed: HTTPSConnectionPool(host='www.ebi.ac.uk', port=443): Read timed out. (read timeout=10)
+2026-02-05 16:28:33,876 [ERROR] [ERROR] [8WO9:A] no compatible UniProt mapping
+2026-02-05 16:28:33,876 [INFO] [1352/1685] Processing 6W9U chain A
+2026-02-05 16:28:34,348 [WARNING] [UniProt:Q95601] recommendedName missing
+2026-02-05 16:28:34,348 [WARNING] [UniProt:Q95601] used submissionNames
+2026-02-05 16:28:34,348 [INFO] [1353/1685] Processing 6PUH chain A
+2026-02-05 16:28:37,244 [WARNING] [UniProt:O46790] recommendedName missing
+2026-02-05 16:28:37,244 [WARNING] [UniProt:O46790] used submissionNames
+2026-02-05 16:28:37,244 [INFO] [1354/1685] Processing 6IRL chain A
+2026-02-05 16:28:37,371 [INFO] [1355/1685] Processing 9CGR chain A
+2026-02-05 16:28:37,374 [INFO] [1356/1685] Processing 8Y6X chain A
+2026-02-05 16:28:37,821 [WARNING] [UniProt:Q65XY8] recommendedName missing
+2026-02-05 16:28:37,822 [WARNING] [UniProt:Q65XY8] used submissionNames
+2026-02-05 16:28:37,822 [INFO] [1357/1685] Processing 4PJF chain A
+2026-02-05 16:28:39,396 [INFO] [1358/1685] Processing 5D7I chain A
+2026-02-05 16:28:40,015 [INFO] [1359/1685] Processing 6PVD chain A
+2026-02-05 16:28:41,004 [WARNING] [UniProt:Q95601] recommendedName missing
+2026-02-05 16:28:41,005 [WARNING] [UniProt:Q95601] used submissionNames
+2026-02-05 16:28:41,005 [INFO] [1360/1685] Processing 6KX9 chain A
+2026-02-05 16:28:41,355 [WARNING] [UniProt:Q6I7L1] recommendedName missing
+2026-02-05 16:28:41,356 [WARNING] [UniProt:Q6I7L1] used submissionNames
+2026-02-05 16:28:41,356 [INFO] [1361/1685] Processing 6PVC chain A
+2026-02-05 16:28:41,898 [INFO] [1362/1685] Processing 8JQT chain A
+2026-02-05 16:28:43,370 [INFO] [1363/1685] Processing 7WBI chain A
+2026-02-05 16:28:44,507 [INFO] [1364/1685] Processing 6PUF chain A
+2026-02-05 16:28:44,576 [INFO] [1365/1685] Processing 4PJI chain A
+2026-02-05 16:28:44,954 [INFO] [1366/1685] Processing 4NQE chain A
+2026-02-05 16:28:45,772 [INFO] [1367/1685] Processing 4NQC chain A
+2026-02-05 16:28:45,869 [INFO] [1368/1685] Processing 5U2V chain A
+2026-02-05 16:28:48,525 [WARNING] [UniProt:Q9GIP6] recommendedName missing
+2026-02-05 16:28:48,525 [WARNING] [UniProt:Q9GIP6] used submissionNames
+2026-02-05 16:28:48,525 [INFO] [1369/1685] Processing 4PJ5 chain A
+2026-02-05 16:28:48,739 [INFO] [1370/1685] Processing 4CW1 chain A
+2026-02-05 16:28:48,744 [INFO] [1371/1685] Processing 9BTY chain A
+2026-02-05 16:28:49,184 [INFO] [1372/1685] Processing 6PUG chain A
+2026-02-05 16:28:50,878 [INFO] [1373/1685] Processing 8VZ8 chain A
+2026-02-05 16:28:51,220 [WARNING] [SIFTS:5h5z] attempt 2/3 failed: HTTPSConnectionPool(host='www.ebi.ac.uk', port=443): Read timed out. (read timeout=10)
+2026-02-05 16:28:51,358 [INFO] [1374/1685] Processing 6LBE chain A
+2026-02-05 16:28:52,208 [WARNING] [UniProt:Q9GIP6] recommendedName missing
+2026-02-05 16:28:52,208 [WARNING] [UniProt:Q9GIP6] used submissionNames
+2026-02-05 16:28:52,209 [INFO] [1375/1685] Processing 6LUP chain A
+2026-02-05 16:28:52,687 [INFO] [1376/1685] Processing 6PUE chain A
+2026-02-05 16:28:53,095 [WARNING] [UniProt:Q6JWQ7] recommendedName missing
+2026-02-05 16:28:53,096 [WARNING] [UniProt:Q6JWQ7] used submissionNames
+2026-02-05 16:28:53,096 [INFO] [1377/1685] Processing 5U17 chain A
+2026-02-05 16:28:54,566 [WARNING] [UniProt:A0ZXM5] recommendedName missing
+2026-02-05 16:28:54,566 [WARNING] [UniProt:A0ZXM5] used submissionNames
+2026-02-05 16:28:54,567 [INFO] [1378/1685] Processing 7ZT3 chain A
+2026-02-05 16:28:55,925 [INFO] [1379/1685] Processing 4PJE chain A
+2026-02-05 16:28:56,315 [INFO] [1380/1685] Processing 4PJ8 chain A
+2026-02-05 16:28:57,315 [INFO] [1381/1685] Processing 5D7L chain A
+2026-02-05 16:28:57,331 [INFO] [1382/1685] Processing 6PUK chain A
+2026-02-05 16:28:59,885 [INFO] [1383/1685] Processing 6W9V chain A
+2026-02-05 16:29:00,042 [WARNING] [SIFTS:4pji] attempt 1/3 failed: HTTPSConnectionPool(host='www.ebi.ac.uk', port=443): Read timed out. (read timeout=10)
+2026-02-05 16:29:00,208 [INFO] [1384/1685] Processing 7ZT2 chain A
+2026-02-05 16:29:00,623 [INFO] [1385/1685] Processing 4PJ9 chain A
+2026-02-05 16:29:02,131 [INFO] [1386/1685] Processing 9BTZ chain A
+2026-02-05 16:29:02,531 [WARNING] [UniProt:Q65XY8] recommendedName missing
+2026-02-05 16:29:02,531 [WARNING] [UniProt:Q65XY8] used submissionNames
+2026-02-05 16:29:02,532 [INFO] [1387/1685] Processing 4PJG chain A
+2026-02-05 16:29:03,411 [WARNING] [UniProt:Q9MX69] recommendedName missing
+2026-02-05 16:29:03,411 [WARNING] [UniProt:Q9MX69] used submissionNames
+2026-02-05 16:29:03,411 [INFO] [1388/1685] Processing 6LHF chain A
+2026-02-05 16:29:04,031 [INFO] [1389/1685] Processing 4D0B chain A
+2026-02-05 16:29:04,215 [WARNING] [SIFTS:4cw1] attempt 1/3 failed: HTTPSConnectionPool(host='www.ebi.ac.uk', port=443): Read timed out. (read timeout=10)
+2026-02-05 16:29:04,443 [INFO] [1390/1685] Processing 4PJC chain A
+2026-02-05 16:29:05,957 [INFO] [1391/1685] Processing 7UFJ chain A
+2026-02-05 16:29:06,543 [WARNING] [UniProt:Q65XY8] recommendedName missing
+2026-02-05 16:29:06,543 [WARNING] [UniProt:Q65XY8] used submissionNames
+2026-02-05 16:29:06,543 [INFO] [1392/1685] Processing 5D7J chain E
+2026-02-05 16:29:07,997 [INFO] [1393/1685] Processing 4PJ7 chain A
+2026-02-05 16:29:08,685 [INFO] [1394/1685] Processing 9BU0 chain A
+2026-02-05 16:29:08,687 [INFO] [1395/1685] Processing 4PJH chain A
+2026-02-05 16:29:11,300 [INFO] [1396/1685] Processing 4D0D chain A
+2026-02-05 16:29:12,017 [INFO] [1397/1685] Processing 8VZ9 chain A
+2026-02-05 16:29:13,294 [INFO] [1398/1685] Processing 5D5M chain A
+2026-02-05 16:29:13,419 [INFO] [1399/1685] Processing 6LHH chain A
+2026-02-05 16:29:13,799 [INFO] [1400/1685] Processing 8BP6 chain A
+2026-02-05 16:29:14,283 [INFO] [1401/1685] Processing 5ACZ chain A
+2026-02-05 16:29:15,224 [WARNING] [UniProt:Q95601] recommendedName missing
+2026-02-05 16:29:15,224 [WARNING] [UniProt:Q95601] used submissionNames
+2026-02-05 16:29:15,225 [INFO] [1402/1685] Processing 7ZT5 chain A
+2026-02-05 16:29:15,894 [INFO] [1403/1685] Processing 4L8S chain C
+2026-02-05 16:29:17,430 [INFO] [1404/1685] Processing 4PJD chain A
+2026-02-05 16:29:17,474 [WARNING] [UniProt:A0ZXM3] recommendedName missing
+2026-02-05 16:29:17,474 [WARNING] [UniProt:A0ZXM3] used submissionNames
+2026-02-05 16:29:17,474 [INFO] [1405/1685] Processing 4D0C chain A
+2026-02-05 16:29:17,955 [INFO] [1406/1685] Processing 7ZT7 chain A
+2026-02-05 16:29:19,393 [INFO] [1407/1685] Processing 4PJX chain A
+2026-02-05 16:29:20,052 [INFO] [1408/1685] Processing 7ZT4 chain A
+2026-02-05 16:29:20,058 [INFO] [1409/1685] Processing 4PJA chain A
+2026-02-05 16:29:20,894 [INFO] [1410/1685] Processing 7LLI chain C
+2026-02-05 16:29:21,758 [WARNING] [UniProt:Q9GIP6] recommendedName missing
+2026-02-05 16:29:21,758 [WARNING] [UniProt:Q9GIP6] used submissionNames
+2026-02-05 16:29:21,758 [INFO] [1411/1685] Processing 4LCW chain A
+2026-02-05 16:29:22,480 [WARNING] [UniProt:O46789] recommendedName missing
+2026-02-05 16:29:22,480 [WARNING] [UniProt:O46789] used submissionNames
+2026-02-05 16:29:22,481 [INFO] [1412/1685] Processing 5AD0 chain A
+2026-02-05 16:29:24,084 [INFO] [1413/1685] Processing 7CPO chain A
+2026-02-05 16:29:24,783 [WARNING] [UniProt:Q9GIP6] recommendedName missing
+2026-02-05 16:29:24,783 [WARNING] [UniProt:Q9GIP6] used submissionNames
+2026-02-05 16:29:24,784 [INFO] [1414/1685] Processing 4L4T chain A
+2026-02-05 16:29:25,515 [WARNING] [UniProt:Q95601] recommendedName missing
+2026-02-05 16:29:25,515 [WARNING] [UniProt:Q95601] used submissionNames
+2026-02-05 16:29:25,516 [INFO] [1415/1685] Processing 2YEZ chain A
+2026-02-05 16:29:26,612 [INFO] [1416/1685] Processing 3P73 chain A
+2026-02-05 16:29:28,747 [WARNING] [SIFTS:5d5m] attempt 1/3 failed: HTTPSConnectionPool(host='www.ebi.ac.uk', port=443): Read timed out. (read timeout=10)
+2026-02-05 16:29:28,769 [INFO] [1417/1685] Processing 7UMG chain A
+2026-02-05 16:29:28,938 [WARNING] [UniProt:Q95601] recommendedName missing
+2026-02-05 16:29:28,939 [WARNING] [UniProt:Q95601] used submissionNames
+2026-02-05 16:29:28,939 [INFO] [1418/1685] Processing 4CVZ chain A
+2026-02-05 16:29:29,305 [INFO] [1419/1685] Processing 3P77 chain A
+2026-02-05 16:29:30,820 [INFO] [1420/1685] Processing 4IIQ chain C
+2026-02-05 16:29:31,202 [INFO] [1421/1685] Processing 4GUP chain A
+2026-02-05 16:29:31,430 [INFO] [1422/1685] Processing 4L9L chain C
+2026-02-05 16:29:31,826 [INFO] [1423/1685] Processing 7ZT9 chain A
+2026-02-05 16:29:32,310 [INFO] [1424/1685] Processing 4PJB chain A
+2026-02-05 16:29:32,723 [INFO] [1425/1685] Processing 7LLJ chain C
+2026-02-05 16:29:33,098 [INFO] [1426/1685] Processing 1T7X chain A
+2026-02-05 16:29:33,730 [WARNING] [UniProt:Q95601] recommendedName missing
+2026-02-05 16:29:33,731 [WARNING] [UniProt:Q95601] used submissionNames
+2026-02-05 16:29:33,731 [INFO] [1427/1685] Processing 6MWR chain A
+2026-02-05 16:29:35,284 [WARNING] [UniProt:G1KTN1] gene name missing
+2026-02-05 16:29:35,284 [INFO] [1428/1685] Processing 1T7Y chain A
+2026-02-05 16:29:36,200 [INFO] [1429/1685] Processing 6A2B chain A
+2026-02-05 16:29:36,858 [WARNING] [UniProt:Q95601] recommendedName missing
+2026-02-05 16:29:36,859 [WARNING] [UniProt:Q95601] used submissionNames
+2026-02-05 16:29:36,859 [INFO] [1430/1685] Processing 3ES6 chain A
+2026-02-05 16:29:38,395 [WARNING] [UniProt:Q9BCW3] recommendedName missing
+2026-02-05 16:29:38,396 [WARNING] [UniProt:Q9BCW3] used submissionNames
+2026-02-05 16:29:38,396 [INFO] [1431/1685] Processing 1T7Z chain A
+2026-02-05 16:29:40,121 [INFO] [1432/1685] Processing 1T80 chain A
+2026-02-05 16:29:40,140 [WARNING] [UniProt:Q95601] recommendedName missing
+2026-02-05 16:29:40,266 [WARNING] [UniProt:Q95601] used submissionNames
+2026-02-05 16:29:40,266 [INFO] [1433/1685] Processing 7ZQI chain A
+2026-02-05 16:29:42,131 [INFO] [1434/1685] Processing 7ZQJ chain A
+2026-02-05 16:29:42,686 [INFO] [1435/1685] Processing 1DE4 chain A
+2026-02-05 16:29:43,191 [INFO] [1436/1685] Processing 1T7V chain A
+2026-02-05 16:29:43,675 [INFO] [1437/1685] Processing 1ZS8 chain A
+2026-02-05 16:29:44,452 [INFO] [1438/1685] Processing 1T7W chain A
+2026-02-05 16:29:44,731 [INFO] [1439/1685] Processing 6R2U chain A
+2026-02-05 16:29:45,627 [WARNING] [UniProt:Q9BCW3] recommendedName missing
+2026-02-05 16:29:45,627 [WARNING] [UniProt:Q9BCW3] used submissionNames
+2026-02-05 16:29:45,628 [INFO] [1440/1685] Processing 4LCC chain C
+2026-02-05 16:29:46,567 [INFO] [1441/1685] Processing 1A6Z chain A
+2026-02-05 16:29:47,613 [WARNING] [UniProt:Q9TPA7] recommendedName missing
+2026-02-05 16:29:47,613 [WARNING] [UniProt:Q9TPA7] used submissionNames
+2026-02-05 16:29:47,614 [WARNING] [UniProt:Q9TPA7] gene name missing
+2026-02-05 16:29:47,614 [INFO] [1442/1685] Processing 1ZAG chain A
+2026-02-05 16:29:47,695 [INFO] [1443/1685] Processing 7RNO chain A
+2026-02-05 16:29:48,068 [INFO] [1444/1685] Processing 1C16 chain A
+2026-02-05 16:29:48,258 [INFO] [1445/1685] Processing 1R3H chain A
+2026-02-05 16:29:49,192 [WARNING] [SIFTS:6mwr] attempt 1/3 failed: HTTPSConnectionPool(host='www.ebi.ac.uk', port=443): Read timed out. (read timeout=10)
+2026-02-05 16:29:49,640 [INFO] [1446/1685] Processing 1YPZ chain A
+2026-02-05 16:29:52,687 [WARNING] [UniProt:O98187] recommendedName missing
+2026-02-05 16:29:52,688 [WARNING] [UniProt:O98187] used submissionNames
+2026-02-05 16:29:52,688 [WARNING] [UniProt:O98187] gene name missing
+2026-02-05 16:29:52,688 [INFO] [1447/1685] Processing 6NHA chain A
+2026-02-05 16:29:52,712 [INFO] [1448/1685] Processing 1FRT chain A
+2026-02-05 16:29:53,710 [WARNING] [UniProt:O98187] recommendedName missing
+2026-02-05 16:29:53,711 [WARNING] [UniProt:O98187] used submissionNames
+2026-02-05 16:29:53,711 [WARNING] [UniProt:O98187] gene name missing
+2026-02-05 16:29:53,711 [INFO] [1449/1685] Processing 6C98 chain A
+2026-02-05 16:29:54,042 [INFO] [1450/1685] Processing 7Q15 chain A
+2026-02-05 16:29:57,478 [INFO] [1451/1685] Processing 6WNA chain A
+2026-02-05 16:29:59,981 [WARNING] [UniProt:Q860W6] recommendedName missing
+2026-02-05 16:29:59,982 [WARNING] [UniProt:Q860W6] used submissionNames
+2026-02-05 16:29:59,982 [INFO] [1452/1685] Processing 6C97 chain A
+2026-02-05 16:30:00,003 [INFO] [1453/1685] Processing 3FRU chain A
+2026-02-05 16:30:01,062 [INFO] [1454/1685] Processing 6WOL chain A
+2026-02-05 16:30:01,174 [WARNING] [UniProt:Q9BCZ1] recommendedName missing
+2026-02-05 16:30:01,174 [WARNING] [UniProt:Q9BCZ1] used submissionNames
+2026-02-05 16:30:01,175 [INFO] [1455/1685] Processing 1I1A chain A
+2026-02-05 16:30:01,702 [INFO] [1456/1685] Processing 2WY3 chain A
+2026-02-05 16:30:01,713 [WARNING] [UniProt:Q31615] recommendedName missing
+2026-02-05 16:30:01,714 [WARNING] [UniProt:Q31615] used submissionNames
+2026-02-05 16:30:01,714 [INFO] [1457/1685] Processing 6QIO chain B
+2026-02-05 16:30:01,723 [INFO] [1458/1685] Processing 5BJT chain A
+2026-02-05 16:30:02,542 [INFO] [1459/1685] Processing 6C99 chain A
+2026-02-05 16:30:03,919 [INFO] [1460/1685] Processing 4N0F chain A
+2026-02-05 16:30:03,951 [INFO] [1461/1685] Processing 4N0U chain A
+2026-02-05 16:30:04,170 [INFO] [1462/1685] Processing 6FGB chain A
+2026-02-05 16:30:04,920 [INFO] [1463/1685] Processing 6LA6 chain E
+2026-02-05 16:30:05,299 [INFO] [1464/1685] Processing 3QUY chain A
+2026-02-05 16:30:05,693 [INFO] [1465/1685] Processing 6QIP chain B
+2026-02-05 16:30:08,780 [INFO] [1466/1685] Processing 6XNG chain A
+2026-02-05 16:30:10,418 [INFO] [1467/1685] Processing 6ILM chain E
+2026-02-05 16:30:11,217 [INFO] [1468/1685] Processing 7M72 chain A
+2026-02-05 16:30:11,554 [INFO] [1469/1685] Processing 6BNL chain A
+2026-02-05 16:30:12,422 [INFO] [1470/1685] Processing 6C6A chain A
+2026-02-05 16:30:12,939 [INFO] [1471/1685] Processing 6MIY chain A
+2026-02-05 16:30:12,944 [INFO] [1472/1685] Processing 4WO4 chain A
+2026-02-05 16:30:13,075 [INFO] [1473/1685] Processing 3JVG chain A
+2026-02-05 16:30:13,755 [INFO] [1474/1685] Processing 1JE6 chain A
+2026-02-05 16:30:14,174 [INFO] [1475/1685] Processing 8TM0 chain C
+2026-02-05 16:30:15,170 [INFO] [1476/1685] Processing 5WHK chain A
+2026-02-05 16:30:15,190 [INFO] [1477/1685] Processing 6A97 chain A
+2026-02-05 16:30:15,380 [INFO] [1478/1685] Processing 6V7Y chain A
+2026-02-05 16:30:16,155 [INFO] [1479/1685] Processing 6MJI chain A
+2026-02-05 16:30:20,010 [INFO] [1480/1685] Processing 6CYW chain A
+2026-02-05 16:30:20,759 [WARNING] [SIFTS:3quy] attempt 1/3 failed: HTTPSConnectionPool(host='www.ebi.ac.uk', port=443): Read timed out. (read timeout=10)
+2026-02-05 16:30:21,147 [WARNING] [SIFTS:6qip] attempt 1/3 failed: HTTPSConnectionPool(host='www.ebi.ac.uk', port=443): Read timed out. (read timeout=10)
+2026-02-05 16:30:21,626 [INFO] [1481/1685] Processing 6CW9 chain A
+2026-02-05 16:30:22,477 [INFO] [1482/1685] Processing 4Y16 chain A
+2026-02-05 16:30:22,775 [INFO] [1483/1685] Processing 3M17 chain A
+2026-02-05 16:30:23,725 [INFO] [1484/1685] Processing 8TM2 chain C
+2026-02-05 16:30:24,158 [INFO] [1485/1685] Processing 6MJA chain A
+2026-02-05 16:30:24,252 [INFO] [1486/1685] Processing 5BXF chain A
+2026-02-05 16:30:24,303 [WARNING] [UniProt:A5HUM9] recommendedName missing
+2026-02-05 16:30:24,304 [WARNING] [UniProt:A5HUM9] used submissionNames
+2026-02-05 16:30:24,304 [INFO] [1487/1685] Processing 8SOS chain E
+2026-02-05 16:30:25,126 [INFO] [1488/1685] Processing 3ARB chain A
+2026-02-05 16:30:26,381 [INFO] [1489/1685] Processing 4Y2D chain A
+2026-02-05 16:30:26,595 [INFO] [1490/1685] Processing 3ARD chain A
+2026-02-05 16:30:29,633 [WARNING] [SIFTS:8tm0] attempt 1/3 failed: HTTPSConnectionPool(host='www.ebi.ac.uk', port=443): Read timed out. (read timeout=10)
+2026-02-05 16:30:30,621 [WARNING] [SIFTS:5whk] attempt 1/3 failed: HTTPSConnectionPool(host='www.ebi.ac.uk', port=443): Read timed out. (read timeout=10)
+2026-02-05 16:30:31,246 [INFO] [1491/1685] Processing 4K71 chain B
+2026-02-05 16:30:31,606 [WARNING] [SIFTS:6mji] attempt 1/3 failed: HTTPSConnectionPool(host='www.ebi.ac.uk', port=443): Read timed out. (read timeout=10)
+2026-02-05 16:30:32,846 [INFO] [1492/1685] Processing 3SDX chain A
+2026-02-05 16:30:33,708 [INFO] [1493/1685] Processing 1ONQ chain A
+2026-02-05 16:30:33,961 [INFO] [1494/1685] Processing 1EXU chain A
+2026-02-05 16:30:33,981 [INFO] [1495/1685] Processing 6LA7 chain E
+2026-02-05 16:30:34,746 [INFO] [1496/1685] Processing 7MXF chain A
+2026-02-05 16:30:35,653 [INFO] [1497/1685] Processing 4IRS chain A
+2026-02-05 16:30:35,658 [INFO] [1498/1685] Processing 8TLZ chain A
+2026-02-05 16:30:35,737 [INFO] [1499/1685] Processing 3M1B chain A
+2026-02-05 16:30:36,652 [INFO] [1500/1685] Processing 3JTC chain A
+2026-02-05 16:30:37,592 [INFO] [1501/1685] Processing 3GMO chain A
+2026-02-05 16:30:37,819 [INFO] [1502/1685] Processing 3GMN chain A
+2026-02-05 16:30:41,351 [INFO] [1503/1685] Processing 7MX4 chain A
+2026-02-05 16:30:42,463 [INFO] [1504/1685] Processing 4MX7 chain A
+2026-02-05 16:30:42,974 [INFO] [1505/1685] Processing 6OJP chain A
+2026-02-05 16:30:45,180 [INFO] [1506/1685] Processing 6OMG chain A
+2026-02-05 16:30:45,182 [INFO] [1507/1685] Processing 7C9V chain E
+2026-02-05 16:30:46,876 [INFO] [1508/1685] Processing 5VCJ chain A
+2026-02-05 16:30:46,966 [INFO] [1509/1685] Processing 6CXA chain A
+2026-02-05 16:30:47,885 [INFO] [1510/1685] Processing 1KCG chain C
+2026-02-05 16:30:48,805 [INFO] [1511/1685] Processing 3GMQ chain A
+2026-02-05 16:30:49,032 [INFO] [1512/1685] Processing 4S0U chain C
+2026-02-05 16:30:49,810 [INFO] [1513/1685] Processing 3SDA chain A
+2026-02-05 16:30:49,814 [INFO] [1514/1685] Processing 3RUG chain A
+2026-02-05 16:30:50,688 [INFO] [1515/1685] Processing 2Q7Y chain A
+2026-02-05 16:30:50,745 [INFO] [1516/1685] Processing 5FKP chain A
+2026-02-05 16:30:50,781 [INFO] [1517/1685] Processing 3AU1 chain A
+2026-02-05 16:30:51,696 [INFO] [1518/1685] Processing 3TVM chain A
+2026-02-05 16:30:53,678 [INFO] [1519/1685] Processing 1B3J chain A
+2026-02-05 16:30:54,188 [INFO] [1520/1685] Processing 4Y4K chain A
+2026-02-05 16:30:56,414 [INFO] [1521/1685] Processing 3QI9 chain A
+2026-02-05 16:30:56,421 [INFO] [1522/1685] Processing 3U0P chain A
+2026-02-05 16:30:58,100 [INFO] [1523/1685] Processing 6C69 chain A
+2026-02-05 16:30:58,212 [INFO] [1524/1685] Processing 3GML chain A
+2026-02-05 16:30:58,306 [INFO] [1525/1685] Processing 6CWB chain A
+2026-02-05 16:30:59,110 [INFO] [1526/1685] Processing 6CXE chain A
+2026-02-05 16:31:00,236 [INFO] [1527/1685] Processing 3RZC chain A
+2026-02-05 16:31:01,281 [INFO] [1528/1685] Processing 6BMH chain A
+2026-02-05 16:31:01,861 [INFO] [1529/1685] Processing 1XZ0 chain A
+2026-02-05 16:31:01,944 [INFO] [1530/1685] Processing 4WW2 chain C
+2026-02-05 16:31:02,000 [INFO] [1531/1685] Processing 3UBX chain A
+2026-02-05 16:31:02,005 [INFO] [1532/1685] Processing 6V7Z chain A
+2026-02-05 16:31:02,878 [INFO] [1533/1685] Processing 1LQV chain A
+2026-02-05 16:31:05,320 [INFO] [1534/1685] Processing 6CWE chain A
+2026-02-05 16:31:05,446 [INFO] [1535/1685] Processing 8DV4 chain A
+2026-02-05 16:31:06,076 [INFO] [1536/1685] Processing 4EI5 chain A
+2026-02-05 16:31:07,670 [INFO] [1537/1685] Processing 4LHU chain A
+2026-02-05 16:31:08,264 [INFO] [1538/1685] Processing 3SDD chain A
+2026-02-05 16:31:09,377 [INFO] [1539/1685] Processing 8SGM chain A
+2026-02-05 16:31:09,545 [INFO] [1540/1685] Processing 3HUJ chain A
+2026-02-05 16:31:09,568 [INFO] [1541/1685] Processing 6SNY chain B
+2026-02-05 16:31:10,382 [INFO] [1542/1685] Processing 6MSS chain C
+2026-02-05 16:31:11,468 [INFO] [1543/1685] Processing 8DV3 chain A
+2026-02-05 16:31:13,079 [INFO] [1544/1685] Processing 6CX9 chain A
+2026-02-05 16:31:13,215 [INFO] [1545/1685] Processing 2GAZ chain A
+2026-02-05 16:31:13,227 [INFO] [1546/1685] Processing 3GMP chain A
+2026-02-05 16:31:13,255 [INFO] [1547/1685] Processing 4Y4H chain A
+2026-02-05 16:31:14,072 [INFO] [1548/1685] Processing 3D2U chain A
+2026-02-05 16:31:15,244 [INFO] [1549/1685] Processing 3O8X chain A
+2026-02-05 16:31:16,571 [INFO] [1550/1685] Processing 3VWK chain A
+2026-02-05 16:31:17,363 [INFO] [1551/1685] Processing 5EFI chain A
+2026-02-05 16:31:18,876 [INFO] [1552/1685] Processing 6MJ6 chain A
+2026-02-05 16:31:19,554 [INFO] [1553/1685] Processing 6MJQ chain A
+2026-02-05 16:31:20,769 [INFO] [1554/1685] Processing 4IRJ chain A
+2026-02-05 16:31:20,774 [INFO] [1555/1685] Processing 7RYO chain A
+2026-02-05 16:31:20,934 [WARNING] [SIFTS:8dv4] attempt 1/3 failed: HTTPSConnectionPool(host='www.ebi.ac.uk', port=443): Read timed out. (read timeout=10)
+2026-02-05 16:31:21,649 [INFO] [1556/1685] Processing 3GMR chain A
+2026-02-05 16:31:22,692 [INFO] [1557/1685] Processing 6MJJ chain A
+2026-02-05 16:31:24,438 [INFO] [1558/1685] Processing 3TZV chain C
+2026-02-05 16:31:24,445 [INFO] [1559/1685] Processing 1L8J chain A
+2026-02-05 16:31:24,461 [INFO] [1560/1685] Processing 7FI9 chain C
+2026-02-05 16:31:24,820 [WARNING] [SIFTS:8sgm] attempt 1/3 failed: HTTPSConnectionPool(host='www.ebi.ac.uk', port=443): Read timed out. (read timeout=10)
+2026-02-05 16:31:25,443 [INFO] [1561/1685] Processing 6CX7 chain A
+2026-02-05 16:31:26,492 [INFO] [1562/1685] Processing 6CXF chain A
+2026-02-05 16:31:27,785 [INFO] [1563/1685] Processing 7RYN chain A
+2026-02-05 16:31:28,659 [INFO] [1564/1685] Processing 8GLE chain A
+2026-02-05 16:31:30,100 [INFO] [1565/1685] Processing 4MNG chain A
+2026-02-05 16:31:30,769 [INFO] [1566/1685] Processing 3MA7 chain C
+2026-02-05 16:31:32,079 [INFO] [1567/1685] Processing 3SCM chain A
+2026-02-05 16:31:32,084 [INFO] [1568/1685] Processing 7MXH chain A
+2026-02-05 16:31:32,873 [INFO] [1569/1685] Processing 3GMM chain A
+2026-02-05 16:31:33,285 [INFO] [1570/1685] Processing 4F7C chain A
+2026-02-05 16:31:33,921 [INFO] [1571/1685] Processing 6C6C chain A
+2026-02-05 16:31:34,204 [INFO] [1572/1685] Processing 5TW5 chain A
+2026-02-05 16:31:35,673 [INFO] [1573/1685] Processing 6OOR chain A
+2026-02-05 16:31:35,818 [INFO] [1574/1685] Processing 7FI6 chain C
+2026-02-05 16:31:36,577 [INFO] [1575/1685] Processing 8GLF chain A
+2026-02-05 16:31:36,656 [INFO] [1576/1685] Processing 6MIV chain A
+2026-02-05 16:31:37,775 [INFO] [1577/1685] Processing 4Y4F chain A
+2026-02-05 16:31:38,037 [INFO] [1578/1685] Processing 3ILQ chain C
+2026-02-05 16:31:38,999 [INFO] [1579/1685] Processing 3TN0 chain A
+2026-02-05 16:31:41,978 [INFO] [1580/1685] Processing 2AKR chain A
+2026-02-05 16:31:43,309 [INFO] [1581/1685] Processing 3O9W chain A
+2026-02-05 16:31:44,098 [INFO] [1582/1685] Processing 5L2J chain A
+2026-02-05 16:31:44,123 [WARNING] [SIFTS:8gle] attempt 1/3 failed: HTTPSConnectionPool(host='www.ebi.ac.uk', port=443): Read timed out. (read timeout=10)
+2026-02-05 16:31:44,545 [WARNING] [UniProt:A1L565] recommendedName missing
+2026-02-05 16:31:44,546 [WARNING] [UniProt:A1L565] used submissionNames
+2026-02-05 16:31:44,546 [INFO] [1583/1685] Processing 3G08 chain A
+2026-02-05 16:31:45,147 [INFO] [1584/1685] Processing 4EN3 chain C
+2026-02-05 16:31:45,739 [INFO] [1585/1685] Processing 6C6H chain A
+2026-02-05 16:31:46,909 [INFO] [1586/1685] Processing 3ARE chain A
+2026-02-05 16:31:47,192 [INFO] [1587/1685] Processing 7KP1 chain A
+2026-02-05 16:31:47,841 [INFO] [1588/1685] Processing 6MJ4 chain A
+2026-02-05 16:31:49,237 [INFO] [1589/1685] Processing 1Z5L chain A
+2026-02-05 16:31:49,255 [INFO] [1590/1685] Processing 3QUZ chain A
+2026-02-05 16:31:50,265 [INFO] [1591/1685] Processing 4ZAK chain A
+2026-02-05 16:31:51,124 [WARNING] [SIFTS:6oor] attempt 1/3 failed: HTTPSConnectionPool(host='www.ebi.ac.uk', port=443): Read timed out. (read timeout=10)
+2026-02-05 16:31:52,115 [WARNING] [SIFTS:6miv] attempt 1/3 failed: HTTPSConnectionPool(host='www.ebi.ac.uk', port=443): Read timed out. (read timeout=10)
+2026-02-05 16:31:53,205 [INFO] [1592/1685] Processing 7OKS chain A
+2026-02-05 16:31:53,222 [WARNING] [SIFTS:4y4f] attempt 1/3 failed: HTTPSConnectionPool(host='www.ebi.ac.uk', port=443): Read timed out. (read timeout=10)
+2026-02-05 16:31:54,543 [INFO] [1593/1685] Processing 3ARF chain A
+2026-02-05 16:31:55,343 [INFO] [1594/1685] Processing 8SGB chain A
+2026-02-05 16:31:55,797 [INFO] [1595/1685] Processing 1CD1 chain A
+2026-02-05 16:31:56,372 [INFO] [1596/1685] Processing 6NUX chain A
+2026-02-05 16:31:56,950 [INFO] [1597/1685] Processing 1GZP chain A
+2026-02-05 16:31:57,318 [INFO] [1598/1685] Processing 1HYR chain C
+2026-02-05 16:31:58,448 [INFO] [1599/1685] Processing 8GLH chain A
+2026-02-05 16:31:59,051 [INFO] [1600/1685] Processing 2FIK chain A
+2026-02-05 16:32:00,473 [INFO] [1601/1685] Processing 7FI5 chain C
+2026-02-05 16:32:01,456 [INFO] [1602/1685] Processing 7KP0 chain A
+2026-02-05 16:32:01,465 [INFO] [1603/1685] Processing 5C9J chain A
+2026-02-05 16:32:02,201 [INFO] [1604/1685] Processing 4X6D chain A
+2026-02-05 16:32:04,343 [INFO] [1605/1685] Processing 4V3E chain B
+2026-02-05 16:32:04,449 [INFO] [1606/1685] Processing 3QUX chain A
+2026-02-05 16:32:05,358 [INFO] [1607/1685] Processing 6C6F chain A
+2026-02-05 16:32:05,777 [INFO] [1608/1685] Processing 6C6J chain A
+2026-02-05 16:32:06,487 [INFO] [1609/1685] Processing 5WL1 chain A
+2026-02-05 16:32:06,563 [INFO] [1610/1685] Processing 3RTQ chain A
+2026-02-05 16:32:07,026 [INFO] [1611/1685] Processing 3OV6 chain A
+2026-02-05 16:32:07,624 [INFO] [1612/1685] Processing 3T1F chain A
+2026-02-05 16:32:08,180 [INFO] [1613/1685] Processing 3TA3 chain A
+2026-02-05 16:32:08,668 [INFO] [1614/1685] Processing 7OKU chain A
+2026-02-05 16:32:09,664 [INFO] [1615/1685] Processing 5TW2 chain A
+2026-02-05 16:32:10,256 [INFO] [1616/1685] Processing 6CW6 chain A
+2026-02-05 16:32:11,809 [INFO] [1617/1685] Processing 7RYM chain A
+2026-02-05 16:32:12,727 [INFO] [1618/1685] Processing 8GLI chain A
+2026-02-05 16:32:13,408 [INFO] [1619/1685] Processing 4ELM chain A
+2026-02-05 16:32:15,706 [INFO] [1620/1685] Processing 3T8X chain A
+2026-02-05 16:32:16,565 [INFO] [1621/1685] Processing 6CX5 chain A
+2026-02-05 16:32:17,781 [INFO] [1622/1685] Processing 6C6E chain A
+2026-02-05 16:32:18,742 [INFO] [1623/1685] Processing 4APQ chain A
+2026-02-05 16:32:19,079 [INFO] [1624/1685] Processing 6D64 chain A
+2026-02-05 16:32:19,182 [INFO] [1625/1685] Processing 7SH4 chain A
+2026-02-05 16:32:19,714 [INFO] [1626/1685] Processing 4V3D chain D
+2026-02-05 16:32:19,797 [WARNING] [SIFTS:4v3e] attempt 1/3 failed: HTTPSConnectionPool(host='www.ebi.ac.uk', port=443): Read timed out. (read timeout=10)
+2026-02-05 16:32:19,884 [INFO] [1627/1685] Processing 6BMK chain A
+2026-02-05 16:32:20,890 [INFO] [1628/1685] Processing 6C5M chain A
+2026-02-05 16:32:21,229 [WARNING] [SIFTS:6c6j] attempt 1/3 failed: HTTPSConnectionPool(host='www.ebi.ac.uk', port=443): Read timed out. (read timeout=10)
+2026-02-05 16:32:21,644 [INFO] [1629/1685] Processing 6C09 chain A
+2026-02-05 16:32:23,035 [INFO] [1630/1685] Processing 8GLG chain A
+2026-02-05 16:32:23,933 [INFO] [1631/1685] Processing 2PO6 chain A
+2026-02-05 16:32:24,635 [INFO] [1632/1685] Processing 4X6E chain A
+2026-02-05 16:32:26,939 [INFO] [1633/1685] Processing 7OKV chain A
+2026-02-05 16:32:27,800 [INFO] [1634/1685] Processing 4ONO chain A
+2026-02-05 16:32:28,993 [INFO] [1635/1685] Processing 7FI7 chain C
+2026-02-05 16:32:29,944 [INFO] [1636/1685] Processing 6CUG chain A
+2026-02-05 16:32:30,399 [INFO] [1637/1685] Processing 1GZQ chain A
+2026-02-05 16:32:30,468 [INFO] [1638/1685] Processing 7Q5D chain A
+2026-02-05 16:32:30,920 [INFO] [1639/1685] Processing 2H26 chain A
+2026-02-05 16:32:31,134 [INFO] [1640/1685] Processing 1ZHN chain A
+2026-02-05 16:32:32,099 [INFO] [1641/1685] Processing 3TO4 chain A
+2026-02-05 16:32:32,843 [INFO] [1642/1685] Processing 4WWK chain C
+2026-02-05 16:32:32,970 [INFO] [1643/1685] Processing 5L2K chain A
+2026-02-05 16:32:34,622 [INFO] [1644/1685] Processing 7OKT chain A
+2026-02-05 16:32:34,704 [INFO] [1645/1685] Processing 3SDC chain A
+2026-02-05 16:32:35,176 [INFO] [1646/1685] Processing 8GM8 chain A
+2026-02-05 16:32:35,848 [INFO] [1647/1685] Processing 3VWJ chain A
+2026-02-05 16:32:36,876 [INFO] [1648/1685] Processing 5J1A chain A
+2026-02-05 16:32:38,139 [INFO] [1649/1685] Processing 5WKE chain A
+2026-02-05 16:32:40,392 [INFO] [1650/1685] Processing 6BNK chain A
+2026-02-05 16:32:40,790 [ERROR] [ERROR] [8GM8:A] no compatible UniProt mapping
+2026-02-05 16:32:40,791 [INFO] [1651/1685] Processing 5WKG chain A
+2026-02-05 16:32:41,650 [INFO] [1652/1685] Processing 1ZT4 chain A
+2026-02-05 16:32:41,743 [INFO] [1653/1685] Processing 6V80 chain A
+2026-02-05 16:32:42,188 [INFO] [1654/1685] Processing 3ARG chain A
+2026-02-05 16:32:42,382 [INFO] [1655/1685] Processing 8T4Z chain A
+2026-02-05 16:32:44,090 [INFO] [1656/1685] Processing 4MQ7 chain A
+2026-02-05 16:32:45,394 [WARNING] [SIFTS:6cug] attempt 1/3 failed: HTTPSConnectionPool(host='www.ebi.ac.uk', port=443): Read timed out. (read timeout=10)
+2026-02-05 16:32:45,869 [INFO] [1657/1685] Processing 3ILP chain A
+2026-02-05 16:32:47,080 [INFO] [1658/1685] Processing 3HE6 chain A
+2026-02-05 16:32:47,550 [WARNING] [SIFTS:3to4] attempt 1/3 failed: HTTPSConnectionPool(host='www.ebi.ac.uk', port=443): Read timed out. (read timeout=10)
+2026-02-05 16:32:48,084 [INFO] [1659/1685] Processing 3HE7 chain A
+2026-02-05 16:32:48,442 [WARNING] [SIFTS:5l2k] attempt 1/3 failed: HTTPSConnectionPool(host='www.ebi.ac.uk', port=443): Read timed out. (read timeout=10)
+2026-02-05 16:32:49,360 [INFO] [1660/1685] Processing 7FI8 chain C
+2026-02-05 16:32:50,166 [WARNING] [SIFTS:3sdc] attempt 1/3 failed: HTTPSConnectionPool(host='www.ebi.ac.uk', port=443): Read timed out. (read timeout=10)
+2026-02-05 16:32:50,440 [INFO] [1661/1685] Processing 4F7E chain A
+2026-02-05 16:32:51,648 [INFO] [1662/1685] Processing 5WKI chain A
+2026-02-05 16:32:52,047 [INFO] [1663/1685] Processing 8ZOX chain A
+2026-02-05 16:32:52,962 [INFO] [1664/1685] Processing 7KOZ chain A
+2026-02-05 16:32:53,415 [INFO] [1665/1685] Processing 8C44 chain C
+2026-02-05 16:32:53,607 [INFO] [1666/1685] Processing 7B5F chain G
+2026-02-05 16:32:53,870 [INFO] [1667/1685] Processing 1UQS chain A
+2026-02-05 16:32:57,099 [INFO] [1668/1685] Processing 3L9R chain A
+2026-02-05 16:32:58,302 [INFO] [1669/1685] Processing 4X6F chain A
+2026-02-05 16:32:58,585 [INFO] [1670/1685] Processing 3DBX chain A
+2026-02-05 16:32:59,286 [INFO] [1671/1685] Processing 4X6C chain A
+2026-02-05 16:33:00,760 [INFO] [1672/1685] Processing 4FFE chain X
+2026-02-05 16:33:00,923 [INFO] [1673/1685] Processing 6C15 chain A
+2026-02-05 16:33:01,061 [INFO] [1674/1685] Processing 7XXA chain E
+2026-02-05 16:33:01,653 [WARNING] [UniProt:A1L565] recommendedName missing
+2026-02-05 16:33:01,653 [WARNING] [UniProt:A1L565] used submissionNames
+2026-02-05 16:33:01,654 [INFO] [1675/1685] Processing 3S6C chain A
+2026-02-05 16:33:01,677 [INFO] [1676/1685] Processing 4PDC chain E
+2026-02-05 16:33:02,859 [INFO] [1677/1685] Processing 3IT8 chain D
+2026-02-05 16:33:03,563 [INFO] [1678/1685] Processing 1JFM chain A
+2026-02-05 16:33:03,569 [INFO] [1679/1685] Processing 1PQZ chain A
+2026-02-05 16:33:04,176 [INFO] [1680/1685] Processing 4G59 chain A
+2026-02-05 16:33:04,649 [INFO] [1681/1685] Processing 2O5N chain B
+2026-02-05 16:33:04,829 [INFO] [1682/1685] Processing 1U58 chain A
+2026-02-05 16:33:05,184 [INFO] [1683/1685] Processing 4PP8 chain C
+2026-02-05 16:33:08,324 [WARNING] [UniProt:Q1L1H6] recommendedName missing
+2026-02-05 16:33:08,325 [WARNING] [UniProt:Q1L1H6] used submissionNames
+2026-02-05 16:33:08,325 [INFO] [1684/1685] Processing 2NYK chain A
+2026-02-05 16:33:09,363 [ERROR] [ERROR] [1PQZ:A] no compatible UniProt mapping
+2026-02-05 16:33:09,363 [INFO] [1685/1685] Processing 4JO8 chain A
+2026-02-05 16:33:09,820 [WARNING] [UniProt:Q5GL29] recommendedName missing
+2026-02-05 16:33:09,820 [WARNING] [UniProt:Q5GL29] used submissionNames
+2026-02-05 16:33:09,820 [WARNING] [UniProt:Q5GL29] gene name missing
+2026-02-05 16:33:10,262 [WARNING] [SIFTS:2o5n] attempt 1/3 failed: 404 Client Error: Not Found for url: https://www.ebi.ac.uk/pdbe/api/mappings/uniprot/2o5n
+2026-02-05 16:33:12,646 [WARNING] [UniProt:Q8QN43] recommendedName missing
+2026-02-05 16:33:12,646 [WARNING] [UniProt:Q8QN43] used submissionNames
+2026-02-05 16:33:12,893 [WARNING] [UniProt:Q8QN43] recommendedName missing
+2026-02-05 16:33:12,894 [WARNING] [UniProt:Q8QN43] used submissionNames
+2026-02-05 16:33:14,069 [WARNING] [UniProt:Q9DHW0] recommendedName missing
+2026-02-05 16:33:14,069 [WARNING] [UniProt:Q9DHW0] used submissionNames
+2026-02-05 16:33:16,052 [WARNING] [UniProt:A2Q6L5] recommendedName missing
+2026-02-05 16:33:16,053 [WARNING] [UniProt:A2Q6L5] used submissionNames
+2026-02-05 16:33:17,872 [WARNING] [SIFTS:2o5n] attempt 2/3 failed: 404 Client Error: Not Found for url: https://www.ebi.ac.uk/pdbe/api/mappings/uniprot/2o5n
+2026-02-05 16:33:19,584 [WARNING] [UniProt:Q6XK79] recommendedName missing
+2026-02-05 16:33:19,584 [WARNING] [UniProt:Q6XK79] used submissionNames
+2026-02-05 16:33:19,584 [WARNING] [UniProt:Q6XK79] gene name missing
+2026-02-05 16:33:20,724 [WARNING] [UniProt:Q6XK91] recommendedName missing
+2026-02-05 16:33:20,724 [WARNING] [UniProt:Q6XK91] used submissionNames
+2026-02-05 16:33:27,477 [WARNING] [SIFTS:2o5n] attempt 3/3 failed: 404 Client Error: Not Found for url: https://www.ebi.ac.uk/pdbe/api/mappings/uniprot/2o5n
+2026-02-05 16:33:35,478 [ERROR] [ERROR] [SIFTS:2o5n] failed after 3 attempts
+2026-02-05 16:33:35,480 [ERROR] [SIFTS:2o5n] no valid UniProt mapping
+2026-02-05 16:33:35,480 [ERROR] [ERROR] [2O5N:B] no SIFTS UniProt mappings available
+2026-02-05 16:33:35,512 [INFO] Final CSV written: /mnt/4TB/giovanna/foldseek/version_02/analysis/functional_annotation/mhc/mhc_annotations-4.csv
+2026-02-05 16:33:35,513 [INFO] Error CSV written: /mnt/4TB/giovanna/foldseek/version_02/analysis/functional_annotation/mhc/mhc_annotations.errors.csv
+2026-02-05 16:33:35,513 [INFO] Log file written: /mnt/4TB/giovanna/foldseek/version_02/analysis/functional_annotation/mhc/mhc_annotations-4.log

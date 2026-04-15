@@ -1,0 +1,201 @@
+=== Results ===
+
+Group: CD1
+Alanine              (ALA) :   4.49%
+Arginine             (ARG) :   8.57%
+Asparagine           (ASN) :   6.12%
+Aspartic acid        (ASP) :   5.71%
+Glutamine            (GLN) :   8.57%
+Glutamic acid        (GLU) :   9.80%
+Glycine              (GLY) :   4.08%
+Histidine            (HIS) :   4.08%
+Isoleucine           (ILE) :   5.71%
+Leucine              (LEU) :  11.84%
+Lysine               (LYS) :   5.71%
+Methionine           (MET) :   1.22%
+Phenylalanine        (PHE) :   4.08%
+Proline              (PRO) :   1.22%
+Serine               (SER) :   6.53%
+Threonine            (THR) :   3.27%
+Tryptophan           (TRP) :   1.22%
+Tyrosine             (TYR) :   4.49%
+Valine               (VAL) :   3.27%
+Total residues considered: 245
+
+Group: EPCR
+Alanine              (ALA) :   6.25%
+Arginine             (ARG) :  10.42%
+Asparagine           (ASN) :   6.25%
+Aspartic acid        (ASP) :   2.08%
+Glutamine            (GLN) :  14.58%
+Glutamic acid        (GLU) :   8.33%
+Glycine              (GLY) :   8.33%
+Histidine            (HIS) :   2.08%
+Leucine              (LEU) :   8.33%
+Lysine               (LYS) :   4.17%
+Phenylalanine        (PHE) :   2.08%
+Proline              (PRO) :   2.08%
+Serine               (SER) :   6.25%
+Threonine            (THR) :  10.42%
+Tyrosine             (TYR) :   6.25%
+Valine               (VAL) :   2.08%
+Total residues considered: 48
+
+Group: FcRn
+Alanine              (ALA) :   6.52%
+Arginine             (ARG) :  10.87%
+Asparagine           (ASN) :   6.52%
+Aspartic acid        (ASP) :   4.35%
+Glutamine            (GLN) :   8.70%
+Glutamic acid        (GLU) :   6.52%
+Glycine              (GLY) :   4.35%
+Histidine            (HIS) :   2.17%
+Isoleucine           (ILE) :   2.17%
+Leucine              (LEU) :  13.04%
+Lysine               (LYS) :  10.87%
+Phenylalanine        (PHE) :   2.17%
+Proline              (PRO) :   2.17%
+Serine               (SER) :   4.35%
+Threonine            (THR) :   4.35%
+Tryptophan           (TRP) :   6.52%
+Valine               (VAL) :   4.35%
+Total residues considered: 46
+
+Group: HFE
+Alanine              (ALA) :   4.65%
+Arginine             (ARG) :  16.28%
+Asparagine           (ASN) :   2.33%
+Aspartic acid        (ASP) :   2.33%
+Glutamine            (GLN) :  13.95%
+Glutamic acid        (GLU) :   9.30%
+Glycine              (GLY) :   2.33%
+Histidine            (HIS) :   4.65%
+Isoleucine           (ILE) :   2.33%
+Leucine              (LEU) :   6.98%
+Lysine               (LYS) :   4.65%
+Proline              (PRO) :   6.98%
+Serine               (SER) :  11.63%
+Threonine            (THR) :   2.33%
+Tryptophan           (TRP) :   6.98%
+Valine               (VAL) :   2.33%
+Total residues considered: 43
+
+Group: HLA Class Ia
+Alanine              (ALA) :   8.44%
+Arginine             (ARG) :  17.53%
+Asparagine           (ASN) :   3.90%
+Aspartic acid        (ASP) :   3.25%
+Glutamine            (GLN) :  12.34%
+Glutamic acid        (GLU) :  16.88%
+Glycine              (GLY) :   6.49%
+Histidine            (HIS) :   0.65%
+Isoleucine           (ILE) :   2.60%
+Leucine              (LEU) :   1.30%
+Lysine               (LYS) :   6.49%
+Methionine           (MET) :   0.65%
+Proline              (PRO) :   3.90%
+Serine               (SER) :   1.30%
+Threonine            (THR) :   6.49%
+Tryptophan           (TRP) :   2.60%
+Tyrosine             (TYR) :   3.90%
+Valine               (VAL) :   1.30%
+Total residues considered: 154
+
+Group: HLA Class Ib
+Alanine              (ALA) :   6.32%
+Arginine             (ARG) :  16.84%
+Asparagine           (ASN) :   5.26%
+Aspartic acid        (ASP) :   2.63%
+Glutamine            (GLN) :   9.47%
+Glutamic acid        (GLU) :  20.53%
+Glycine              (GLY) :   5.26%
+Histidine            (HIS) :   1.58%
+Isoleucine           (ILE) :   3.16%
+Lysine               (LYS) :   7.37%
+Methionine           (MET) :   1.58%
+Phenylalanine        (PHE) :   0.53%
+Proline              (PRO) :   3.68%
+Serine               (SER) :   1.58%
+Threonine            (THR) :   6.32%
+Tryptophan           (TRP) :   1.58%
+Tyrosine             (TYR) :   4.74%
+Valine               (VAL) :   1.58%
+Total residues considered: 190
+
+Group: MIC
+Alanine              (ALA) :   8.79%
+Arginine             (ARG) :  13.19%
+Asparagine           (ASN) :   7.69%
+Aspartic acid        (ASP) :  10.99%
+Glutamine            (GLN) :   8.79%
+Glutamic acid        (GLU) :   6.59%
+Glycine              (GLY) :   3.30%
+Histidine            (HIS) :   5.49%
+Leucine              (LEU) :   2.20%
+Lysine               (LYS) :   9.89%
+Methionine           (MET) :   5.49%
+Serine               (SER) :   2.20%
+Threonine            (THR) :  10.99%
+Tryptophan           (TRP) :   2.20%
+Valine               (VAL) :   2.20%
+Total residues considered: 91
+
+Group: MR1
+Alanine              (ALA) :  10.20%
+Arginine             (ARG) :  10.20%
+Asparagine           (ASN) :   8.16%
+Aspartic acid        (ASP) :   2.04%
+Glutamine            (GLN) :   8.16%
+Glutamic acid        (GLU) :  16.33%
+Glycine              (GLY) :   2.04%
+Histidine            (HIS) :   6.12%
+Leucine              (LEU) :   6.12%
+Lysine               (LYS) :   8.16%
+Methionine           (MET) :   2.04%
+Proline              (PRO) :   4.08%
+Threonine            (THR) :   2.04%
+Tryptophan           (TRP) :   4.08%
+Tyrosine             (TYR) :   8.16%
+Valine               (VAL) :   2.04%
+Total residues considered: 49
+
+Group: ULBP
+Alanine              (ALA) :   3.53%
+Arginine             (ARG) :   8.63%
+Asparagine           (ASN) :   3.14%
+Aspartic acid        (ASP) :  11.37%
+Cysteine             (CYS) :   0.39%
+Glutamine            (GLN) :   2.35%
+Glutamic acid        (GLU) :  13.33%
+Glycine              (GLY) :   7.45%
+Histidine            (HIS) :   1.57%
+Leucine              (LEU) :   4.31%
+Lysine               (LYS) :  18.43%
+Methionine           (MET) :   6.67%
+Phenylalanine        (PHE) :   1.18%
+Proline              (PRO) :   4.31%
+Serine               (SER) :   3.92%
+Threonine            (THR) :   4.31%
+Tryptophan           (TRP) :   0.78%
+Tyrosine             (TYR) :   2.75%
+Valine               (VAL) :   1.57%
+Total residues considered: 255
+
+Group: ZAG
+Alanine              (ALA) :   8.16%
+Arginine             (ARG) :   8.16%
+Aspartic acid        (ASP) :   6.12%
+Glutamine            (GLN) :  12.24%
+Glutamic acid        (GLU) :  18.37%
+Glycine              (GLY) :   4.08%
+Isoleucine           (ILE) :   4.08%
+Leucine              (LEU) :   4.08%
+Lysine               (LYS) :  16.33%
+Methionine           (MET) :   2.04%
+Proline              (PRO) :   2.04%
+Threonine            (THR) :   2.04%
+Tryptophan           (TRP) :   2.04%
+Tyrosine             (TYR) :   6.12%
+Valine               (VAL) :   4.08%
+Total residues considered: 49
+

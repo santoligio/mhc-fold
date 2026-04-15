@@ -1,0 +1,25 @@
+=== Results ===
+
+Group: all
+Alanine              (ALA) :   7.65%
+Arginine             (ARG) :  13.62%
+Asparagine           (ASN) :   3.94%
+Aspartic acid        (ASP) :   3.71%
+Cysteine             (CYS) :   0.06%
+Glutamine            (GLN) :   9.55%
+Glutamic acid        (GLU) :  16.86%
+Glycine              (GLY) :   5.77%
+Histidine            (HIS) :   3.04%
+Isoleucine           (ILE) :   2.13%
+Leucine              (LEU) :   2.00%
+Lysine               (LYS) :   7.92%
+Methionine           (MET) :   1.21%
+Phenylalanine        (PHE) :   0.36%
+Proline              (PRO) :   3.63%
+Serine               (SER) :   1.24%
+Threonine            (THR) :   7.61%
+Tryptophan           (TRP) :   3.14%
+Tyrosine             (TYR) :   4.32%
+Valine               (VAL) :   2.26%
+Total residues considered: 56128
+

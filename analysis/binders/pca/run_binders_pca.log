@@ -1,0 +1,6 @@
+Loading 26 TM-align chunks
+Loaded 253,116 pairwise comparisons
+Found 712 unique binder structures
+PCA finished
+Explained variance: [0.5941559  0.37752897]
+Saved PCA results to /mnt/4TB/giovanna/foldseek/version_02/analysis/binders/pca/pca_result_binders.csv

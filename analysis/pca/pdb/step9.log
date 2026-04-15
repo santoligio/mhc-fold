@@ -1,0 +1,6 @@
+Loading 69 TM-align chunks
+Loaded 680,361 pairwise comparisons
+Found 1167 unique PDB structures
+PCA finished
+Explained variance: [0.9397927  0.01947914]
+Saved PCA results to /mnt/4TB/giovanna/foldseek/version_02/analysis/pca/pdb_pca_result_mhc.csv

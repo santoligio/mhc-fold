@@ -1,0 +1,6 @@
+Loading 17 TM-align chunks
+Loaded 165,600 pairwise comparisons
+Found 576 unique AFDB structures
+PCA finished
+Explained variance: [0.9733985 0.0171278]
+Saved PCA results to /mnt/4TB/giovanna/foldseek/version_02/analysis/pca/afdb_pca_result_mhc.csv
