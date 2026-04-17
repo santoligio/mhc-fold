@@ -18,8 +18,6 @@ CSV_FILE = "/mnt/4TB/giovanna/foldseek/version_02/filter/step1/pdb/pdb_assemblie
 BASE_OUT_DIR     = "/mnt/4TB/giovanna/foldseek/version_02/filter/step3/pdb-teste"
 REMAPPED_CIF_DIR = os.path.join(BASE_OUT_DIR, "remapped_cifs")
 
-GAPS_CSV = os.path.join(BASE_OUT_DIR, "mhc_chain_gaps.csv")
-
 CUTOFF_DISTANCE = 10.0
 
 os.makedirs(BASE_OUT_DIR, exist_ok=True)
@@ -130,52 +128,6 @@ def remap_chain_ids(structure, rename_needed, mhc_chain_id):
 
 
 # =========================
-# GAP CALCULATION (NEW)
-# =========================
-def calculate_mhc_gaps(chain, tstart, tend):
-    """
-    tstart/tend are in RENumbered coordinates.
-    Gaps are counted in AUTH coordinates.
-    """
-
-    # Collect residues in original auth order
-    auth_resseqs = []
-    for res in chain.get_residues():
-        hetflag, auth_resseq, _ = res.id
-        if hetflag.strip():
-            continue
-        auth_resseqs.append(auth_resseq)
-
-    if not auth_resseqs:
-        return 0
-
-    # Map renumbered index → auth resseq
-    renum_to_auth = {
-        idx + 1: auth
-        for idx, auth in enumerate(auth_resseqs)
-    }
-
-    # Extract auth residues corresponding to tstart–tend
-    region_auth = [
-        renum_to_auth[i]
-        for i in range(tstart, tend + 1)
-        if i in renum_to_auth
-    ]
-
-    if len(region_auth) < 2:
-        return 0
-
-    # Count gaps in auth numbering
-    total_gaps = 0
-    for prev, curr in zip(region_auth, region_auth[1:]):
-        gap = curr - prev - 1
-        if gap > 0:
-            total_gaps += gap
-
-    return total_gaps
-
-
-# =========================
 # Main per-file processing
 # =========================
 def process_cif(cif_path, mhc_chain_id, tstart, tend, out_dir):
@@ -188,12 +140,9 @@ def process_cif(cif_path, mhc_chain_id, tstart, tend, out_dir):
 
     if mhc_chain_id not in model:
         print(f"[SKIP] {pdb_id}: MHC chain {mhc_chain_id} not found")
-        return None, None
+        return None
 
     mhc_chain = model[mhc_chain_id]
-
-    # --- GAP CALCULATION BEFORE RENNUMBERING ---
-    total_gaps = calculate_mhc_gaps(mhc_chain, tstart, tend)
 
     # --- RENNUMBER MHC ---
     renumber_mhc_chain(mhc_chain)
@@ -216,7 +165,7 @@ def process_cif(cif_path, mhc_chain_id, tstart, tend, out_dir):
 
     print(f"[OK] {pdb_id} → {out_cif}")
 
-    return target_ids, total_gaps
+    return target_ids
 
 
 # =========================
@@ -228,7 +177,6 @@ def main():
 
     mapping_rows = []
     updated_rows = []
-    gap_rows = []
 
     for _, row in df_primary.iterrows():
 
@@ -239,7 +187,7 @@ def main():
         if not os.path.exists(cif_path):
             continue
 
-        chain_map, gaps = process_cif(
+        chain_map = process_cif(
             cif_path,
             row["chain"],
             int(row["tstart"]),
@@ -249,11 +197,6 @@ def main():
 
         if chain_map is None:
             continue
-
-        gap_rows.append({
-            "pdb_id": pdb_id,
-            "total_gaps": gaps
-        })
 
         for old_chain, new_chain in chain_map.items():
             mapping_rows.append({
@@ -268,12 +211,6 @@ def main():
         mapping_csv = os.path.join(BASE_OUT_DIR, "chain_id_mapping.csv")
         mapping_df.to_csv(mapping_csv, index=False)
         print(f"[MAPPING CSV WRITTEN] {mapping_csv}")
-
-    # --- write gaps CSV ---
-    if gap_rows:
-        gaps_df = pd.DataFrame(gap_rows)
-        gaps_df.to_csv(GAPS_CSV, index=False)
-        print(f"[GAPS CSV WRITTEN] {GAPS_CSV}")
 
     # --- write remapped pdb_assemblies CSV ---
     for _, row in df_csv.iterrows():
